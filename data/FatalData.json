@@ -1,0 +1,5142 @@
+[
+  {
+    {
+        "date":  "2009-09-11 00:00:00",
+        "name":  "Tracy Milillo",
+        "age":  "22",
+        "city":  "Brookline",
+        "link":  "http://archive.boston.com/yourtown/news/brookline/2009/10/ghost_bike_appears_at_fatality.html",
+        "coord":  {
+                   "lon":  -71.112426,
+                   "lat":  42.334878
+                   }
+    },
+    {
+        "date":  "2010-01-16 00:00:00",
+        "name":  "Colin Fitzpatrick Alloyius D'Aguiar ",
+        "age":  "35",
+        "city":  "Natick",
+        "link":  "http://www.metrowestdailynews.com/x1685422043/Man-killed-in-Natick-crash-identified",
+        "coord":  {
+                   "lon":  -71.379535,
+                   "lat":  42.282508
+                   }
+    },
+    {
+        "date":  "2010-04-07 00:00:00",
+        "name":  "Eric Michael Hunt",
+        "age":  "22",
+        "city":  "Boston",
+        "link":  "http://ghostbikes.org/boston/eric-michael-hunt",
+        "coord":  {
+                   "lon":  -71.112085,
+                   "lat":  42.331995
+                   }
+    },
+    {
+        "date":  "2010-05-17 00:00:00",
+        "name":  "Andy von Guerard",
+        "age":  "21",
+        "city":  "Newton",
+        "link":  "http://newton.wickedlocal.com/x1070012858/Colorado-man-dies-after-bike-crash-on-Commonwealth-Ave-in-Newton",
+        "coord":  {
+                   "lon":  -71.211581,
+                   "lat":  42.338081
+                   }
+    },
+    {
+        "date":  "2010-07-06 00:00:00",
+        "name":  "Diane Dececca",
+        "age":  "40",
+        "city":  "Vineyard Haven",
+        "link":  "http://www.mvtimes.com/2010/07/08/bicyclist-killed-state-road-accident-1490/",
+        "coord":  {
+                   "lon":  -70.604338,
+                   "lat":  41.452743
+                   }
+    },
+    {
+        "date":  "2010-08-09 00:00:00",
+        "name":  "Marlene Pineda",
+        "age":  "24",
+        "city":  "Boston",
+        "link":  "http://blogs.wickedlocal.com/cambridge/2010/08/11/woman-killed-in-bike-accident-had-cambridge-ties/#axzz4Kq1RmuaR",
+        "coord":  {
+                   "lon":  -71.140272,
+                   "lat":  42.348638
+                   }
+    },
+    {
+        "date":  "2010-09-20 00:00:00",
+        "name":  "Eric John Gray-Kennedy",
+        "age":  "46",
+        "city":  "Boston",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.072156,
+                   "lat":  42.332613
+                   }
+    },
+    {
+        "date":  "2011-01-24 00:00:00",
+        "name":  "unkNown  male ",
+        "age":  "74",
+        "city":  "Boston",
+        "link":  "http://bostoncyclistsunion.org/about_us/in-the-news/",
+        "coord":  {
+                   "lon":  -71.068653,
+                   "lat":  42.348035
+                   }
+    },
+    {
+        "date":  "2011-03-30 00:00:00",
+        "name":  "Stanley Sabin",
+        "age":  "74",
+        "city":  "Millis",
+        "link":  "http://www.metrowestdailynews.com/x1053026828/Crash-victim-remembered-as-consummate-physician",
+        "coord":  {
+                   "lon":  -71.361578,
+                   "lat":  42.191631
+                   }
+    },
+    {
+        "date":  "2011-07-06 00:00:00",
+        "name":  "Michael Allington",
+        "age":  "29",
+        "city":  "Plymouth ",
+        "link":  "http://plymouth.wickedlocal.com/article/20110707/NEWS/307079871",
+        "coord":  {
+                   "lon":  -70.689373,
+                   "lat":  41.972421
+                   }
+    },
+    {
+        "date":  "2011-07-17 00:00:00",
+        "name":  "Nicholau Fernandes",
+        "age":  "57",
+        "city":  "Raynham",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.067893,
+                   "lat":  41.963204
+                   }
+    },
+    {
+        "date":  "2011-10-03 00:00:00",
+        "name":  "Everett Clark (Sequoia)",
+        "age":  "63",
+        "city":  "Pittsfield",
+        "link":  "http://www.kptv.com/story/15605297/bicyclist-dies-after-colliding-with-school-bus",
+        "coord":  {
+                   "lon":  -73.249984,
+                   "lat":  42.447926
+                   }
+    },
+    {
+        "date":  "2011-12-14 00:00:00",
+        "name":  "Justin Gonzalez",
+        "age":  "17",
+        "city":  "Brockton",
+        "link":  "http://www.enterprisenews.com/article/20111215/NEWS/312159776",
+        "coord":  {
+                   "lon":  -71.024935,
+                   "lat":  42.076094
+                   }
+    },
+    {
+        "date":  "2011-12-27 00:00:00",
+        "name":  "Phyo N. Kyaw",
+        "age":  "23",
+        "city":  "Cambridge",
+        "link":  "http://tech.mit.edu/V131/N60/kyaw.html",
+        "coord":  {
+                   "lon":  -71.094901,
+                   "lat":  42.360154
+                   }
+    },
+    {
+        "date":  "2012-02-21 00:00:00",
+        "name":  "Ed Marien",
+        "age":  "38",
+        "city":  "Attleborough",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.33552,
+                   "lat":  41.981599
+                   }
+    },
+    {
+        "date":  "2012-03-21 00:00:00",
+        "name":  "Cynthia Pacheco",
+        "age":  "53",
+        "city":  "New Bedford",
+        "link":  "bostonbiker.org/2012/03/22/cyclist-killed-in-new-bedford/",
+        "coord":  {
+                   "lon":  -70.968658,
+                   "lat":  41.719998
+                   }
+    },
+    {
+        "date":  "2012-04-09 00:00:00",
+        "name":  "Philip Moran",
+        "age":  "47",
+        "city":  "Salem",
+        "link":  "http://www.salemnews.com/news/local_news/man-who-was-hit-by-mbta-bus-dies/article_cd5b4bc9-08f6-58ed-ab96-2eb67b741ea1.html",
+        "coord":  {
+                   "lon":  -70.895923,
+                   "lat":  42.522983
+                   }
+    },
+    {
+        "date":  "2012-05-19 00:00:00",
+        "name":  "Harry DelmoliNo",
+        "age":  "18",
+        "city":  "Northampton",
+        "link":  "http://www.masslive.com/news/index.ssf/2012/05/harry_delmoliNo_of_hadley_was.html",
+        "coord":  {
+                   "lon":  -72.63034,
+                   "lat":  42.320084
+                   }
+    },
+    {
+        "date":  "2012-05-31 00:00:00",
+        "name":  "Vincent Donndelinger",
+        "age":  "81",
+        "city":  "Bridgewater",
+        "link":  "http://bridgewater.wickedlocal.com/x425594161/Elderly-bicyclist-injured-in-Bridgewater-accident-in-grave-condition",
+        "coord":  {
+                   "lon":  -70.99933,
+                   "lat":  41.97508
+                   }
+    },
+    {
+        "date":  "2012-06-01 00:00:00",
+        "name":  "Kelsey Rennebohm ",
+        "age":  "28",
+        "city":  "Boston",
+        "link":  "http://archive.boston.com/news/local/massachusetts/articles/2012/06/03/bicyclist_killed_after_falling_into_traffic_on_huntington_avenue_friday_night",
+        "coord":  {
+                   "lon":  -71.090629,
+                   "lat":  42.339723
+                   }
+    },
+    {
+        "date":  "2012-06-14 00:00:00",
+        "name":  "Sheila Moreta",
+        "age":  "22",
+        "city":  "Hyannis",
+        "link":  "http://www.capecodtimes.com/article/20120615/News/206150343",
+        "coord":  {
+                   "lon":  -70.309554,
+                   "lat":  41.661691
+                   }
+    },
+    {
+        "date":  "2012-07-22 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "Lowell",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.318062,
+                   "lat":  42.638185
+                   }
+    },
+    {
+        "date":  "2012-07-23 00:00:00",
+        "name":  "Carl Rasmussen",
+        "age":  "48",
+        "city":  "Worcester",
+        "link":  "http://www.worcesterma.gov/wpd-press-releases/update:-fatal-bicycle-accident-on-park-ave2",
+        "coord":  {
+                   "lon":  -71.832127,
+                   "lat":  42.249178
+                   }
+    },
+    {
+        "date":  "2012-08-24 00:00:00",
+        "name":  "Alexander Motsenigos",
+        "age":  "41",
+        "city":  "Wellesley",
+        "link":  "https://theswellesleyreport.com/2013/02/grand-jury-No-criminal-charges-in-fatal-wellesley-cycling-accident/",
+        "coord":  {
+                   "lon":  -71.300097,
+                   "lat":  42.296952
+                   }
+    },
+    {
+        "date":  "2012-09-14 00:00:00",
+        "name":  "Doan Bui",
+        "age":  "63",
+        "city":  "Boston",
+        "link":  "http://www.suffolkdistrictattorney.com/driver-sentenced-in-crash-that-killed-cyclist/",
+        "coord":  {
+                   "lon":  -71.04555,
+                   "lat":  42.308786
+                   }
+    },
+    {
+        "date":  "2012-09-17 00:00:00",
+        "name":  "Tanya ConNolly",
+        "age":  "37",
+        "city":  "Boston",
+        "link":  "https://www.bostonglobe.com/metro/2012/09/17/woman-struck-and-killed-tractor-trailer-truck-south-boston/TctL55qzdtz7ic7zoKGVIP/story.html",
+        "coord":  {
+                   "lon":  -71.055537,
+                   "lat":  42.341829
+                   }
+    },
+    {
+        "date":  "2012-11-06 00:00:00",
+        "name":  "John Kurty",
+        "age":  "86",
+        "city":  "Springfield",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -72.547373,
+                   "lat":  42.121351
+                   }
+    },
+    {
+        "date":  "2012-11-12 00:00:00",
+        "name":  "Chung-Wei Yang",
+        "age":  "21",
+        "city":  "Boston",
+        "link":  "http://boston.cbslocal.com/2012/11/15/police-id-21-year-old-bu-student-killed-after-being-struck-by-mbta-bus/",
+        "coord":  {
+                   "lon":  -71.132091,
+                   "lat":  42.353008
+                   }
+    },
+    {
+        "date":  "2012-11-27 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "Brockton",
+        "link":  "https://www.wcvb.com/article/brockton-man-struck-by-car-while-riding-bicycle/8206763#",
+        "coord":  {
+                   "lon":  -71.030817,
+                   "lat":  42.097863
+                   }
+    },
+    {
+        "date":  "2012-12-06 00:00:00",
+        "name":  "Christopher Weigl",
+        "age":  "23",
+        "city":  "Boston",
+        "link":  "http://archive.boston.com/metrodesk/2012/12/06/bicyclist-and-vehicle-collide-commonwealth-avenue-allston/iLfi9EqrFWahk0AKxErVIM/story.html",
+        "coord":  {
+                   "lon":  -71.11582,
+                   "lat":  42.351138
+                   }
+    },
+    {
+        "date":  "2013-01-13 00:00:00",
+        "name":  "Howard Beardslee",
+        "age":  "60",
+        "city":  "Westfield ",
+        "link":  "http://www.masslive.com/news/index.ssf/2013/01/westfield_bicyclist_killed_aft.html",
+        "coord":  {
+                   "lon":  -72.795344,
+                   "lat":  42.129745
+                   }
+    },
+    {
+        "date":  "2013-05-19 00:00:00",
+        "name":  "Kanako Miura",
+        "age":  "36",
+        "city":  "Boston",
+        "link":  "https://www.bostonglobe.com/metro/2013/05/20/driver-who-struck-and-fatally-injured-mit-visiting-professor-has-been-identified-officials-say/5CRSmXKTHEFVqydbJwO6DM/story.html",
+        "coord":  {
+                   "lon":  -71.092924,
+                   "lat":  42.349921
+                   }
+    },
+    {
+        "date":  "2013-05-20 00:00:00",
+        "name":  "Michael Ryan",
+        "age":  "7",
+        "city":  "Westfield ",
+        "link":  "http://www.masslive.com/news/index.ssf/2013/05/westfield_child_killed_in_acci.html",
+        "coord":  {
+                   "lon":  -72.746417,
+                   "lat":  42.13434
+                   }
+    },
+    {
+        "date":  "2013-05-26 00:00:00",
+        "name":  "Livingston Pangburn",
+        "age":  "22",
+        "city":  "Amherst",
+        "link":  "http://www.wickedlocal.com/x438184590/Newton-native-dies-in-Amherst-bicycle-accident",
+        "coord":  {
+                   "lon":  -72.513347,
+                   "lat":  42.373135
+                   }
+    },
+    {
+        "date":  "2013-08-17 00:00:00",
+        "name":  "Miles Tibbetts",
+        "age":  "16",
+        "city":  "Wellfeet",
+        "link":  "www.capecodtimes.com/article/20130819/NEWS/308190322",
+        "coord":  {
+                   "lon":  -70.02081,
+                   "lat":  41.935419
+                   }
+    },
+    {
+        "date":  "2013-09-19 00:00:00",
+        "name":  "Shayne Desroches",
+        "age":  "13",
+        "city":  "Hopkinton",
+        "link":  "https://www.bostonglobe.com/metro/2013/09/19/year-old-was-driving-car-that-struck-killed-bicyclist-hopkinton/man5CT4d2eteVb7UYWwVGL/story.html",
+        "coord":  {
+                   "lon":  -71.507392,
+                   "lat":  42.199842
+                   }
+    },
+    {
+        "date":  "2013-10-11 00:00:00",
+        "name":  "Michael Dutra",
+        "age":  "58",
+        "city":  "Middleborough",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.878945,
+                   "lat":  41.892523
+                   }
+    },
+    {
+        "date":  "2014-04-03 00:00:00",
+        "name":  "Eoin (Owen) McGrory",
+        "age":  "30",
+        "city":  "Charlestown",
+        "link":  "https://www.bostonglobe.com/metro/2014/04/04/swampscott-truck-driver-charged-connection-with-fatal-bicycle-crash-charlestown-boston-police-say/YiCd1Z0lsONhstAs61ySgN/story.html",
+        "coord":  {
+                   "lon":  -71.075382,
+                   "lat":  42.3836
+                   }
+    },
+    {
+        "date":  "2014-07-27 00:00:00",
+        "name":  "No name, male",
+        "age":  "58",
+        "city":  "Chelsea",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.035547,
+                   "lat":  42.391422
+                   }
+    },
+    {
+        "date":  "2014-07-30 00:00:00",
+        "name":  "Yelmur Samarkham",
+        "age":  "21",
+        "city":  "Barnstable",
+        "link":  "https://www.bostonglobe.com/metro/2014/07/31/bicyclist-struck-and-killed-car-west-barnstable/bCt87dpRZs4oGEzrY5W1KK/story.html",
+        "coord":  {
+                   "lon":  -70.344291,
+                   "lat":  41.696003
+                   }
+    },
+    {
+        "date":  "2014-08-01 00:00:00",
+        "name":  "(unknown)",
+        "age":  "61",
+        "city":  "Hull",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.875976,
+                   "lat":  42.286478
+                   }
+    },
+    {
+        "date":  "2014-09-06 00:00:00",
+        "name":  "Mohamed Zeidan",
+        "age":  "29",
+        "city":  "Medford",
+        "link":  "https://www.bostonglobe.com/metro/2014/09/11/bicyclist-killed-medford-collision-last-week-identified-tufts-medical-student/K71lL8WpT8Va3K9jb0uJdN/story.html",
+        "coord":  {
+                   "lon":  -71.100967,
+                   "lat":  42.406504
+                   }
+    },
+    {
+        "date":  "2014-09-17 00:00:00",
+        "name":  "Mark Stracuzzi",
+        "age":  "57",
+        "city":  "Malden",
+        "link":  "http://malden.wickedlocal.com/article/20140917/NEWS/140916396 
+http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-275513411.html",
+        "coord":  {
+                   "lon":  -71.025332,
+                   "lat":  42.432106
+                   }
+    },
+    {
+        "date":  "2014-09-27 00:00:00",
+        "name":  "Scott Fleming",
+        "age":  "48",
+        "city":  "Wrentham",
+        "link":  "http://www.wcvb.com/news/wrentham-man-on-bike-killed-in-collision-with-dump-truck/28293190",
+        "coord":  {
+                   "lon":  -71.455184,
+                   "lat":  42.024677
+                   }
+    },
+    {
+        "date":  "2014-10-05 00:00:00",
+        "name":  "William DoNovan ",
+        "age":  "53",
+        "city":  "Braintree",
+        "link":  "https://www.patriotledger.com/article/20141009/news/141006544?template=ampart",
+        "coord":  {
+                   "lon":  -70.9743,
+                   "lat":  42.223259
+                   }
+    },
+    {
+        "date":  "2015-03-11 00:00:00",
+        "name":  "Marcia Deihl",
+        "age":  "65",
+        "city":  "Cambridge",
+        "link":  "https://www.bostonglobe.com/metro/2015/03/12/cambridge-songwriter-activist-mourned-after-fatal-bike-accident/715KQNmoGNaEY8ld9BO3XP/story.html",
+        "coord":  {
+                   "lon":  -71.113373,
+                   "lat":  42.361132
+                   }
+    },
+    {
+        "date":  "2015-05-17 00:00:00",
+        "name":  "Saadin Solah",
+        "age":  "53",
+        "city":  "Sudbury",
+        "link":  "https://www.bostonglobe.com/metro/2015/05/17/bicyclist-hit-truck-sudbury/Kbwe1ExFXvnk94H3BSIKLI/story.html",
+        "coord":  {
+                   "lon":  -71.41856,
+                   "lat":  42.385079
+                   }
+    },
+    {
+        "date":  "2015-05-19 00:00:00",
+        "name":  "Fritz Philogene ",
+        "age":  "18",
+        "city":  "Boston",
+        "link":  "http://www.universalhub.com/2016/drunk-driver-gets-12-years-killing-bicyclist",
+        "coord":  {
+                   "lon":  -71.077192,
+                   "lat":  42.291775
+                   }
+    },
+    {
+        "date":  "2015-06-03 00:00:00",
+        "name":  "Shane Farrell",
+        "age":  "13",
+        "city":  "Mansfield",
+        "link":  "https://www.bostonglobe.com/metro/2015/06/04/friends-and-family-mourn-year-old-boy-killed-riding-his-bike-mansfield/8uiza4oPzRQbQfTWLJ7RiM/story.html",
+        "coord":  {
+                   "lon":  -71.214378,
+                   "lat":  42.024993
+                   }
+    },
+    {
+        "date":  "2015-06-06 00:00:00",
+        "name":  "Yadielys Camacho",
+        "age":  "8",
+        "city":  "Boston",
+        "link":  "https://patch.com/massachusetts/boston/man-who-killed-8-year-old-hit-run-crash-pleads-guilty-gets-sentenced",
+        "coord":  {
+                   "lon":  -71.086389,
+                   "lat":  42.276796
+                   }
+    },
+    {
+        "date":  "2015-08-07 00:00:00",
+        "name":  "Dr. Anita Kurmann",
+        "age":  "38",
+        "city":  "Boston",
+        "link":  "https://www.bostonglobe.com/metro/2015/08/08/investigation-continues-into-death-bicyclist-back-bay-intersection/3YMUYKF8QbYeb5NwQGq1eJ/story.html",
+        "coord":  {
+                   "lon":  -71.08947,
+                   "lat":  42.350848
+                   }
+    },
+    {
+        "date":  "2015-10-02 00:00:00",
+        "name":  "Dr. Lorraine Hurley",
+        "age":  "56",
+        "city":  "Brewster",
+        "link":  "http://www.capecodtimes.com/article/20151002/news/151009811",
+        "coord":  {
+                   "lon":  -70.109805,
+                   "lat":  41.745893
+                   }
+    },
+    {
+        "date":  "2015-10-11 00:00:00",
+        "name":  "William Schofield",
+        "age":  "54",
+        "city":  "Hudson",
+        "link":  "http://hudson.wickedlocal.com/article/20151019/NEWS/151016247",
+        "coord":  {
+                   "lon":  -71.580651,
+                   "lat":  42.395466
+                   }
+    },
+    {
+        "date":  "2015-10-12 00:00:00",
+        "name":  "David Tasgal ",
+        "age":  "72",
+        "city":  "Greenfield",
+        "link":  "http://www.masslive.com/news/index.ssf/2015/10/72-year-old_david_tasgal_ident.html",
+        "coord":  {
+                   "lon":  -72.587711,
+                   "lat":  42.60777
+                   }
+    },
+    {
+        "date":  "2015-10-15 00:00:00",
+        "name":  "Licio Portillo",
+        "age":  "53",
+        "city":  "Attleboro",
+        "link":  "http://www.thesunchronicle.com/news/local_news/attleboro-bicyclist-injured-in-crash-dies/article_22bbe7cb-de53-5717-8a11-4c99214a0b0c.html",
+        "coord":  {
+                   "lon":  -71.282685,
+                   "lat":  41.936023
+                   }
+    },
+    {
+        "date":  "2015-10-23 00:00:00",
+        "name":  "Laurie Sutton",
+        "age":  "61",
+        "city":  "Eastham",
+        "link":  "http://www.capecod.com/cape-wide-news/serious-crash-closes-route-6-in-eastham/",
+        "coord":  {
+                   "lon":  -69.987663,
+                   "lat":  41.854675
+                   }
+    },
+    {
+        "date":  "2015-12-30 00:00:00",
+        "name":  "William Phoenix ",
+        "age":  "54",
+        "city":  "Worcester",
+        "link":  "http://www.masslive.com/news/worcester/index.ssf/2016/01/william_phoenix_identified_as.html",
+        "coord":  {
+                   "lon":  -71.777214,
+                   "lat":  42.273535
+                   }
+    },
+    {
+        "date":  "2016-01-04 00:00:00",
+        "name":  "James "Jimmy" Collins",
+        "age":  "68",
+        "city":  "South Hadley",
+        "link":  "http://wwlp.com/2016/01/06/pedestrian-killed-in-south-hadley-crash-identified/",
+        "coord":  {
+                   "lon":  -72.5578542,
+                   "lat":  42.2400509
+                   }
+    },
+    {
+        "date":  "2016-01-04 00:00:00",
+        "name":  "Piere Simon",
+        "age":  "60",
+        "city":  "Malden",
+        "link":  "https://www.bostonglobe.com/metro/2016/01/05/pedestrian-fatally-injured-malden/Mb3zwSG7UffqtTqWxGHScL/story.html",
+        "coord":  {
+                   "lon":  -71.0652991,
+                   "lat":  42.4284767
+                   }
+    },
+    {
+        "date":  "2016-01-06 00:00:00",
+        "name":  "Wyatt Maskell",
+        "age":  "19",
+        "city":  "South Yarmouth",
+        "link":  "https://www.bostonglobe.com/metro/2016/01/07/teen-struck-killed-while-crossing-south-yarmouth-road/8LlAE7v92mVrFM5MEo82CM/story.html",
+        "coord":  {
+                   "lon":  -70.1872517,
+                   "lat":  41.667026
+                   }
+    },
+    {
+        "date":  "2016-01-09 00:00:00",
+        "name":  "Frank Jeffrey Call",
+        "age":  "56",
+        "city":  "Worcester",
+        "link":  "http://www.telegram.com/article/20160110/NEWS/160119919",
+        "coord":  {
+                   "lon":  -71.793339,
+                   "lat":  42.3286102
+                   }
+    },
+    {
+        "date":  "2016-01-12 00:00:00",
+        "name":  "Silvia Acosta",
+        "age":  "78",
+        "city":  "Boston - Roslindale",
+        "link":  "http://west-roxbury.wickedlocal.com/news/20160113/driver-arraigned-after-crash-killed-roslindale-woman-78",
+        "coord":  {
+                   "lon":  -71.1408551,
+                   "lat":  42.2771821
+                   }
+    },
+    {
+        "date":  "2016-01-13 00:00:00",
+        "name":  "Queshon Ivy",
+        "age":  "43",
+        "city":  "Boston - Dorchester",
+        "link":  "http://www.visionzerocoalition.org/323_washington_st_dorchester",
+        "coord":  {
+                   "lon":  -71.0767103,
+                   "lat":  42.2998346
+                   }
+    },
+    {
+        "date":  "2016-01-18 00:00:00",
+        "name":  "Jacob Goldberg",
+        "age":  "89",
+        "city":  "Reading",
+        "link":  "https://patch.com/massachusetts/reading/elderly-man-killed-snowplow-identified-police-0",
+        "coord":  {
+                   "lon":  -71.118793,
+                   "lat":  42.5308134
+                   }
+    },
+    {
+        "date":  "2016-01-20 00:00:00",
+        "name":  "Thomas Chen",
+        "age":  "84",
+        "city":  "Quincy",
+        "link":  "http://www.patriotledger.com/news/20160121/man-84-dies-1-day-after-quincy-pedestrian-crash",
+        "coord":  {
+                   "lon":  -71.0177535,
+                   "lat":  42.2673609
+                   }
+    },
+    {
+        "date":  "2016-01-20 00:00:00",
+        "name":  "Patrick Stratton",
+        "age":  "25",
+        "city":  "Framingham",
+        "link":  "https://www.bostonglobe.com/metro/2016/01/21/pedestrian-fatally-struck-framingham/IBt051s9Q4AFWrkLWVAwsJ/story.html",
+        "coord":  {
+                   "lon":  -71.4245978,
+                   "lat":  42.298075
+                   }
+    },
+    {
+        "date":  "2016-01-24 00:00:00",
+        "name":  "Nicholas Tammaro",
+        "age":  "66",
+        "city":  "Boston - Dorchester",
+        "link":  "http://www.visionzerocoalition.org/dorchester_ave_harbor_view_dorchester",
+        "coord":  {
+                   "lon":  -71.0589072,
+                   "lat":  42.3175754
+                   }
+    },
+    {
+        "date":  "2016-01-26 00:00:00",
+        "name":  "(male, name not released)",
+        "age":  "66",
+        "city":  "Boston - South Boston",
+        "link":  "http://www.universalhub.com/2016/pedestrian-struck-and-killed-south-boston",
+        "coord":  {
+                   "lon":  -71.0544693,
+                   "lat":  42.3268124
+                   }
+    },
+    {
+        "date":  "2016-02-17 00:00:00",
+        "name":  "Michael Hassett",
+        "age":  "63",
+        "city":  "Norton",
+        "link":  "https://patch.com/massachusetts/foxborough/foxborough-man-killed-bernie-phyls-norton-0",
+        "coord":  {
+                   "lon":  -71.1545135,
+                   "lat":  41.9962538
+                   }
+    },
+    {
+        "date":  "2016-02-18 00:00:00",
+        "name":  "Marcie Mitler",
+        "age":  "63",
+        "city":  "Cambridge",
+        "link":  "http://www.necn.com/news/new-england/Fatal-Pedestrian-vs-Motor-Vehicle-Accident-in-Cambridge-Mass-369454742.html",
+        "coord":  {
+                   "lon":  -71.1211696,
+                   "lat":  42.3886089
+                   }
+    },
+    {
+        "date":  "2016-02-18 00:00:00",
+        "name":  "(name not released)",
+        "age":  "5 months",
+        "city":  "Boston - Roxbury",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.1041377,
+                   "lat":  42.3138401
+                   }
+    },
+    {
+        "date":  "2016-02-22 00:00:00",
+        "name":  "Vilyam Khusid",
+        "age":  "76",
+        "city":  "Natick",
+        "link":  "http://www.metrowestdailynews.com/news/20160222/natick-man-seriously-injured-crossing-mill-street",
+        "coord":  {
+                   "lon":  -71.3864193,
+                   "lat":  42.2903384
+                   }
+    },
+    {
+        "date":  "2016-02-23 00:00:00",
+        "name":  "Laura Viera",
+        "age":  "15",
+        "city":  "Randolph",
+        "link":  "http://boston.cbslocal.com/2016/02/24/girl-15-struck-killed-randolph-east-boston-laura-viera/",
+        "coord":  {
+                   "lon":  -71.0570414,
+                   "lat":  42.1851161
+                   }
+    },
+    {
+        "date":  "2016-02-28 00:00:00",
+        "name":  "Dorothy Steele",
+        "age":  "77",
+        "city":  "Cambridge",
+        "link":  "http://boston.cbslocal.com/2016/03/04/police-id-driver-cambridge-hit-and-run/",
+        "coord":  {
+                   "lon":  -71.0975199,
+                   "lat":  42.3714066
+                   }
+    },
+    {
+        "date":  "2016-03-01 00:00:00",
+        "name":  "Jeremiah Smith",
+        "age":  "13",
+        "city":  "Mashpee",
+        "link":  "http://www.capecodtimes.com/article/20160322/NEWS/160329839",
+        "coord":  {
+                   "lon":  -70.4705765,
+                   "lat":  41.6213769
+                   }
+    },
+    {
+        "date":  "2016-03-01 00:00:00",
+        "name":  "(unknown)",
+        "age":  "55-64",
+        "city":  "NEWTON",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.22591162,
+                   "lat":  42.34945
+                   }
+    },
+    {
+        "date":  "2016-03-02 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Mansfield",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.2579672,
+                   "lat":  42.0168681
+                   }
+    },
+    {
+        "date":  "2016-03-04 00:00:00",
+        "name":  "Robert P. Noyes",
+        "age":  "68",
+        "city":  "Quincy",
+        "link":  "http://www.necn.com/news/new-england/Man-Struck-Taxi-Cab-Quincy-Massachusetts-371080841.html",
+        "coord":  {
+                   "lon":  -70.9975767,
+                   "lat":  42.2422489
+                   }
+    },
+    {
+        "date":  "2016-03-09 00:00:00",
+        "name":  "Kate Lisa Etienne",
+        "age":  "18",
+        "city":  "Milton",
+        "link":  "http://www.wcvb.com/article/high-school-senior-id-d-as-teen-hit-killed-in-milton/8232526",
+        "coord":  {
+                   "lon":  -71.1021416,
+                   "lat":  42.2608573
+                   }
+    },
+    {
+        "date":  "2016-03-10 00:00:00",
+        "name":  "Francis McCarthy",
+        "age":  "81",
+        "city":  "Quincy",
+        "link":  "http://www.bostonglobe.com/metro/2017/02/25/man-hit-and-killed-car-quincy-friday-night/D8jqRPj0z9z6lcYuYm1ruI/story.html",
+        "coord":  {
+                   "lon":  -71.0060956,
+                   "lat":  42.2485183
+                   }
+    },
+    {
+        "date":  "2016-03-10 00:00:00",
+        "name":  "(unknown)",
+        "age":  "45-54",
+        "city":  "BRAINTREE",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.99994826,
+                   "lat":  42.20611641
+                   }
+    },
+    {
+        "date":  "2016-03-18 00:00:00",
+        "name":  "(unknown)",
+        "age":  "64",
+        "city":  "Holyoke",
+        "link":  "http://www.masslive.com/news/index.ssf/2016/03/64-year-old_man_killed_in_frid.html",
+        "coord":  {
+                   "lon":  -72.616298,
+                   "lat":  42.201622
+                   }
+    },
+    {
+        "date":  "2016-03-23 00:00:00",
+        "name":  "Theophilos Raptis",
+        "age":  "70",
+        "city":  "Worcester",
+        "link":  "http://www.telegram.com/article/20160323/NEWS/160329614",
+        "coord":  {
+                   "lon":  -71.783737,
+                   "lat":  42.2680363
+                   }
+    },
+    {
+        "date":  "2016-04-09 00:00:00",
+        "name":  "Gary LaNoue",
+        "age":  "53",
+        "city":  "Rehoboth",
+        "link":  "http://www.tauntongazette.com/article/20120412/NEWS/304129904",
+        "coord":  {
+                   "lon":  -71.279803,
+                   "lat":  41.879571
+                   }
+    },
+    {
+        "date":  "2016-04-16 00:00:00",
+        "name":  "Mr. Kim",
+        "age":  "50s",
+        "city":  "Boston - East Boston",
+        "link":  "http://www.eastietimes.com/2016/04/29/pedestrian-death-prompts-officials-to-look-at-traffic-calming-measures/",
+        "coord":  {
+                   "lon":  -71.008909,
+                   "lat":  42.3866545
+                   }
+    },
+    {
+        "date":  "2016-04-19 00:00:00",
+        "name":  "(unknown)",
+        "age":  "6-15",
+        "city":  "CAMBRIDGE",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.07830915,
+                   "lat":  42.3628319
+                   }
+    },
+    {
+        "date":  "2016-04-23 00:00:00",
+        "name":  "Isabella Wu",
+        "age":  "2",
+        "city":  "Boston - Chinatown",
+        "link":  "https://www.bostonglobe.com/metro/2016/04/25/toddler-killed-ambulance-tenth-accident-narrow-street/jGIX5k3eCCdJeUll4AuSnI/story.html",
+        "coord":  {
+                   "lon":  -71.0653109,
+                   "lat":  42.3488535
+                   }
+    },
+    {
+        "date":  "2016-04-27 00:00:00",
+        "name":  "Alfred Lemoine",
+        "age":  "74",
+        "city":  "Northbridge",
+        "link":  "http://www.telegram.com/article/20160429/NEWS/160429045",
+        "coord":  {
+                   "lon":  -71.6761831,
+                   "lat":  42.107738
+                   }
+    },
+    {
+        "date":  "2016-05-01 00:00:00",
+        "name":  "(unknown)",
+        "age":  "75-84",
+        "city":  "NORTHAMPTON",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -72.67605891,
+                   "lat":  42.33134606
+                   }
+    },
+    {
+        "date":  "2016-05-06 00:00:00",
+        "name":  "(unknown)",
+        "age":  "6-15",
+        "city":  "CHICOPEE",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -72.62105316,
+                   "lat":  42.16489384
+                   }
+    },
+    {
+        "date":  "2016-05-14 00:00:00",
+        "name":  "Zamir Sanders",
+        "age":  "16",
+        "city":  "Springfield",
+        "link":  "http://www.masslive.com/news/index.ssf/2016/05/family_friends_remember_zamir.html",
+        "coord":  {
+                   "lon":  -72.5745152,
+                   "lat":  42.1404023
+                   }
+    },
+    {
+        "date":  "2016-05-19 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "WEST SPRINGFIELD",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -72.62627733,
+                   "lat":  42.12579257
+                   }
+    },
+    {
+        "date":  "2016-05-29 00:00:00",
+        "name":  "James A. Heath",
+        "age":  "52",
+        "city":  "Springfield",
+        "link":  "http://wwlp.com/2016/06/06/springfield-police-found-car-involved-in-hit-and-run/",
+        "coord":  {
+                   "lon":  -72.5535884,
+                   "lat":  42.0877472
+                   }
+    },
+    {
+        "date":  "2016-05-30 00:00:00",
+        "name":  "Gina Cappello",
+        "age":  "52",
+        "city":  "Oxford",
+        "link":  "http://www.masslive.com/news/worcester/index.ssf/2016/06/gina_cappello_vice_chancellor.html",
+        "coord":  {
+                   "lon":  -71.8704394,
+                   "lat":  42.1146629
+                   }
+    },
+    {
+        "date":  "2016-05-30 00:00:00",
+        "name":  "Daniel Sullivan",
+        "age":  "53",
+        "city":  "Oxford",
+        "link":  "http://www.masslive.com/news/worcester/index.ssf/2016/06/gina_cappello_vice_chancellor.html",
+        "coord":  {
+                   "lon":  -71.8704394,
+                   "lat":  42.1146629
+                   }
+    },
+    {
+        "date":  "2016-05-31 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Revere",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.0094315,
+                   "lat":  42.4191046
+                   }
+    },
+    {
+        "date":  "2016-06-01 00:00:00",
+        "name":  "John Buckley",
+        "age":  "66",
+        "city":  "Brockton",
+        "link":  "http://www.wcvb.com/news/lawyer-charged-with-vehicular-homicide-after-running-over-pedestrian/41373130?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=wcvb",
+        "coord":  {
+                   "lon":  -71.0227067,
+                   "lat":  42.081592
+                   }
+    },
+    {
+        "date":  "2016-06-04 00:00:00",
+        "name":  "Marco Cruz",
+        "age":  "25",
+        "city":  "Chelsea",
+        "link":  "http://www.necn.com/news/new-england/Fatal-Hit-and-Run-Under-Investigation--381896961.html",
+        "coord":  {
+                   "lon":  -71.0369531,
+                   "lat":  42.4013845
+                   }
+    },
+    {
+        "date":  "2016-06-16 00:00:00",
+        "name":  "Eugene Thornberg",
+        "age":  "61",
+        "city":  "Lincoln",
+        "link":  "http://www.metrowestdailynews.com/news/20160617/wayland-man-killed-while-riding-bike-in-lincoln",
+        "coord":  {
+                   "lon":  -71.339866,
+                   "lat":  42.416021
+                   }
+    },
+    {
+        "date":  "2016-06-18 00:00:00",
+        "name":  "Eric Parker",
+        "age":  "27",
+        "city":  "Franklin",
+        "link":  "http://www.milforddailynews.com/news/20160620/sudbury-resident-idd-as-man-struck-by-train-in-franklin",
+        "coord":  {
+                   "lon":  -71.4058055,
+                   "lat":  42.0791694
+                   }
+    },
+    {
+        "date":  "2016-06-23 00:00:00",
+        "name":  "Amanda Phillips",
+        "age":  "27",
+        "city":  "Cambridge",
+        "link":  "http://boston.cbslocal.com/2016/06/24/cambridge-cyclist-killed-amanda-phillips/",
+        "coord":  {
+                   "lon":  -71.100836,
+                   "lat":  42.373731
+                   }
+    },
+    {
+        "date":  "2016-06-28 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "MEDFORD",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.10315404,
+                   "lat":  42.42553485
+                   }
+    },
+    {
+        "date":  "2016-07-03 00:00:00",
+        "name":  "Anthony Santucci",
+        "age":  "41",
+        "city":  "Franklin",
+        "link":  "http://boston.cbslocal.com/2016/07/03/franklin-pedestrian-accident-man-killed-route-495-anthony-santucci/",
+        "coord":  {
+                   "lon":  -71.4293657,
+                   "lat":  42.0880542
+                   }
+    },
+    {
+        "date":  "2016-07-07 00:00:00",
+        "name":  "(name not released)",
+        "age":  "60s",
+        "city":  "Boston - South End",
+        "link":  "http://www.universalhub.com/2016/pedestrian-struck-killed-south-end",
+        "coord":  {
+                   "lon":  -71.0650373,
+                   "lat":  42.3423541
+                   }
+    },
+    {
+        "date":  "2016-07-14 00:00:00",
+        "name":  "Patricia LeMay",
+        "age":  "81",
+        "city":  "Worcester",
+        "link":  "http://www.necn.com/news/new-england/Woman-Killed-After-Being-Hit-by-Vehicle-in-Worcester-Massachusetts-386810061.html",
+        "coord":  {
+                   "lon":  -71.7689902,
+                   "lat":  42.2553849
+                   }
+    },
+    {
+        "date":  "2016-07-22 00:00:00",
+        "name":  "Frank Wojtas",
+        "age":  "65",
+        "city":  "Billerica",
+        "link":  "http://www.lowellsun.com/breakingnews/ci_30208555/chelmsford-man-succumbs-injuries-from-bike-crash",
+        "coord":  {
+                   "lon":  -71.30456,
+                   "lat":  42.576292
+                   }
+    },
+    {
+        "date":  "2016-08-09 00:00:00",
+        "name":  "Patrick Thomas",
+        "age":  "44",
+        "city":  "Shrewsbury",
+        "link":  "http://www.telegram.com/news/20160809/pedestrian-killed-by-truck-on-i-290-in-shrewsbury",
+        "coord":  {
+                   "lon":  -71.7419855,
+                   "lat":  42.3046873
+                   }
+    },
+    {
+        "date":  "2016-08-12 00:00:00",
+        "name":  "(unknown)",
+        "age":  "65-74",
+        "city":  "LEE",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -73.25209888,
+                   "lat":  42.30343256
+                   }
+    },
+    {
+        "date":  "2016-08-13 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - Roxbury",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.1041377,
+                   "lat":  42.3138401
+                   }
+    },
+    {
+        "date":  "2016-08-17 00:00:00",
+        "name":  "Mark Himelfarb",
+        "age":  "59",
+        "city":  "Lincoln",
+        "link":  "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiO4I3qg_vzAhWZoXIEHTTyAHAQFNoECAMQAQ&url=https%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2016%2F08%2F22%2Fcyclist-killed-lincoln-wednesday-identified%2FjI6oq0uoL8hWQyOUIjBfjK%2Fstory.html&usg=AOvVaw3kXs4nPt-t7sokSIQDw97l",
+        "coord":  {
+                   "lon":  -71.296601,
+                   "lat":  42.457914
+                   }
+    },
+    {
+        "date":  "2016-08-21 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - East Boston",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.033754,
+                   "lat":  42.3730591
+                   }
+    },
+    {
+        "date":  "2016-08-22 00:00:00",
+        "name":  "Claudia Normandin",
+        "age":  "70",
+        "city":  "Lowell",
+        "link":  "http://www.lowellsun.com/breakingnews/ci_30276812/woman-dies-after-being-struck-by-truck-lowell",
+        "coord":  {
+                   "lon":  -71.3233186,
+                   "lat":  42.6466334
+                   }
+    },
+    {
+        "date":  "2016-08-24 00:00:00",
+        "name":  "(male, name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - South End",
+        "link":  "https://www.boston.com/news/local-news/2016/08/24/police-investigating-pedestrian-struck-in-south-end",
+        "coord":  {
+                   "lon":  -71.0730214,
+                   "lat":  42.3362331
+                   }
+    },
+    {
+        "date":  "2016-08-28 00:00:00",
+        "name":  "Jean Leonard",
+        "age":  "31",
+        "city":  "Somerville",
+        "link":  "http://www.bostonherald.com/news/local_coverage/2016/08/bicyclist_killed_crossing_t_tracks",
+        "coord":  {
+                   "lon":  -71.107044,
+                   "lat":  42.381618
+                   }
+    },
+    {
+        "date":  "2016-09-01 00:00:00",
+        "name":  "Barbara "Sarge" Clement",
+        "age":  "64",
+        "city":  "Milford",
+        "link":  "https://patch.com/massachusetts/milford-ma/pedestrian-killed-milford-hit-run-reports",
+        "coord":  {
+                   "lon":  -71.5231007,
+                   "lat":  42.139096
+                   }
+    },
+    {
+        "date":  "2016-09-02 00:00:00",
+        "name":  "Zhen Li",
+        "age":  "52",
+        "city":  "Quincy",
+        "link":  "http://boston.cbslocal.com/2016/09/02/fatal-pedestrian-struck-car-quincy/",
+        "coord":  {
+                   "lon":  -71.0156965,
+                   "lat":  42.2696583
+                   }
+    },
+    {
+        "date":  "2016-09-03 00:00:00",
+        "name":  "Johnette R. Sims",
+        "age":  "46",
+        "city":  "Boston - Mattapan",
+        "link":  "http://whdh.com/news/officials-identify-pedestrian-struck-and-killed-in-mattapan/",
+        "coord":  {
+                   "lon":  -71.0985696,
+                   "lat":  42.293224
+                   }
+    },
+    {
+        "date":  "2016-09-07 00:00:00",
+        "name":  "(name not released)",
+        "age":  "17",
+        "city":  "Boston - Brighton",
+        "link":  "http://whdh.com/news/boston-university-student-hit-killed-by-commuter-rail-train/",
+        "coord":  {
+                   "lon":  -71.118121,
+                   "lat":  42.3524037
+                   }
+    },
+    {
+        "date":  "2016-09-09 00:00:00",
+        "name":  "Harry Fernandez",
+        "age":  "51",
+        "city":  "Springfield",
+        "link":  "http://wwlp.com/2016/09/10/pedestrian-hurt-in-hit-and-run-crash-section-of-page-blvd-closed/",
+        "coord":  {
+                   "lon":  -72.5043943,
+                   "lat":  42.1481103
+                   }
+    },
+    {
+        "date":  "2016-09-13 00:00:00",
+        "name":  "(not released, woman)",
+        "age":  "70s",
+        "city":  "Danvers",
+        "link":  "http://www.wcvb.com/news/pedestrian-struck-by-vehicle-in-danvers/41642922",
+        "coord":  {
+                   "lon":  -70.949259,
+                   "lat":  42.5652635
+                   }
+    },
+    {
+        "date":  "2016-09-20 00:00:00",
+        "name":  "(unknown)",
+        "age":  "25-34",
+        "city":  "BARNSTABLE",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.30780819,
+                   "lat":  41.66495304
+                   }
+    },
+    {
+        "date":  "2016-09-21 00:00:00",
+        "name":  "(name not released)",
+        "age":  "52",
+        "city":  "Wilmington",
+        "link":  "http://whdh.com/news/police-pedestrian-hit-and-killed-by-car-in-wilmington/",
+        "coord":  {
+                   "lon":  -71.1835677,
+                   "lat":  42.5582279
+                   }
+    },
+    {
+        "date":  "2016-09-21 00:00:00",
+        "name":  "Carlos Bonilla",
+        "age":  "72",
+        "city":  "Billerica",
+        "link":  "http://www.wcvb.com/news/pedestrian-struck-by-train-in-mansfield/41780570",
+        "coord":  {
+                   "lon":  -71.2221537,
+                   "lat":  42.0324738
+                   }
+    },
+    {
+        "date":  "2016-09-21 00:00:00",
+        "name":  "(unknown)",
+        "age":  "45-54",
+        "city":  "LAWRENCE",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.13372567,
+                   "lat":  42.67953141
+                   }
+    },
+    {
+        "date":  "2016-09-22 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Mansfield",
+        "link":  "http://www.lowellsun.com/breakingnews/ci_30391737/man-struck-by-car-billerica-dies-from-injuries",
+        "coord":  {
+                   "lon":  -71.2310962,
+                   "lat":  42.5303606
+                   }
+    },
+    {
+        "date":  "2016-09-24 00:00:00",
+        "name":  "Maryann Casalinuova",
+        "age":  "53",
+        "city":  "Littleton",
+        "link":  "http://littleton.wickedlocal.com/news/20160925/update-victim-identified-from-fatal-accident-involving-bicycle-in-littleton",
+        "coord":  {
+                   "lon":  -71.465762,
+                   "lat":  42.543319
+                   }
+    },
+    {
+        "date":  "2016-09-25 00:00:00",
+        "name":  "(male, name not released)",
+        "age":  "5",
+        "city":  "Grafton",
+        "link":  "http://www.bostonglobe.com/metro/2016/09/25/year-old-grafton-boy-dies-after-being-struck-car/H3oxmfStPbOTdA6iXKeX4M/story.html",
+        "coord":  {
+                   "lon":  -71.7281753,
+                   "lat":  42.2208307
+                   }
+    },
+    {
+        "date":  "2016-09-25 00:00:00",
+        "name":  "Alberto Santos-Flores",
+        "age":  "41",
+        "city":  "Medford",
+        "link":  "http://www.mspnews.org/2016/09/state-police-investigate-hit-and-run-pedestrian-struck-killed-in-medford/",
+        "coord":  {
+                   "lon":  -71.083631,
+                   "lat":  42.4051112
+                   }
+    },
+    {
+        "date":  "2016-10-01 00:00:00",
+        "name":  "John Strileckis",
+        "age":  "51",
+        "city":  "Melrose",
+        "link":  "http://www.wcvb.com/article/pedestrian-seriously-injured-after-crash-in-melrose/8279267",
+        "coord":  {
+                   "lon":  -71.0663406,
+                   "lat":  42.4526366
+                   }
+    },
+    {
+        "date":  "2016-10-03 00:00:00",
+        "name":  "Gudiel Lopez",
+        "age":  "(age not released)",
+        "city":  "Melrose",
+        "link":  "http://www.bostonglobe.com/metro/2016/10/03/worker-killed-melrose-rollover-crash/ReUcyFlEmf0yZzt9OQ1hMM/story.html",
+        "coord":  {
+                   "lon":  -71.0554161,
+                   "lat":  42.4682219
+                   }
+    },
+    {
+        "date":  "2016-10-03 00:00:00",
+        "name":  "(male, name not released)",
+        "age":  "56",
+        "city":  "Wareham",
+        "link":  "http://www.wcvb.com/news/pedestrian-suffers-lifethreatening-injuries-after-being-hit-by-car-in-wareham/41944502",
+        "coord":  {
+                   "lon":  -70.6611001,
+                   "lat":  41.7575154
+                   }
+    },
+    {
+        "date":  "2016-10-05 00:00:00",
+        "name":  "Bernard Lavins",
+        "age":  "60",
+        "city":  "Cambridge",
+        "link":  "https://www.bostonglobe.com/opinion/2016/10/05/don-want-die-and-you-don-want-kill/puOu3kI5OS4AHCYYs3HHwI/story.html",
+        "coord":  {
+                   "lon":  -71.119462,
+                   "lat":  42.388713
+                   }
+    },
+    {
+        "date":  "2016-10-18 00:00:00",
+        "name":  "Gregory Dwyer",
+        "age":  "65",
+        "city":  "Waltham",
+        "link":  "http://www.wcvb.com/news/2-pedestrians-hit-seriously-injured-by-vehicle/42150890",
+        "coord":  {
+                   "lon":  -71.2609882,
+                   "lat":  42.4012918
+                   }
+    },
+    {
+        "date":  "2016-10-18 00:00:00",
+        "name":  "Madio Jalo",
+        "age":  "14",
+        "city":  "Brockton",
+        "link":  "https://www.bostonherald.com/2016/10/20/brockton-rocked-by-boys-death/",
+        "coord":  {
+                   "lon":  -71.014127,
+                   "lat":  42.059591
+                   }
+    },
+    {
+        "date":  "2016-10-22 00:00:00",
+        "name":  "(male, name not released)",
+        "age":  "57",
+        "city":  "Falmouth",
+        "link":  "http://www.capecodtimes.com/news/20161023/pedestrian-struck-by-car-in-falmouth-on-saturday-dies",
+        "coord":  {
+                   "lon":  -70.5390917,
+                   "lat":  41.618065
+                   }
+    },
+    {
+        "date":  "2016-10-25 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - Egleston Sq (JP/Rox)",
+        "link":  "http://boston.cbslocal.com/2016/10/25/pedestrian-struck-in-egleston-square-sustains-serious-injuries/",
+        "coord":  {
+                   "lon":  -71.07447,
+                   "lat":  42.2966848
+                   }
+    },
+    {
+        "date":  "2016-10-28 00:00:00",
+        "name":  "Laurie Williamson",
+        "age":  "60",
+        "city":  "Pittsfield",
+        "link":  "http://www.berkshireeagle.com/local/ci_30522731/pittsfield-police-looking-witnesses-friday-night-accident-that",
+        "coord":  {
+                   "lon":  -73.2457816,
+                   "lat":  42.4576019
+                   }
+    },
+    {
+        "date":  "2016-10-28 00:00:00",
+        "name":  "Summer Steele",
+        "age":  "9",
+        "city":  "Plainfield",
+        "link":  "http://www.gazettenet.com/Summer-Steele-identified-as-9-year-old-girl-killed-in-Plainfield-bus-accident-5699521",
+        "coord":  {
+                   "lon":  -72.9046505,
+                   "lat":  42.500001
+                   }
+    },
+    {
+        "date":  "2016-10-30 00:00:00",
+        "name":  "Lixia Lin",
+        "age":  "61",
+        "city":  "Quincy",
+        "link":  "http://www.wcvb.com/news/pedestrian-struck-by-suv-in-quincy/42310220",
+        "coord":  {
+                   "lon":  -71.0296412,
+                   "lat":  42.2754525
+                   }
+    },
+    {
+        "date":  "2016-11-01 00:00:00",
+        "name":  "Denise Hirschel",
+        "age":  "67",
+        "city":  "Woburn",
+        "link":  "http://whdh.com/news/pedestrian-killed-while-walking-on-highway-in-waltham/",
+        "coord":  {
+                   "lon":  -71.257201,
+                   "lat":  42.3890286
+                   }
+    },
+    {
+        "date":  "2016-11-03 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Waltham",
+        "link":  "http://whdh.com/news/officials-investigate-fatal-pedestrian-crash-in-tewksbury/",
+        "coord":  {
+                   "lon":  -71.1970131,
+                   "lat":  42.5993987
+                   }
+    },
+    {
+        "date":  "2016-11-06 00:00:00",
+        "name":  "(male, name not released)",
+        "age":  "70",
+        "city":  "Haverhill",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.1254033,
+                   "lat":  42.7828116
+                   }
+    },
+    {
+        "date":  "2016-11-06 00:00:00",
+        "name":  "(unknown)",
+        "age":  "55-64",
+        "city":  "AMHERST",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -72.51991754,
+                   "lat":  42.37756655
+                   }
+    },
+    {
+        "date":  "2016-11-15 00:00:00",
+        "name":  "(unknown)",
+        "age":  "45-54",
+        "city":  "FALL RIVER",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.15884095,
+                   "lat":  41.69021773
+                   }
+    },
+    {
+        "date":  "2016-11-17 00:00:00",
+        "name":  "(male, name not released)",
+        "age":  "59",
+        "city":  "Wellesley",
+        "link":  "http://www.wcvb.com/article/commuter-rail-train-hits-pedestrian-in-wellesley/8303501",
+        "coord":  {
+                   "lon":  -71.2943575,
+                   "lat":  42.3039251
+                   }
+    },
+    {
+        "date":  "2016-11-18 00:00:00",
+        "name":  "(unknown)",
+        "age":  "45-54",
+        "city":  "BOSTON",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.0775187,
+                   "lat":  42.31396106
+                   }
+    },
+    {
+        "date":  "2016-11-23 00:00:00",
+        "name":  "Richard Barbieri",
+        "age":  "77",
+        "city":  "Newburyport",
+        "link":  "http://whdh.com/news/brockton-police-continue-search-for-hit-and-run-driver/",
+        "coord":  {
+                   "lon":  -71.0195845,
+                   "lat":  42.0693219
+                   }
+    },
+    {
+        "date":  "2016-11-25 00:00:00",
+        "name":  "William C. Krukowski",
+        "age":  "68",
+        "city":  "Charlton",
+        "link":  "http://www.newburyportnews.com/news/local_news/man-struck-by-truck-while-crossing-state-street/article_1abd1c99-4738-597a-86ad-add30ca1d8b8.html",
+        "coord":  {
+                   "lon":  -70.8765427,
+                   "lat":  42.7986236
+                   }
+    },
+    {
+        "date":  "2016-11-25 00:00:00",
+        "name":  "Sergio Licona Vallecillo",
+        "age":  "25",
+        "city":  "Brockton",
+        "link":  "http://www.telegram.com/news/20161125/charlton-man-hit-killed-near-home-on-route-169",
+        "coord":  {
+                   "lon":  -72.0137248,
+                   "lat":  42.1165912
+                   }
+    },
+    {
+        "date":  "2016-11-27 00:00:00",
+        "name":  "BanNon Carroll Williamson",
+        "age":  "40",
+        "city":  "Brookline",
+        "link":  "https://patch.com/massachusetts/brookline/fatal-bike-crash-brookline-police",
+        "coord":  {
+                   "lon":  -71.109333,
+                   "lat":  42.342546
+                   }
+    },
+    {
+        "date":  "2016-11-28 00:00:00",
+        "name":  "(unknown)",
+        "age":  "75-84",
+        "city":  "WATERTOWN",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.19270261,
+                   "lat":  42.36240218
+                   }
+    },
+    {
+        "date":  "2016-11-29 00:00:00",
+        "name":  "William Sherrick",
+        "age":  "66",
+        "city":  "Barre",
+        "link":  "http://www.bostonherald.com/news/local_coverage/2016/11/pedestrian_struck_killed_by_vehicle_in_barre",
+        "coord":  {
+                   "lon":  -72.0929706,
+                   "lat":  42.408279
+                   }
+    },
+    {
+        "date":  "2016-11-29 00:00:00",
+        "name":  "(unknown)",
+        "age":  "55-64",
+        "city":  "METHUEN",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.13903075,
+                   "lat":  42.72884309
+                   }
+    },
+    {
+        "date":  "2016-11-30 00:00:00",
+        "name":  "(unknown)",
+        "age":  "25-34",
+        "city":  "LENOX",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -73.26141248,
+                   "lat":  42.35565284
+                   }
+    },
+    {
+        "date":  "2016-12-03 00:00:00",
+        "name":  "(unknown)",
+        "age":  "65-74",
+        "city":  "SWAMPSCOTT",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.91549659,
+                   "lat":  42.46739037
+                   }
+    },
+    {
+        "date":  "2016-12-05 00:00:00",
+        "name":  "Heidi Folsom",
+        "age":  "56",
+        "city":  "Hingham",
+        "link":  "http://www.wcvb.com/article/pedestrian-struck-killed-in-hingham/8466711",
+        "coord":  {
+                   "lon":  -70.8663891,
+                   "lat":  42.2556812
+                   }
+    },
+    {
+        "date":  "2016-12-08 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - Dorchester",
+        "link":  "http://whdh.com/news/pedestrian-struck-by-mbta-bus-in-south-end/?utm_medium=social&utm_source=twitter_CW56",
+        "coord":  {
+                   "lon":  -71.071815,
+                   "lat":  42.3300757
+                   }
+    },
+    {
+        "date":  "2016-12-08 00:00:00",
+        "name":  "(male, name not released)",
+        "age":  "57",
+        "city":  "New Bedford",
+        "link":  "http://www.nbcboston.com/news/local/Pedestrian-Struck-and-Killed-in-New-Bedford-Massachusetts-405530095.html",
+        "coord":  {
+                   "lon":  -70.9208545,
+                   "lat":  41.6159825
+                   }
+    },
+    {
+        "date":  "2016-12-15 00:00:00",
+        "name":  "Irina Hyde",
+        "age":  "62",
+        "city":  "Braintree",
+        "link":  "http://www.nbcboston.com/news/local/Suspect-Vehicle-Braintree-Massachusetts-Fatal-Hit-and-Run-407107445.html",
+        "coord":  {
+                   "lon":  -70.9721757,
+                   "lat":  42.2208006
+                   }
+    },
+    {
+        "date":  "2016-12-16 00:00:00",
+        "name":  "(unknown)",
+        "age":  "75-84",
+        "city":  "BOSTON",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.09500119,
+                   "lat":  42.26801859
+                   }
+    },
+    {
+        "date":  "2016-12-21 00:00:00",
+        "name":  "Ellen K. Partridge",
+        "age":  "62",
+        "city":  "Rockland",
+        "link":  "http://www.fox25boston.com/news/pedestrian-hit-by-car-in-rockland-police-investigating/477948567",
+        "coord":  {
+                   "lon":  -70.9189121,
+                   "lat":  42.133708
+                   }
+    },
+    {
+        "date":  "2016-12-22 00:00:00",
+        "name":  "Qilian Huang",
+        "age":  "64",
+        "city":  "Malden",
+        "link":  "http://whdh.com/news/police-respond-to-fatal-pedestrian-crash-in-malden/",
+        "coord":  {
+                   "lon":  -71.083791,
+                   "lat":  42.4372892
+                   }
+    },
+    {
+        "date":  "2016-12-24 00:00:00",
+        "name":  "Lawrence Perham",
+        "age":  "39",
+        "city":  "Lowell",
+        "link":  "http://mspnews.org/2016/12/update-state-police-investigating-pedestrian-fatal-in-lowell/",
+        "coord":  {
+                   "lon":  -71.3008977,
+                   "lat":  42.6162392
+                   }
+    },
+    {
+        "date":  "2016-12-25 00:00:00",
+        "name":  "(name not released)",
+        "age":  "70",
+        "city":  "Revere",
+        "link":  "https://www.bostonglobe.com/metro/2016/12/26/year-old-pedestrian-hit-car-revere/en7HWzgWrdvWF7WtdRmjBL/story.html",
+        "coord":  {
+                   "lon":  -71.0032522,
+                   "lat":  42.4140472
+                   }
+    },
+    {
+        "date":  "2017-01-01 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - East Boston",
+        "link":  "http://www.wcvb.com/article/police-investigating-death-of-man-in-east-boston/8552512",
+        "coord":  {
+                   "lon":  -71.0355376,
+                   "lat":  42.3778585
+                   }
+    },
+    {
+        "date":  "2017-01-02 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston",
+        "link":  "https://patch.com/massachusetts/boston/pedestrian-struck-oneill-tunnel-monday-night",
+        "coord":  {
+                   "lon":  -71.053666,
+                   "lat":  42.3568987
+                   }
+    },
+    {
+        "date":  "2017-01-03 00:00:00",
+        "name":  "David Nepini",
+        "age":  "60",
+        "city":  "Attleboro",
+        "link":  "http://www.nbcboston.com/news/local/Man-Arrested-in-Fatal-Attleboro-Hit-and-Run-409679435.html",
+        "coord":  {
+                   "lon":  -71.2900573,
+                   "lat":  41.947211
+                   }
+    },
+    {
+        "date":  "2017-01-03 00:00:00",
+        "name":  "Richard Johnson",
+        "age":  "51",
+        "city":  "Brockton",
+        "link":  "http://www.wickedlocal.com/news/20170104/homeless-man-hit-killed-in-brockton-while-riding-bike",
+        "coord":  {
+                   "lon":  -71.026469,
+                   "lat":  42.111251
+                   }
+    },
+    {
+        "date":  "2017-01-07 00:00:00",
+        "name":  "Jessica Cosman",
+        "age":  "22",
+        "city":  "Boston - Mission Hill",
+        "link":  "http://www.necn.com/news/new-england/Pedestrian-Killed-in-Boston-Neighborhood-409987215.html",
+        "coord":  {
+                   "lon":  -71.1105462,
+                   "lat":  42.3318354
+                   }
+    },
+    {
+        "date":  "2017-01-19 00:00:00",
+        "name":  "Gerald Scott Jr. ",
+        "age":  "53",
+        "city":  "Pittsfield",
+        "link":  "http://www.berkshireeagle.com/stories/driver-arraigned-in-pittsfield-hit-and-run-fatality,515773",
+        "coord":  {
+                   "lon":  -73.258407,
+                   "lat":  42.456482
+                   }
+    },
+    {
+        "date":  "2017-01-25 00:00:00",
+        "name":  "(name not released)",
+        "age":  "45",
+        "city":  "Boston - Roslindale",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.1397896,
+                   "lat":  42.2795906
+                   }
+    },
+    {
+        "date":  "2017-02-01 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Hamilton",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.8768817,
+                   "lat":  42.6091808
+                   }
+    },
+    {
+        "date":  "2017-02-04 00:00:00",
+        "name":  "(name not released)",
+        "age":  "50",
+        "city":  "Norwood",
+        "link":  "https://www.bostonglobe.com/metro/2017/02/03/woman-struck-and-killed-train-norwood/97xEQKJNdfxDsdoXCnlfFL/story.html",
+        "coord":  {
+                   "lon":  -71.2031,
+                   "lat":  42.1884605
+                   }
+    },
+    {
+        "date":  "2017-02-08 00:00:00",
+        "name":  "(name not released)",
+        "age":  "63",
+        "city":  "Needham",
+        "link":  "http://boston.cbslocal.com/2017/02/08/good-samaritan-killed-needham-icy-roads/",
+        "coord":  {
+                   "lon":  -71.22542,
+                   "lat":  42.287987
+                   }
+    },
+    {
+        "date":  "2017-02-12 00:00:00",
+        "name":  "(name not released)",
+        "age":  "60",
+        "city":  "Bedford",
+        "link":  "http://www.wcvb.com/article/pedestrian-seriously-hurt-by-snow-plow-in-bedford/8734851",
+        "coord":  {
+                   "lon":  -71.2761407,
+                   "lat":  42.5072878
+                   }
+    },
+    {
+        "date":  "2017-02-13 00:00:00",
+        "name":  "Tu Nghiem",
+        "age":  "72",
+        "city":  "Worcester",
+        "link":  "http://www.nbcboston.com/news/local/Pedestrian-Hit-and-Run-Crash-Plow-Truck-Worcester-Massachusetts-413576373.html",
+        "coord":  {
+                   "lon":  -71.8435689,
+                   "lat":  42.2773294
+                   }
+    },
+    {
+        "date":  "2017-02-18 00:00:00",
+        "name":  "(name not released)",
+        "age":  "75",
+        "city":  "Brockton",
+        "link":  "http://whdh.com/news/pedestrian-struck-by-mbta-train-in-brockton/",
+        "coord":  {
+                   "lon":  -71.018394,
+                   "lat":  42.0839459
+                   }
+    },
+    {
+        "date":  "2017-02-19 00:00:00",
+        "name":  "Cusandra Webb",
+        "age":  "29",
+        "city":  "Boston - Roxbury",
+        "link":  "https://www.bostonglobe.com/metro/2017/02/20/woman-dies-after-being-dragged-vehicle-dorchester/PQ60AoER1BDvF2qJ3YNYyJ/story.html",
+        "coord":  {
+                   "lon":  -71.071815,
+                   "lat":  42.3300718
+                   }
+    },
+    {
+        "date":  "2017-02-22 00:00:00",
+        "name":  "(name not released)",
+        "age":  "67",
+        "city":  "Boston",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.0403232,
+                   "lat":  42.3143286
+                   }
+    },
+    {
+        "date":  "2017-02-24 00:00:00",
+        "name":  "Rungen Chen",
+        "age":  "70",
+        "city":  "Quincy",
+        "link":  "http://www.bostonglobe.com/metro/2017/02/25/man-hit-and-killed-car-quincy-friday-night/D8jqRPj0z9z6lcYuYm1ruI/story.html",
+        "coord":  {
+                   "lon":  -71.0061755,
+                   "lat":  42.2486764
+                   }
+    },
+    {
+        "date":  "2017-02-26 00:00:00",
+        "name":  "Hiep Huynh",
+        "age":  "48",
+        "city":  "Brockton",
+        "link":  "http://www.enterprisenews.com/news/20170302/randolph-father-killed-crossing-brockton-street-with-son",
+        "coord":  {
+                   "lon":  -70.9921993,
+                   "lat":  42.0860605
+                   }
+    },
+    {
+        "date":  "2017-02-27 00:00:00",
+        "name":  "Pamela Cohen",
+        "age":  "64",
+        "city":  "Brockton",
+        "link":  "http://www.wickedlocal.com/news/20170227/woman-in-crosswalk-killed-on-main-street-in-brockton",
+        "coord":  {
+                   "lon":  -71.0211753,
+                   "lat":  42.0737354
+                   }
+    },
+    {
+        "date":  "2017-02-27 00:00:00",
+        "name":  "(name not released)",
+        "age":  "17",
+        "city":  "Ashland",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.4880335,
+                   "lat":  42.2597395
+                   }
+    },
+    {
+        "date":  "2017-02-28 00:00:00",
+        "name":  "(name not released)",
+        "age":  "60s",
+        "city":  "Acton",
+        "link":  "http://www.nbcboston.com/news/local/Woman-Struck-Killed-in-Grocery-Store-Parking-Lot-In-Acton-415042713.html",
+        "coord":  {
+                   "lon":  -71.4167677,
+                   "lat":  42.48251
+                   }
+    },
+    {
+        "date":  "2017-03-01 00:00:00",
+        "name":  "Claudio Correia",
+        "age":  "26",
+        "city":  "Boston - Dorchester (I-93)",
+        "link":  "http://www.bizjournals.com/boston/news/2017/03/01/traffic-delays-on-southeast-expressway-after.html",
+        "coord":  {
+                   "lon":  -71.0543581,
+                   "lat":  42.3254001
+                   }
+    },
+    {
+        "date":  "2017-03-03 00:00:00",
+        "name":  "William Conway",
+        "age":  "50",
+        "city":  "East Longmeadow",
+        "link":  "http://www.westernmassnews.com/story/34668371/ludlow-man-identified-as-pedestrian-who-was-struck-and-killed-in-east-longmeadow",
+        "coord":  {
+                   "lon":  -72.5265031,
+                   "lat":  42.0525173
+                   }
+    },
+    {
+        "date":  "2017-03-10 00:00:00",
+        "name":  "(name not released)",
+        "age":  "47",
+        "city":  "Boston - South End",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.0801738,
+                   "lat":  42.3396054
+                   }
+    },
+    {
+        "date":  "2017-03-20 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Somerville",
+        "link":  "http://www.bostonmagazine.com/news/blog/2017/03/20/commuter-rail-crash-somerville/",
+        "coord":  {
+                   "lon":  -71.1058432,
+                   "lat":  42.3810125
+                   }
+    },
+    {
+        "date":  "2017-04-01 00:00:00",
+        "name":  "(name not released)",
+        "age":  "36",
+        "city":  "Saugus",
+        "link":  "http://northofboston.wickedlocal.com/news/20170401/update-saugus-police-respond-to-fatal-automobile-incident-involving-pedestrian",
+        "coord":  {
+                   "lon":  -71.0257617,
+                   "lat":  42.4745681
+                   }
+    },
+    {
+        "date":  "2017-04-03 00:00:00",
+        "name":  "Nancy Farnkoff",
+        "age":  "33",
+        "city":  "Westboro",
+        "link":  "http://www.masslive.com/news/worcester/index.ssf/2017/04/33-year-old_boston_woman_struc.html",
+        "coord":  {
+                   "lon":  -71.6249508,
+                   "lat":  42.2839686
+                   }
+    },
+    {
+        "date":  "2017-04-16 00:00:00",
+        "name":  "Jonathan Loja",
+        "age":  "4",
+        "city":  "Milford",
+        "link":  "https://www.bostonglobe.com/metro/2017/04/17/absolutely-red-scion-still-being-sought-for-fatal-hit-and-run-crash-milford/HQh09myAezVPStwqXV66vM/story.html#comments",
+        "coord":  {
+                   "lon":  -71.5319185,
+                   "lat":  42.1381088
+                   }
+    },
+    {
+        "date":  "2017-04-24 00:00:00",
+        "name":  "Gillian Seidl",
+        "age":  "78",
+        "city":  "Sheffield",
+        "link":  "https://theberkshireedge.com/sheffield-pedestrian-dies-after-being-struck-by-truck/",
+        "coord":  {
+                   "lon":  -73.3548917,
+                   "lat":  42.1082929
+                   }
+    },
+    {
+        "date":  "2017-04-26 00:00:00",
+        "name":  "David Santiago",
+        "age":  "42",
+        "city":  "Brockton",
+        "link":  "http://boston.cbslocal.com/2017/04/26/brockton-pedestrian-killed-north-main-street/",
+        "coord":  {
+                   "lon":  -71.0237605,
+                   "lat":  42.1016845
+                   }
+    },
+    {
+        "date":  "2017-04-30 00:00:00",
+        "name":  "Rick Archer",
+        "age":  "29",
+        "city":  "Boston",
+        "link":  "https://www.wbur.org/news/2017/05/11/ghost-bike-rick-archer",
+        "coord":  {
+                   "lon":  -71.075983,
+                   "lat":  42.352278
+                   }
+    },
+    {
+        "date":  "2017-05-03 00:00:00",
+        "name":  "Elliott Rowlands Jr",
+        "age":  "50",
+        "city":  "Billerica",
+        "link":  "http://www.bostonherald.com/news/local_coverage/2017/05/4th_victim_dies_from_injuries_in_billerica_auto_auction_crash",
+        "coord":  {
+                   "lon":  -71.3170097,
+                   "lat":  42.572058
+                   }
+    },
+    {
+        "date":  "2017-05-03 00:00:00",
+        "name":  "Leezandra Aponte",
+        "age":  "36",
+        "city":  "Billerica",
+        "link":  "http://www.nbcboston.com/news/local/Car-Into-Building-Numerous-Injuries-in-Billerica-Massachusetts-421163493.html",
+        "coord":  {
+                   "lon":  -71.3170097,
+                   "lat":  42.572058
+                   }
+    },
+    {
+        "date":  "2017-05-03 00:00:00",
+        "name":  "Ruben Espaillat",
+        "age":  "55",
+        "city":  "Billerica",
+        "link":  "http://www.wcvb.com/article/5th-victim-of-auto-auction-crash-dies/9649951",
+        "coord":  {
+                   "lon":  -71.3170097,
+                   "lat":  42.572058
+                   }
+    },
+    {
+        "date":  "2017-05-03 00:00:00",
+        "name":  "Brenda Lopez",
+        "age":  "48",
+        "city":  "Billerica",
+        "link":  "http://www.wcvb.com/article/auto-auction-to-boost-safety-precautions-after-crash-kills-3/9606561",
+        "coord":  {
+                   "lon":  -71.3170097,
+                   "lat":  42.572058
+                   }
+    },
+    {
+        "date":  "2017-05-03 00:00:00",
+        "name":  "Pantaleon Santos",
+        "age":  "49",
+        "city":  "Billerica",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.3170097,
+                   "lat":  42.572058
+                   }
+    },
+    {
+        "date":  "2017-05-10 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "North Andover",
+        "link":  "http://www.fox25boston.com/news/pedestrian-hit-by-train-in-north-andover/521125844",
+        "coord":  {
+                   "lon":  -71.1352722,
+                   "lat":  42.7058615
+                   }
+    },
+    {
+        "date":  "2017-05-12 00:00:00",
+        "name":  "(name not released)",
+        "age":  "2",
+        "city":  "Rutland",
+        "link":  "http://boston.cbslocal.com/2017/05/13/rutland-child-killed-campbell-street/",
+        "coord":  {
+                   "lon":  -71.9575742,
+                   "lat":  42.410293
+                   }
+    },
+    {
+        "date":  "2017-05-14 00:00:00",
+        "name":  "Molly Doub",
+        "age":  "31",
+        "city":  "Cambridge",
+        "link":  "http://mspnews.org/2017/05/pedestrian-struck-in-cambridge-has-died-investigation-ongoing/",
+        "coord":  {
+                   "lon":  -71.1164085,
+                   "lat":  42.3562719
+                   }
+    },
+    {
+        "date":  "2017-05-15 00:00:00",
+        "name":  "Alan Porter",
+        "age":  "78",
+        "city":  "Northampton",
+        "link":  "https://www.gazettenet.com/Police-issue-findings-in-crash-that-killed-Northampton-cyclist-10425633",
+        "coord":  {
+                   "lon":  -72.662403,
+                   "lat":  42.329321
+                   }
+    },
+    {
+        "date":  "2017-05-22 00:00:00",
+        "name":  "(name not released)",
+        "age":  "69",
+        "city":  "Sandwich",
+        "link":  "http://www.capecodtimes.com/news/20170522/2-pedestrians-killed-in-sandwich-crash",
+        "coord":  {
+                   "lon":  -70.509309,
+                   "lat":  41.765335
+                   }
+    },
+    {
+        "date":  "2017-05-22 00:00:00",
+        "name":  "(name not released)",
+        "age":  "87",
+        "city":  "Sandwich",
+        "link":  "http://www.capecodtimes.com/news/20170522/2-pedestrians-killed-in-sandwich-crash",
+        "coord":  {
+                   "lon":  -70.509309,
+                   "lat":  41.765335
+                   }
+    },
+    {
+        "date":  "2017-05-28 00:00:00",
+        "name":  "Luis Rocano",
+        "age":  "20",
+        "city":  "Barnstable",
+        "link":  "http://whdh.com/news/pedestrian-struck-killed-by-police-cruiser-in-barnstable/",
+        "coord":  {
+                   "lon":  -70.3424479,
+                   "lat":  41.657375
+                   }
+    },
+    {
+        "date":  "2017-05-29 00:00:00",
+        "name":  "John Clark",
+        "age":  "(age not released)",
+        "city":  "Boston - South End",
+        "link":  "http://www.bostonglobe.com/metro/2017/05/29/pedestrian-hit-car-south-end/oP7t5pip7vHEP4boEa3w7I/story.html",
+        "coord":  {
+                   "lon":  -71.0748143,
+                   "lat":  42.343676
+                   }
+    },
+    {
+        "date":  "2017-05-31 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Lowell",
+        "link":  "https://twitter.com/julimcdonald/status/870054757087551493",
+        "coord":  {
+                   "lon":  -71.308985,
+                   "lat":  42.6462557
+                   }
+    },
+    {
+        "date":  "2017-06-02 00:00:00",
+        "name":  "(name not released)",
+        "age":  "48",
+        "city":  "Lynn",
+        "link":  "http://www.nbcboston.com/news/local/Pedestrian-Struck-by-MBTA-Commuter-Train-426014143.html",
+        "coord":  {
+                   "lon":  -70.9466304,
+                   "lat":  42.4629052
+                   }
+    },
+    {
+        "date":  "2017-06-09 00:00:00",
+        "name":  "Jaydon Dancy",
+        "age":  "10",
+        "city":  "Salem",
+        "link":  "http://www.salemnews.com/news/update-boy-killed-after-struck-by-train/article_4d6eeb40-4d78-11e7-b1ee-7799ea0be217.html",
+        "coord":  {
+                   "lon":  -70.9020285,
+                   "lat":  42.5064711
+                   }
+    },
+    {
+        "date":  "2017-06-14 00:00:00",
+        "name":  "(name not released)",
+        "age":  "75",
+        "city":  "Acton",
+        "link":  "https://www.bostonglobe.com/metro/2017/06/13/woman-fatally-struck-acton/99K4HSF1hUPwGWrgNoDlLM/story.html",
+        "coord":  {
+                   "lon":  -71.4450443,
+                   "lat":  42.4842258
+                   }
+    },
+    {
+        "date":  "2017-06-16 00:00:00",
+        "name":  "Scott D. Rooney",
+        "age":  "45",
+        "city":  "Quincy",
+        "link":  "https://www.bostonglobe.com/metro/2017/06/17/pedestrian-struck-and-killed-quincy-friday-night/ZxFU5darw3XHsDZSVOs0IM/story.html",
+        "coord":  {
+                   "lon":  -71.0287961,
+                   "lat":  42.2865985
+                   }
+    },
+    {
+        "date":  "2017-07-04 00:00:00",
+        "name":  "(name not released)",
+        "age":  "21",
+        "city":  "Boston - Brighton",
+        "link":  "https://patch.com/massachusetts/boston/man-killed-train-brighton",
+        "coord":  {
+                   "lon":  -71.1594469,
+                   "lat":  42.3568371
+                   }
+    },
+    {
+        "date":  "2017-07-06 00:00:00",
+        "name":  "Joseph Perez",
+        "age":  "17",
+        "city":  "Fitchburg",
+        "link":  "https://www.masslive.com/news/worcester/2017/07/17-year-old_fitchburg_bicyclis.html",
+        "coord":  {
+                   "lon":  -71.782151,
+                   "lat":  42.574969
+                   }
+    },
+    {
+        "date":  "2017-07-15 00:00:00",
+        "name":  "Lawrence Henry",
+        "age":  "51",
+        "city":  "Springfield",
+        "link":  "http://www.westernmassnews.com/story/35903900/officials-identify-bicyclist-struck-and-killed-on-page-blvd-in-springfield",
+        "coord":  {
+                   "lon":  -72.525561,
+                   "lat":  42.149996
+                   }
+    },
+    {
+        "date":  "2017-07-19 00:00:00",
+        "name":  "Nancy Ann Bronder",
+        "age":  "54",
+        "city":  "Hopkinton",
+        "link":  "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi8h6bZv_zzAhVPRzABHbRBBHkQFNoECAUQAQ&url=https%3A%2F%2Fwww.massbike.org%2Fmore_questions_than_answers_in_death_of_nancy_ann_bronder&usg=AOvVaw1pbHMvVTqi6BXXNm7Tk_P3",
+        "coord":  {
+                   "lon":  -71.511765,
+                   "lat":  42.224945
+                   }
+    },
+    {
+        "date":  "2017-07-23 00:00:00",
+        "name":  "(name not released)",
+        "age":  "10",
+        "city":  "Upton (I-90)",
+        "link":  "http://mspnews.org/2017/07/update-state-police-investigating-pike-crash-that-killed-girl-10/",
+        "coord":  {
+                   "lon":  -71.6229629,
+                   "lat":  42.230392
+                   }
+    },
+    {
+        "date":  "2017-07-23 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Burlington (I-95)",
+        "link":  "https://www.bostonglobe.com/metro/2017/07/23/pedestrian-dead-after-being-struck-two-cars-interstate/VgXTjU5BFCcIzoPHyFQZrN/story.html",
+        "coord":  {
+                   "lon":  -71.1801602,
+                   "lat":  42.495595
+                   }
+    },
+    {
+        "date":  "2017-08-02 00:00:00",
+        "name":  "Donald P. Surprenant",
+        "age":  "75",
+        "city":  "Worcester",
+        "link":  "http://www.telegram.com/news/20171130/driver-charged-in-worcester-pedestrian-death",
+        "coord":  {
+                   "lon":  -71.8018543,
+                   "lat":  42.2617038
+                   }
+    },
+    {
+        "date":  "2017-08-04 00:00:00",
+        "name":  "Cheryl Ann McCarthy",
+        "age":  "55",
+        "city":  "Norwood",
+        "link":  "https://www.bostonglobe.com/metro/2017/08/04/pedestrian-killed-construction-vehicle-norwood/GEYdvXd8ysjPZQKSwcoHGK/story.html",
+        "coord":  {
+                   "lon":  -71.2023132,
+                   "lat":  42.1930747
+                   }
+    },
+    {
+        "date":  "2017-08-06 00:00:00",
+        "name":  "Marcus Osborne",
+        "age":  "23",
+        "city":  "Plymouth",
+        "link":  "http://www.fox25boston.com/news/plymouth-hit-and-run-victims-family-wants-to-see-cited-driver-in-court/611643933",
+        "coord":  {
+                   "lon":  -70.5735642,
+                   "lat":  41.8642176
+                   }
+    },
+    {
+        "date":  "2017-08-06 00:00:00",
+        "name":  "Daniel Pimenta ",
+        "age":  "53",
+        "city":  "Beverly",
+        "link":  "https://www.salemnews.com/news/local_news/peabody-firefighter-killed-in-bicycle-crash-fought-ms-for-years/article_39ea89a9-e6ce-52d6-908e-3312cff7eb0f.html",
+        "coord":  {
+                   "lon":  -70.80154,
+                   "lat":  42.564529
+                   }
+    },
+    {
+        "date":  "2017-08-07 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Norwood",
+        "link":  "http://boston.cbslocal.com/2017/08/07/norwood-tractor-trailer-person-killed/",
+        "coord":  {
+                   "lon":  -71.2044954,
+                   "lat":  42.2098363
+                   }
+    },
+    {
+        "date":  "2017-08-23 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Worcester",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.8427573,
+                   "lat":  42.2754296
+                   }
+    },
+    {
+        "date":  "2017-08-25 00:00:00",
+        "name":  "Raekwan Jenkins",
+        "age":  "16",
+        "city":  "Taunton",
+        "link":  "https://www.wpri.com/news/16-year-old-bicyclist-killed-in-raynham-crash-No-charges-for-driver/",
+        "coord":  {
+                   "lon":  -71.069768,
+                   "lat":  41.956601
+                   }
+    },
+    {
+        "date":  "2017-09-05 00:00:00",
+        "name":  "(name not released)",
+        "age":  "20",
+        "city":  "Beverly",
+        "link":  "http://mspnews.org/2017/09/state-police-investigating-fatal-pedestrian-crash-in-beverly/",
+        "coord":  {
+                   "lon":  -70.858174,
+                   "lat":  42.5722775
+                   }
+    },
+    {
+        "date":  "2017-09-07 00:00:00",
+        "name":  "Jadee Soto Diaz",
+        "age":  "11",
+        "city":  "Methuen",
+        "link":  "http://www.bostonglobe.com/metro/2017/09/08/methuen-police-year-old-girl-struck-hit-and-run-driver-has-died/EJjVSwJf0Y1jX3iTTXsevL/story.html",
+        "coord":  {
+                   "lon":  -71.1897873,
+                   "lat":  42.7194371
+                   }
+    },
+    {
+        "date":  "2017-09-11 00:00:00",
+        "name":  "Theresa Lauro",
+        "age":  "25",
+        "city":  "Blandford (I-90 rest stop)",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -72.933071,
+                   "lat":  42.195299
+                   }
+    },
+    {
+        "date":  "2017-09-15 00:00:00",
+        "name":  "John Paire",
+        "age":  "40",
+        "city":  "Charlton",
+        "link":  "https://whdh.com/news/police-bicyclist-struck-and-killed-by-car-in-charlton-has-been-identified/",
+        "coord":  {
+                   "lon":  -71.995044,
+                   "lat":  42.144651
+                   }
+    },
+    {
+        "date":  "2017-09-24 00:00:00",
+        "name":  "Nathaniel Acevedo",
+        "age":  "13",
+        "city":  "Springfield",
+        "link":  "http://www.masslive.com/news/index.ssf/2017/09/13-year-old_boy_fatally_injure_2.html",
+        "coord":  {
+                   "lon":  -72.5296536,
+                   "lat":  42.1276521
+                   }
+    },
+    {
+        "date":  "2017-10-07 00:00:00",
+        "name":  "Savannah Curran",
+        "age":  "4",
+        "city":  "Holbrook",
+        "link":  "http://www.wbur.org/news/2017/10/12/comcast-truck-hits-kills-girl",
+        "coord":  {
+                   "lon":  -70.9810234,
+                   "lat":  42.1566605
+                   }
+    },
+    {
+        "date":  "2017-10-09 00:00:00",
+        "name":  "(name not released)",
+        "age":  "18",
+        "city":  "Concord",
+        "link":  "https://www.bostonglobe.com/metro/2017/10/11/transit-police-investigating-tracks-somerville-leading-fitchburg-train-cancellation/eb1j86egcW7dQfgzywHmVP/story.html",
+        "coord":  {
+                   "lon":  -71.3770157,
+                   "lat":  42.4588693
+                   }
+    },
+    {
+        "date":  "2017-10-11 00:00:00",
+        "name":  "(name not released, female)",
+        "age":  "20s",
+        "city":  "Somerville",
+        "link":  "https://www.bostonglobe.com/metro/2017/10/11/transit-police-investigating-tracks-somerville-leading-fitchburg-train-cancellation/eb1j86egcW7dQfgzywHmVP/story.html",
+        "coord":  {
+                   "lon":  -71.1064839,
+                   "lat":  42.3792246
+                   }
+    },
+    {
+        "date":  "2017-10-12 00:00:00",
+        "name":  "Wei Wang",
+        "age":  "64",
+        "city":  "Westford",
+        "link":  "http://www.fox25boston.com/news/woman-killed-by-own-car-in-westford-parking-lot/623722952",
+        "coord":  {
+                   "lon":  -71.4281867,
+                   "lat":  42.5656349
+                   }
+    },
+    {
+        "date":  "2017-10-14 00:00:00",
+        "name":  "Ariel Dineen",
+        "age":  "19",
+        "city":  "Avon",
+        "link":  "http://www.wickedlocal.com/news/20171016/family-wants-answers-following-fatal-pedestrian-accident",
+        "coord":  {
+                   "lon":  -71.0696073,
+                   "lat":  42.1261746
+                   }
+    },
+    {
+        "date":  "2017-10-29 00:00:00",
+        "name":  "Timothy Ring",
+        "age":  "46",
+        "city":  "Quincy",
+        "link":  "http://www.masslive.com/news/index.ssf/2017/10/timothy_m_ring_identified_as_p.html",
+        "coord":  {
+                   "lon":  -71.0330346,
+                   "lat":  42.2283129
+                   }
+    },
+    {
+        "date":  "2017-10-29 00:00:00",
+        "name":  "Lisa Germain",
+        "age":  "54",
+        "city":  "East Brookfield",
+        "link":  "http://www.telegram.com/news/20171029/pedestrian-killed-in-hit-and-run-on-route-9-in-east-brookfield",
+        "coord":  {
+                   "lon":  -72.0499516,
+                   "lat":  42.2261005
+                   }
+    },
+    {
+        "date":  "2017-10-31 00:00:00",
+        "name":  "Braedyn Collins",
+        "age":  "11",
+        "city":  "Agawam",
+        "link":  "http://www.masslive.com/news/index.ssf/2017/11/agawam_fire_department_acknowl.html",
+        "coord":  {
+                   "lon":  -72.6393647,
+                   "lat":  42.091716
+                   }
+    },
+    {
+        "date":  "2017-11-03 00:00:00",
+        "name":  "(name not released)",
+        "age":  "21",
+        "city":  "Norfolk",
+        "link":  "http://www.masslive.com/news/index.ssf/2017/11/pedestrian_hit_by_mbta_commute.html",
+        "coord":  {
+                   "lon":  -71.3989986,
+                   "lat":  42.0825738
+                   }
+    },
+    {
+        "date":  "2017-11-03 00:00:00",
+        "name":  "Antawani Wright Davis",
+        "age":  "19",
+        "city":  "Boston",
+        "link":  "https://www.bostonglobe.com/metro/2017/11/04/teen-killed-dump-truck-dorchester-friday-was-trying-his-hand-modeling-photography/CxX42v0S6eh9xULSTF8X2K/story.html",
+        "coord":  {
+                   "lon":  -71.071781,
+                   "lat":  42.321399
+                   }
+    },
+    {
+        "date":  "2017-11-04 00:00:00",
+        "name":  "(name not released)",
+        "age":  "48",
+        "city":  "Westport",
+        "link":  "http://whdh.com/news/female-pedestrian-struck-killed-in-westport/",
+        "coord":  {
+                   "lon":  -71.1182943,
+                   "lat":  41.6795961
+                   }
+    },
+    {
+        "date":  "2017-11-06 00:00:00",
+        "name":  "Alma Cico",
+        "age":  "59",
+        "city":  "Shrewsbury",
+        "link":  "http://www.telegram.com/news/20171107/59-year-old-shrewsbury-woman-was-victim-of-hit-run",
+        "coord":  {
+                   "lon":  -71.7187646,
+                   "lat":  42.2916309
+                   }
+    },
+    {
+        "date":  "2017-11-07 00:00:00",
+        "name":  "(name not released)",
+        "age":  "21",
+        "city":  "Chelsea",
+        "link":  "http://www.tpdnews411.com/2017/11/tpd-confirm-fatality-in-chelsea.html",
+        "coord":  {
+                   "lon":  -71.0406222,
+                   "lat":  42.3962076
+                   }
+    },
+    {
+        "date":  "2017-11-08 00:00:00",
+        "name":  "(name not released)",
+        "age":  "60s",
+        "city":  "Ashland",
+        "link":  "https://patch.com/massachusetts/framingham/train-crash-kills-pedestrian-ashland",
+        "coord":  {
+                   "lon":  -71.4613354,
+                   "lat":  42.2598834
+                   }
+    },
+    {
+        "date":  "2017-11-11 00:00:00",
+        "name":  "Nelson Dionne",
+        "age":  "80",
+        "city":  "West Springfield",
+        "link":  "http://wwlp.com/2017/11/12/elderly-pedestrian-struck-killed-in-west-springfield/",
+        "coord":  {
+                   "lon":  -72.6905861,
+                   "lat":  42.1077316
+                   }
+    },
+    {
+        "date":  "2017-11-19 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Weymouth",
+        "link":  "http://mspnews.org/2017/11/state-police-investigating-pedestrian-fatal-crash-on-route-3-in-weymouth/",
+        "coord":  {
+                   "lon":  -70.9776716,
+                   "lat":  42.2462662
+                   }
+    },
+    {
+        "date":  "2017-11-19 00:00:00",
+        "name":  "Edward "Eddie" Thomson",
+        "age":  "6",
+        "city":  "Westwood",
+        "link":  "http://www.wcvb.com/article/vigil-to-be-held-for-first-grader-who-died-after-being-struck-by-car/13856367",
+        "coord":  {
+                   "lon":  -71.2362128,
+                   "lat":  42.2082921
+                   }
+    },
+    {
+        "date":  "2017-11-24 00:00:00",
+        "name":  "Donald Champoux",
+        "age":  "64",
+        "city":  "Newburyport",
+        "link":  "http://www.bostonglobe.com/metro/2017/11/24/pedestrian-struck-vehicle-newburyport/791k30yCLfq1uiErZwOpfM/story.html",
+        "coord":  {
+                   "lon":  -70.9182288,
+                   "lat":  42.8199259
+                   }
+    },
+    {
+        "date":  "2017-11-27 00:00:00",
+        "name":  "Zoe Rosenthal",
+        "age":  "52",
+        "city":  "Holyoke",
+        "link":  "https://www.masslive.com/news/index.ssf/2017/12/investigators_release_name_of_2.html",
+        "coord":  {
+                   "lon":  -72.594563,
+                   "lat":  42.207189
+                   }
+    },
+    {
+        "date":  "2017-11-30 00:00:00",
+        "name":  "Jeannine Blanchard",
+        "age":  "54",
+        "city":  "Taunton",
+        "link":  "http://www.tauntongazette.com/news/20171201/two-fatal-pedestrian-accidents-in-taunton-in-less-than-24-hours",
+        "coord":  {
+                   "lon":  -71.1291776,
+                   "lat":  41.9503045
+                   }
+    },
+    {
+        "date":  "2017-12-01 00:00:00",
+        "name":  "(name not released)",
+        "age":  "68",
+        "city":  "Taunton",
+        "link":  "http://www.tauntongazette.com/news/20171201/two-fatal-pedestrian-accidents-in-taunton-in-less-than-24-hours",
+        "coord":  {
+                   "lon":  -71.0943675,
+                   "lat":  41.9105546
+                   }
+    },
+    {
+        "date":  "2017-12-04 00:00:00",
+        "name":  "(name not released)",
+        "age":  "61",
+        "city":  "Worcester",
+        "link":  "http://www.telegram.com/news/20171204/worcester-pedestrian-dies-after-being-struck-by-jeep-on-shrewsbury-street",
+        "coord":  {
+                   "lon":  -71.7787908,
+                   "lat":  42.27361
+                   }
+    },
+    {
+        "date":  "2017-12-20 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - South End",
+        "link":  "https://www.necn.com/news/new-england/Pedestrian-Struck-in-Boston-465498783.html",
+        "coord":  {
+                   "lon":  -71.0662914,
+                   "lat":  42.3464487
+                   }
+    },
+    {
+        "date":  "2017-12-23 00:00:00",
+        "name":  "Anthony Perry",
+        "age":  "29",
+        "city":  "Seekonk",
+        "link":  "http://mspnews.org/2017/12/update-state-police-investigate-pedestrian-fatal-on-route-195-in-seekonk/",
+        "coord":  {
+                   "lon":  -71.3426398,
+                   "lat":  41.8040651
+                   }
+    },
+    {
+        "date":  "2017-12-24 00:00:00",
+        "name":  "Darkeem Kelow",
+        "age":  "26",
+        "city":  "Bridgewater",
+        "link":  "https://www.bostonglobe.com/metro/2017/12/25/pedestrian-fatally-struck-route-bridgewater/SusdWggWbydQzCpmqSXu1O/story.html",
+        "coord":  {
+                   "lon":  -71.0357048,
+                   "lat":  41.9703591
+                   }
+    },
+    {
+        "date":  "2017-12-25 00:00:00",
+        "name":  "Felix Bonilla",
+        "age":  "33",
+        "city":  "Worcester",
+        "link":  "http://boston.cbslocal.com/2017/12/26/worcester-chandler-street-fatal-hit-and-run-susan-dixon/",
+        "coord":  {
+                   "lon":  -71.8058448,
+                   "lat":  42.2595752
+                   }
+    },
+    {
+        "date":  "2018-01-05 00:00:00",
+        "name":  "John Pina",
+        "age":  "62",
+        "city":  "Centerville",
+        "link":  "http://www.bostonglobe.com/metro/2018/01/05/barnstable-man-killed-hit-and-run-crash/UbVAm3nirbjvtG9Qht77iK/story.html",
+        "coord":  {
+                   "lon":  -70.345342,
+                   "lat":  41.657162
+                   }
+    },
+    {
+        "date":  "2018-01-11 00:00:00",
+        "name":  "Cory W. Bonin",
+        "age":  "40",
+        "city":  "Shrewsbury",
+        "link":  "http://www.telegram.com/news/20180112/pedestrian-hit-killed-by-van-in-shrewsbury",
+        "coord":  {
+                   "lon":  -71.741143,
+                   "lat":  42.243498
+                   }
+    },
+    {
+        "date":  "2018-01-12 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "83",
+        "city":  "Boston - Back Bay",
+        "link":  "https://www.bostonglobe.com/metro/2018/01/12/pedestrian-struck-seriously-injured-back-bay/8GHJUtjEye2UV1aOYtCSHP/story.html",
+        "coord":  {
+                   "lon":  -71.088099,
+                   "lat":  42.34809
+                   }
+    },
+    {
+        "date":  "2018-01-13 00:00:00",
+        "name":  "Sam Bixler",
+        "age":  "29",
+        "city":  "Cambridge",
+        "link":  "http://www.cambridgeday.com/2018/02/15/high-school-mourns-teacher-sam-bixler-29-who-lost-fight-to-recover-after-hit-from-car/",
+        "coord":  {
+                   "lon":  -71.101131,
+                   "lat":  42.363879
+                   }
+    },
+    {
+        "date":  "2018-01-21 00:00:00",
+        "name":  "Virginia Schabowski",
+        "age":  "59",
+        "city":  "Springfield",
+        "link":  "http://www.westernmassnews.com/story/37324415/springfield-police-investigating-a-serious-pedestrian-accident",
+        "coord":  {
+                   "lon":  -72.557466,
+                   "lat":  42.144464
+                   }
+    },
+    {
+        "date":  "2018-01-26 00:00:00",
+        "name":  "Mark Lozada Davis",
+        "age":  "28",
+        "city":  "Springfield",
+        "link":  "http://www.masslive.com/news/index.ssf/2018/01/pedestrian_struck_by_vehicle_a.html",
+        "coord":  {
+                   "lon":  -72.498559,
+                   "lat":  42.119391
+                   }
+    },
+    {
+        "date":  "2018-02-08 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "80s",
+        "city":  "Boston - Back Bay",
+        "link":  "http://boston.cbslocal.com/2018/02/09/back-bay-pedestrian-killed/",
+        "coord":  {
+                   "lon":  -71.088088,
+                   "lat":  42.348094
+                   }
+    },
+    {
+        "date":  "2018-02-10 00:00:00",
+        "name":  "Adrienne Garrido",
+        "age":  "17",
+        "city":  "Needham",
+        "link":  "http://boston.cbslocal.com/2018/02/11/counselors-needham-high-school-crash-kills-talia-newfield/",
+        "coord":  {
+                   "lon":  -71.229861,
+                   "lat":  42.285363
+                   }
+    },
+    {
+        "date":  "2018-02-10 00:00:00",
+        "name":  "Talia Newfield",
+        "age":  "16",
+        "city":  "Needham",
+        "link":  "http://www.bostonglobe.com/metro/2018/02/10/year-old-needham-girl-killed-pedestrian-crash/lHzexmZ01AvnLgCGjb8zQN/story.html",
+        "coord":  {
+                   "lon":  -71.229861,
+                   "lat":  42.285363
+                   }
+    },
+    {
+        "date":  "2018-02-10 00:00:00",
+        "name":  "Ralph Hawkins",
+        "age":  "76",
+        "city":  "Canton",
+        "link":  "http://www.mspnews.org/2018/02/state-police-investigating-pedestrian-fatal-in-canton/",
+        "coord":  {
+                   "lon":  -71.156284,
+                   "lat":  42.14831
+                   }
+    },
+    {
+        "date":  "2018-02-14 00:00:00",
+        "name":  "Lisa Parker",
+        "age":  "51",
+        "city":  "Springfield",
+        "link":  "http://www.wwlp.com/news/local-news/hampden-county/victim-of-pedestrian-accident-in-springfield-identified/1082409373",
+        "coord":  {
+                   "lon":  -72.530538,
+                   "lat":  42.088361
+                   }
+    },
+    {
+        "date":  "2018-02-15 00:00:00",
+        "name":  "(name not released, woman)",
+        "age":  "70",
+        "city":  "Framingham",
+        "link":  "http://www.bostonglobe.com/metro/2018/02/16/framingham-woman-dies-after-being-struck-car-crossing-route/e6WeaWHDo70oM13IDHMYfK/story.html",
+        "coord":  {
+                   "lon":  -71.422369,
+                   "lat":  42.298061
+                   }
+    },
+    {
+        "date":  "2018-02-21 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Dorchester (I-93)",
+        "link":  "http://www.bostonherald.com/news/local_coverage/herald_bulldog/2018/02/pedestrian_fatality_closes_i_93_northbound",
+        "coord":  {
+                   "lon":  -71.048706,
+                   "lat":  42.300833
+                   }
+    },
+    {
+        "date":  "2018-02-25 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "(age not released)",
+        "city":  "Newburyport (I-95)",
+        "link":  "http://www.mspnews.org/2018/02/state-police-investigating-pedestrian-fatal-crash-on-route-95-in-newburyport/",
+        "coord":  {
+                   "lon":  -70.916119,
+                   "lat":  42.821521
+                   }
+    },
+    {
+        "date":  "2018-03-03 00:00:00",
+        "name":  "Stasha Lynn Faria",
+        "age":  "33",
+        "city":  "Dartmouth",
+        "link":  "http://wbsm.com/westport-woman-killed-in-dartmouth-hit-and-run/",
+        "coord":  {
+                   "lon":  -71.020113,
+                   "lat":  41.639797
+                   }
+    },
+    {
+        "date":  "2018-03-09 00:00:00",
+        "name":  "Adelard “Del” Mongeon",
+        "age":  "50",
+        "city":  "Charlton",
+        "link":  "http://www.telegram.com/news/20180310/police-identify-charlton-man-hit-killed-while-crossing-route-20",
+        "coord":  {
+                   "lon":  -71.988995,
+                   "lat":  42.145282
+                   }
+    },
+    {
+        "date":  "2018-04-09 00:00:00",
+        "name":  "Mary Ann Fiandaca",
+        "age":  "46",
+        "city":  "Revere",
+        "link":  "http://boston.cbslocal.com/2018/04/10/woman-dies-after-revere-hit-and-run-driver-found/",
+        "coord":  {
+                   "lon":  -71.005314,
+                   "lat":  42.405338
+                   }
+    },
+    {
+        "date":  "2018-04-16 00:00:00",
+        "name":  "Gary Ashmore",
+        "age":  "61",
+        "city":  "Lowell",
+        "link":  "http://www.lowellsun.com/news/ci_31811047/man-dead-after-apparently-slipping-into-trucks-path",
+        "coord":  {
+                   "lon":  -71.303802,
+                   "lat":  42.641722
+                   }
+    },
+    {
+        "date":  "2018-04-22 00:00:00",
+        "name":  "Patrice Newton-Vanleer",
+        "age":  "32",
+        "city":  "Brockton",
+        "link":  "http://www.enterprisenews.com/news/20180422/driver-ran-light-before-killing-brockton-woman-on-sidewalk-witnesses-say",
+        "coord":  {
+                   "lon":  -71.019845,
+                   "lat":  42.08415
+                   }
+    },
+    {
+        "date":  "2018-04-25 00:00:00",
+        "name":  "(name not released, woman)",
+        "age":  "(age not released)",
+        "city":  "Norwood",
+        "link":  "https://www.necn.com/news/new-england/Pedestrian-Struck-in-Norwood--480830621.html",
+        "coord":  {
+                   "lon":  -71.202694,
+                   "lat":  42.189063
+                   }
+    },
+    {
+        "date":  "2018-04-29 00:00:00",
+        "name":  "Judith Moses",
+        "age":  "64",
+        "city":  "Medford",
+        "link":  "https://www.bostonglobe.com/metro/2018/04/29/pedestrian-killed-two-others-injured-medford-crash/GDX3ovPvbtV3fOyyO6fbpM/story.html",
+        "coord":  {
+                   "lon":  -71.091701,
+                   "lat":  42.421517
+                   }
+    },
+    {
+        "date":  "2018-05-06 00:00:00",
+        "name":  "Dennis Tuttle",
+        "age":  "68",
+        "city":  "Haverhill",
+        "link":  "https://www.bostonglobe.com/metro/2018/05/06/pedestrian-critical-condition-after-being-struck-suv-haverhill/EVocphchJLhECY8RmtFDgI/story.html",
+        "coord":  {
+                   "lon":  -71.084999,
+                   "lat":  42.794807
+                   }
+    },
+    {
+        "date":  "2018-05-26 00:00:00",
+        "name":  "Pierre Desir",
+        "age":  "40",
+        "city":  "Boston - Mattapan",
+        "link":  "http://boston.cbslocal.com/2018/05/26/mattapan-hit-and-run/",
+        "coord":  {
+                   "lon":  -71.081515,
+                   "lat":  42.279729
+                   }
+    },
+    {
+        "date":  "2018-05-29 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "(age not released)",
+        "city":  "Wellesley",
+        "link":  "https://www.bostonglobe.com/metro/2018/05/29/pedestrian-struck-killed-wellesley-commuter-rail/HoEPsZKgktAhvxuxeWJ4BL/story.html",
+        "coord":  {
+                   "lon":  -71.299106,
+                   "lat":  42.296295
+                   }
+    },
+    {
+        "date":  "2018-06-05 00:00:00",
+        "name":  "Theodore J. Schwalb",
+        "age":  "80",
+        "city":  "Boston - Allston",
+        "link":  "https://www.bostonglobe.com/metro/2018/06/06/elderly-man-killed-hit-and-run-crash-allston/1vzpJ003TWqom6yFY9PdhN/story.html",
+        "coord":  {
+                   "lon":  -71.13416,
+                   "lat":  42.348756
+                   }
+    },
+    {
+        "date":  "2018-06-12 00:00:00",
+        "name":  "Gabriella Lowell",
+        "age":  "20",
+        "city":  "Worcester",
+        "link":  "http://www.telegram.com/news/20180613/pedestrian-dies-after-being-hit-by-suv-on-grafton-street-in-worcester",
+        "coord":  {
+                   "lon":  -71.756834,
+                   "lat":  42.243907
+                   }
+    },
+    {
+        "date":  "2018-06-30 00:00:00",
+        "name":  "Jose Pacheco",
+        "age":  "76",
+        "city":  "Swansea",
+        "link":  "https://www.bostonpersonalinjuryattorneyblog.com/swansea-ma-76-year-old-man-dies-in-bicycle-crash/",
+        "coord":  {
+                   "lon":  -71.16079,
+                   "lat":  41.753218
+                   }
+    },
+    {
+        "date":  "2018-07-07 00:00:00",
+        "name":  "Stuart Finkelstein",
+        "age":  "58",
+        "city":  "Nantucket",
+        "link":  "https://www.ack.net/news/20180709/cyclist-killed-saturday-in-polpis-bike-path-crash",
+        "coord":  {
+                   "lon":  -69.974736,
+                   "lat":  41.284883
+                   }
+    },
+    {
+        "date":  "2018-07-09 00:00:00",
+        "name":  "Brother Edward Bozzo",
+        "age":  "85",
+        "city":  "Melrose",
+        "link":  "https://www.masslive.com/news/2018/08/malden_catholic_brother_dies_f.html",
+        "coord":  {
+                   "lon":  -71.068162,
+                   "lat":  42.453963
+                   }
+    },
+    {
+        "date":  "2018-07-13 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - Chinatown",
+        "link":  "https://apps.boston.gov/vision-zero/",
+        "coord":  {
+                   "lon":  -71.065531,
+                   "lat":  42.348624
+                   }
+    },
+    {
+        "date":  "2018-07-17 00:00:00",
+        "name":  "Michele C. Poirier",
+        "age":  "59",
+        "city":  "Mashpee",
+        "link":  "https://www.bostonglobe.com/metro/2018/07/18/pedestrian-dies-after-being-hit-cape-cod-road/gWQlXT1durU0ATKSjpVU1K/story.html",
+        "coord":  {
+                   "lon":  -70.462118,
+                   "lat":  41.633178
+                   }
+    },
+    {
+        "date":  "2018-07-21 00:00:00",
+        "name":  "Efrain Alejandro Gonzalez-Zamora",
+        "age":  "27",
+        "city":  "Haverhill",
+        "link":  "https://www.nbcboston.com/news/local/Pedestrian--488800121.html",
+        "coord":  {
+                   "lon":  -71.109747,
+                   "lat":  42.768003
+                   }
+    },
+    {
+        "date":  "2018-07-22 00:00:00",
+        "name":  "Michael Stennes",
+        "age":  "57",
+        "city":  "Gill",
+        "link":  "https://www.recorder.com/Bicyclist-dies-following-accident-with-motor-vehicle-in-Gill-this-weekend-19009046",
+        "coord":  {
+                   "lon":  -72.548885,
+                   "lat":  42.612992
+                   }
+    },
+    {
+        "date":  "2018-07-25 00:00:00",
+        "name":  "Colin McGrath",
+        "age":  "2",
+        "city":  "South Boston",
+        "link":  "https://boston.cbslocal.com/2018/07/25/child-killed-south-boston-car-crash/",
+        "coord":  {
+                   "lon":  -71.035283,
+                   "lat":  42.333135
+                   }
+    },
+    {
+        "date":  "2018-08-17 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Pittsfield",
+        "link":  "https://cbs6albany.com/news/local/pedestrian-killed-in-pittsfield-train-accident",
+        "coord":  {
+                   "lon":  -73.25771,
+                   "lat":  42.449857
+                   }
+    },
+    {
+        "date":  "2018-08-19 00:00:00",
+        "name":  "Jesiah Rivera",
+        "age":  "4",
+        "city":  "Worcester",
+        "link":  "https://www.nbcboston.com/news/local/worcester-massachusetts-family-grieving-death-of-4-year-old-struck-by-car/118101/",
+        "coord":  {
+                   "lon":  -71.794855,
+                   "lat":  42.269151
+                   }
+    },
+    {
+        "date":  "2018-08-28 00:00:00",
+        "name":  "Sachi Thanawala-Patel",
+        "age":  "39",
+        "city":  "Belmont",
+        "link":  "https://www.bostonglobe.com/metro/2018/08/28/woman-hit-vehicle-belmont-crosswalk/aFZ0VFxF1pc0crCGGRJMLK/story.html",
+        "coord":  {
+                   "lon":  -71.190649,
+                   "lat":  42.385894
+                   }
+    },
+    {
+        "date":  "2018-08-29 00:00:00",
+        "name":  "Johannes Songdahl III",
+        "age":  "22",
+        "city":  "Auburn (I-90)",
+        "link":  "http://www.bostonherald.com/news/local_coverage/2018/09/body_found_on_mass_pike_id_d_as_norwell_man_22",
+        "coord":  {
+                   "lon":  -71.857512,
+                   "lat":  42.191762
+                   }
+    },
+    {
+        "date":  "2018-08-29 00:00:00",
+        "name":  "Michihero Yoshida",
+        "age":  "88",
+        "city":  "South Hadley",
+        "link":  "https://www.wwlp.com/news/local-news/hampshire-county/section-of-college-street-in-south-hadley-closed-following-accident/1404302237",
+        "coord":  {
+                   "lon":  -72.575729,
+                   "lat":  42.258215
+                   }
+    },
+    {
+        "date":  "2018-08-30 00:00:00",
+        "name":  "Michele Barrows",
+        "age":  "67",
+        "city":  "Springfield",
+        "link":  "https://www.wwlp.com/news/local-news/hampden-county/pedestrian-suffering-serious-injuries-after-accident-near-170-east-street/1407455289",
+        "coord":  {
+                   "lon":  -72.5587,
+                   "lat":  42.145195
+                   }
+    },
+    {
+        "date":  "2018-08-31 00:00:00",
+        "name":  "Lionel Godbout",
+        "age":  "78",
+        "city":  "Weymouth",
+        "link":  "https://www.bostonglobe.com/metro/2018/09/01/pedestrian-killed-weymouth-identified-year-old-man/cu1EZ8gNuwwj9N5WstwYdL/story.html",
+        "coord":  {
+                   "lon":  -70.958007,
+                   "lat":  42.195548
+                   }
+    },
+    {
+        "date":  "2018-09-06 00:00:00",
+        "name":  "Romelia Gallardo",
+        "age":  "80",
+        "city":  "Cambridge",
+        "link":  "https://www.bostonglobe.com/metro/2018/09/06/disabled-elderly-woman-hurt-cambridge-hit-and-run/lQH2gVpAMLp42C7xwj67gJ/story.html",
+        "coord":  {
+                   "lon":  -71.107258,
+                   "lat":  42.359591
+                   }
+    },
+    {
+        "date":  "2018-09-09 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "66",
+        "city":  "Cambridge",
+        "link":  "https://whdh.com/news/mbta-officials-pedestrian-fatally-struck-by-red-line-train-in-cambridge/",
+        "coord":  {
+                   "lon":  -71.11982,
+                   "lat":  42.388494
+                   }
+    },
+    {
+        "date":  "2018-09-15 00:00:00",
+        "name":  "(name not released, woman)",
+        "age":  "(age not released)",
+        "city":  "Springfield",
+        "link":  "https://www.masslive.com/news/index.ssf/2018/09/springfield_police_investigati_295.html",
+        "coord":  {
+                   "lon":  -72.547014,
+                   "lat":  42.136951
+                   }
+    },
+    {
+        "date":  "2018-09-19 00:00:00",
+        "name":  "Benita Horner",
+        "age":  "68",
+        "city":  "Watertown",
+        "link":  "https://www.boston.com/news/local-news/2018/09/20/watertown-fatal-pedestrian-crash-stabbing-details",
+        "coord":  {
+                   "lon":  -71.185978,
+                   "lat":  42.364443
+                   }
+    },
+    {
+        "date":  "2018-09-20 00:00:00",
+        "name":  "(name not released)",
+        "age":  "(age not released)",
+        "city":  "Boston - South End",
+        "link":  "https://www.bostonglobe.com/metro/2017/09/20/pedestrian-struck-vehicle-south-end/eY8ojGi4sycgSy86c2kWyL/story.html",
+        "coord":  {
+                   "lon":  -71.0809474,
+                   "lat":  42.3329082
+                   }
+    },
+    {
+        "date":  "2018-09-21 00:00:00",
+        "name":  "Ulhas Kudva",
+        "age":  "45",
+        "city":  "Westford",
+        "link":  "https://whdh.com/news/police-identify-pedestrian-struck-and-killed-in-westford/",
+        "coord":  {
+                   "lon":  -71.41397,
+                   "lat":  42.570422
+                   }
+    },
+    {
+        "date":  "2018-09-22 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "43",
+        "city":  "Springfield",
+        "link":  "https://www.wwlp.com/news/local-news/hampden-county/pedestrian-killed-in-crash-on-state-st-in-springfield/1471104619",
+        "coord":  {
+                   "lon":  -72.576203,
+                   "lat":  42.108465
+                   }
+    },
+    {
+        "date":  "2018-09-23 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "(age not released)",
+        "city":  "Ashland",
+        "link":  "https://framinghamsource.com/index.php/2018/09/23/csx-trains-strikes-pedestrian/",
+        "coord":  {
+                   "lon":  -71.463987,
+                   "lat":  42.259959
+                   }
+    },
+    {
+        "date":  "2018-09-28 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "(age not released)",
+        "city":  "Lexington (I-95)",
+        "link":  "http://www.mspnews.org/2018/09/state-police-investigating-fatal-crash-in-lexington/",
+        "coord":  {
+                   "lon":  -71.257317,
+                   "lat":  42.442706
+                   }
+    },
+    {
+        "date":  "2018-10-01 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "(age not released)",
+        "city":  "Gloucester",
+        "link":  "https://www.bostonglobe.com/metro/2018/10/01/man-struck-and-killed-commuter-rail-train-gloucester/r6cS1o98owJOj5a1V1g2cL/story.html",
+        "coord":  {
+                   "lon":  -70.664258,
+                   "lat":  42.62447
+                   }
+    },
+    {
+        "date":  "2018-10-05 00:00:00",
+        "name":  "Jie Zhao",
+        "age":  "27",
+        "city":  "Cambridge",
+        "link":  "https://www.bostonglobe.com/metro/2018/10/05/truck-pedestrian-involved-cambridge-crash/n0quPuQlLmDDz6bM9NSxkJ/story.html",
+        "coord":  {
+                   "lon":  -71.11106,
+                   "lat":  42.359113
+                   }
+    },
+    {
+        "date":  "2018-10-19 00:00:00",
+        "name":  "Anna La Violette",
+        "age":  "86",
+        "city":  "Winchester",
+        "link":  "http://winchester.wickedlocal.com/news/20181026/winchester-police-release-report-on-crash-that-injured-86-year-old",
+        "coord":  {
+                   "lon":  -71.138674,
+                   "lat":  42.451761
+                   }
+    },
+    {
+        "date":  "2018-10-20 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "(age not released)",
+        "city":  "Westfield",
+        "link":  "https://www.masslive.com/news/index.ssf/2018/10/westfield_train.html",
+        "coord":  {
+                   "lon":  -72.703957,
+                   "lat":  42.108095
+                   }
+    },
+    {
+        "date":  "2018-10-22 00:00:00",
+        "name":  "Ivan Doncev",
+        "age":  "66",
+        "city":  "Greenfield",
+        "link":  "https://www.boston.com/news/local-news/2018/10/23/pedestrian-struck-and-killed-by-vehicle-in-massachusetts",
+        "coord":  {
+                   "lon":  -72.611122,
+                   "lat":  42.601368
+                   }
+    },
+    {
+        "date":  "2018-10-22 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "31",
+        "city":  "Rowley",
+        "link":  "https://www.bostonglobe.com/metro/2018/10/23/pedestrian-hit-vehicle-rowley-suffers-serious-injuries/pSJdwiCI9lgHbsklNRZDrK/story.html",
+        "coord":  {
+                   "lon":  -70.949509,
+                   "lat":  42.705104
+                   }
+    },
+    {
+        "date":  "2018-10-25 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "58",
+        "city":  "Worcester",
+        "link":  "https://www.masslive.com/news/worcester/index.ssf/2018/10/58-year-old_man_struck_killed.html",
+        "coord":  {
+                   "lon":  -71.769927,
+                   "lat":  42.29626
+                   }
+    },
+    {
+        "date":  "2018-11-01 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "27",
+        "city":  "Springfield",
+        "link":  "https://www.westernmassnews.com/news/massachusetts/pedestrian-struck-and-killed-by-car-in-springfield/article_2acd4006-de2b-11e8-9c4b-f34399dbfa60.html",
+        "coord":  {
+                   "lon":  -72.609872,
+                   "lat":  42.111337
+                   }
+    },
+    {
+        "date":  "2018-11-06 00:00:00",
+        "name":  "Charity E. Lehman",
+        "age":  "89",
+        "city":  "Montague - Turner Falls",
+        "link":  "https://www.bostonglobe.com/metro/2018/11/07/year-old-woman-dies-after-she-was-struck-car-turners-falls/tg2To5minjzZ3VmYlhsehI/story.html",
+        "coord":  {
+                   "lon":  -72.547721,
+                   "lat":  42.595195
+                   }
+    },
+    {
+        "date":  "2018-11-07 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "(age not released)",
+        "city":  "Boston - West Roxbury",
+        "link":  "https://www.bostonglobe.com/metro/2018/11/07/man-struck-and-killed-vehicle-west-roxbury/lUa1znc4IFnNLtfzat2ioO/story.html",
+        "coord":  {
+                   "lon":  -71.158334,
+                   "lat":  42.260076
+                   }
+    },
+    {
+        "date":  "2018-11-07 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "(age not released)",
+        "city":  "Billerica",
+        "link":  "https://www.bostonglobe.com/metro/2018/11/07/person-hit-commuter-rail-train-billerica/bB7lhlUHha15wOprdfoj0J/story.html",
+        "coord":  {
+                   "lon":  -71.25467,
+                   "lat":  42.587972
+                   }
+    },
+    {
+        "date":  "2018-11-09 00:00:00",
+        "name":  "Meng Jin",
+        "age":  "24",
+        "city":  "Boston",
+        "link":  "https://www.bu.edu/articles/2018/bicycle-accident-claims-the-life-of-bu-student/",
+        "coord":  {
+                   "lon":  -71.0723,
+                   "lat":  42.368846
+                   }
+    },
+    {
+        "date":  "2018-11-13 00:00:00",
+        "name":  "(name not released, man)",
+        "age":  "35",
+        "city":  "Waltham",
+        "link":  "https://www.bostonglobe.com/metro/2018/11/13/person-struck-mbta-commuter-train-waltham-delays-expected-fitchburg-line/e9jaikrebHHupSOMXHIBAL/story.html",
+        "coord":  {
+                   "lon":  -71.224498,
+                   "lat":  42.377354
+                   }
+    },
+    {
+        "date":  "2018-11-17 00:00:00",
+        "name":  "Melissa Gaudette",
+        "age":  "33",
+        "city":  "Wareham",
+        "link":  "https://www.bostonglobe.com/metro/2018/11/17/two-struck-scenic-train-wareham-officials-say/C98HGLyOXOW6sOR2B6dgxK/story.html?p1=AMP_Recirculation_Pos3",
+        "coord":  {
+                   "lon":  -70.688069,
+                   "lat":  41.757681
+                   }
+    },
+    {
+        "date":  "2018-11-17 00:00:00",
+        "name":  "Edwin Benitez-Figueroa",
+        "age":  "36",
+        "city":  "Wareham",
+        "link":  "https://www.bostonglobe.com/metro/2018/11/17/two-struck-scenic-train-wareham-officials-say/C98HGLyOXOW6sOR2B6dgxK/story.html?p1=AMP_Recirculation_Pos3",
+        "coord":  {
+                   "lon":  -70.688069,
+                   "lat":  41.757681
+                   }
+    },
+    {
+        "date":  "2018-11-26 00:00:00",
+        "name":  "Wayne Moody",
+        "age":  "75",
+        "city":  "Concord",
+        "link":  "https://www.nbcboston.com/news/local/Construction-Worker-Struck-by-Vehicle-Concord-Massachusetts-501267812.html",
+        "coord":  {
+                   "lon":  -71.334435,
+                   "lat":  42.459732
+                   }
+    },
+    {
+        "date":  "2018-11-29 00:00:00",
+        "name":  "(Name not released, man)",
+        "age":  "84",
+        "city":  "Boston - South Boston",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.042047,
+                   "lat":  42.335538
+                   }
+    },
+    {
+        "date":  "2018-11-30 00:00:00",
+        "name":  "Antonio Latiker",
+        "age":  "49",
+        "city":  "Malden",
+        "link":  "https://www.bostonglobe.com/metro/2018/11/30/pedestrian-struck-route-malden/iNETQVvUpdR1oOj4VGsTjO/story.html",
+        "coord":  {
+                   "lon":  -71.02757,
+                   "lat":  42.442277
+                   }
+    },
+    {
+        "date":  "2018-12-03 00:00:00",
+        "name":  "Denise Herzog",
+        "age":  "63",
+        "city":  "Easthampton",
+        "link":  "https://www.nbcboston.com/news/local/Pedestrian-Dies-After-Being-Hit-by-Minivan-in-Easthampton-501910132.html",
+        "coord":  {
+                   "lon":  -72.667075,
+                   "lat":  42.264937
+                   }
+    },
+    {
+        "date":  "2018-12-09 00:00:00",
+        "name":  "Smarlyn Pamela Reyes",
+        "age":  "19",
+        "city":  "West Boylston",
+        "link":  "http://www.mspnews.org/2018/12/state-police-seek-driver-who-fatally-struck-pedestrian-in-west-boylston/",
+        "coord":  {
+                   "lon":  -71.798998,
+                   "lat":  42.339954
+                   }
+    },
+    {
+        "date":  "2018-12-09 00:00:00",
+        "name":  "Adrianna Mejia-Rivera",
+        "age":  "5",
+        "city":  "Revere",
+        "link":  "https://www.bostonglobe.com/metro/2018/12/10/grief-counselors-revere-school-where-year-old-girl-killed-suv-crash-was-student/mpjihcWugnVWY65A4RjssL/story.html",
+        "coord":  {
+                   "lon":  -70.997927,
+                   "lat":  42.401232
+                   }
+    },
+    {
+        "date":  "2018-12-09 00:00:00",
+        "name":  "Natasha Nicole Mejia-Rivera",
+        "age":  "2 months",
+        "city":  "Revere",
+        "link":  "https://www.bostonglobe.com/metro/2018/12/13/second-child-dies-from-injuries-suv-crash-revere/ybL3r2yKnbZilpNBoA2BcO/story.html",
+        "coord":  {
+                   "lon":  -70.997927,
+                   "lat":  42.401232
+                   }
+    },
+    {
+        "date":  "2018-12-12 00:00:00",
+        "name":  "Maria Rodriguez",
+        "age":  "61",
+        "city":  "Lawrence",
+        "link":  "https://www.wcvb.com/article/two-pedestrians-struck-by-vehicle-one-killed-police-say/25565249",
+        "coord":  {
+                   "lon":  -71.165263,
+                   "lat":  42.706066
+                   }
+    },
+    {
+        "date":  "2018-12-15 00:00:00",
+        "name":  "Lucas Flint",
+        "age":  "21",
+        "city":  "Braintree",
+        "link":  "http://www.patriotledger.com/news/20181221/braintree-man-21-dies-after-being-hit-by-alleged-drunken-driver",
+        "coord":  {
+                   "lon":  -71.007845,
+                   "lat":  42.187593
+                   }
+    },
+    {
+        "date":  "2018-12-19 00:00:00",
+        "name":  "Nyka Sanders",
+        "age":  "20",
+        "city":  "Greenfield",
+        "link":  "https://www.wwlp.com/news/local-news/franklin-county/woman-killed-in-pedestrian-accident-on-i-91-in-greenfield/1668542775",
+        "coord":  {
+                   "lon":  -72.621746,
+                   "lat":  42.583063
+                   }
+    },
+    {
+        "date":  "2018-12-24 00:00:00",
+        "name":  "Jacob Deitsch",
+        "age":  "29",
+        "city":  "Weymouth",
+        "link":  "https://boston.cbslocal.com/2018/12/25/weymouth-pedestrian-killed-route-18/",
+        "coord":  {
+                   "lon":  -70.955433,
+                   "lat":  42.172333
+                   }
+    },
+    {
+        "date":  "2018-12-29 00:00:00",
+        "name":  "Luke Cosgrove",
+        "age":  "24",
+        "city":  "Raynham",
+        "link":  "http://www.thesunchronicle.com/news/local_news/norton-man-dies-after-being-struck-by-vehicle-in-raynham/article_ddd8efa7-dfee-55bd-9556-027a353abf4b.html",
+        "coord":  {
+                   "lon":  -71.056439,
+                   "lat":  41.905306
+                   }
+    },
+    {
+        "date":  "2019-01-25 00:00:00",
+        "name":  "Charles Burrill",
+        "age":  "59",
+        "city":  "Haverhill",
+        "link":  "https://boston.cbslocal.com/2019/01/25/haverhill-merrimack-main-street-man-killed-hit-and-run-crash/",
+        "coord":  {
+                   "lon":  -71.076481,
+                   "lat":  42.77511
+                   }
+    },
+    {
+        "date":  "2019-01-30 00:00:00",
+        "name":  "Mark Bobbitt",
+        "age":  "64",
+        "city":  "Easton",
+        "link":  "https://www.nbcboston.com/news/local/Unclear-if-Plow-Driver-Involved-in-Fatal-Pedestrian-Crash-Will-Face-Charges-505128201.html",
+        "coord":  {
+                   "lon":  -71.091061,
+                   "lat":  42.085024
+                   }
+    },
+    {
+        "date":  "2019-02-05 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "61",
+        "city":  "Norwood",
+        "link":  "https://www.boston25news.com/news/man-fatally-struck-by-commuter-rail-train-in-norwood/914932031",
+        "coord":  {
+                   "lon":  -71.196852,
+                   "lat":  42.196335
+                   }
+    },
+    {
+        "date":  "2019-02-05 00:00:00",
+        "name":  "(unknown, woman)",
+        "age":  "(unknown)",
+        "city":  "Boston - West Roxbury",
+        "link":  "https://www.boston25news.com/news/pedestrian-struck-in-west-roxbury/915163059",
+        "coord":  {
+                   "lon":  -71.155867,
+                   "lat":  42.285666
+                   }
+    },
+    {
+        "date":  "2019-02-08 00:00:00",
+        "name":  "Allison Donovan",
+        "age":  "40",
+        "city":  "Somerville",
+        "link":  "https://www.bostonglobe.com/metro/2019/02/10/somerville-official-calls-for-safety-changes-after-fatal-pedestrian-crash/wIHflHgZDyKEeFRsisgi3L/story.html",
+        "coord":  {
+                   "lon":  -71.126832,
+                   "lat":  42.406031
+                   }
+    },
+    {
+        "date":  "2019-02-15 00:00:00",
+        "name":  "Paula Sharaga",
+        "age":  "69",
+        "city":  "Boston",
+        "link":  "https://www.wbur.org/news/2019/02/15/cyclist-killed-boston-park-drive",
+        "coord":  {
+                   "lon":  -71.102613,
+                   "lat":  42.343336
+                   }
+    },
+    {
+        "date":  "2019-02-18 00:00:00",
+        "name":  "William D. Fredette",
+        "age":  "71",
+        "city":  "Weymouth",
+        "link":  "https://www.masslive.com/news/2019/02/71-year-old-william-fredette-of-brockton-identified-as-victim-in-weymouth-pedestrian-death.html",
+        "coord":  {
+                   "lon":  -70.936843,
+                   "lat":  42.245436
+                   }
+    },
+    {
+        "date":  "2019-02-21 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "33",
+        "city":  "Springfield",
+        "link":  "https://www.masslive.com/news/2019/02/pedestrian-struck-seriously-injured-in-springfield.html",
+        "coord":  {
+                   "lon":  -72.576802,
+                   "lat":  42.086439
+                   }
+    },
+    {
+        "date":  "2019-02-24 00:00:00",
+        "name":  "Robert W. Curnin",
+        "age":  "51",
+        "city":  "Shrewsbury",
+        "link":  "https://www.nbcboston.com/news/local/Source-Says-Pedestrian-Killed-in-Shrewsbury-Crash-506307141.html",
+        "coord":  {
+                   "lon":  -71.741899,
+                   "lat":  42.275289
+                   }
+    },
+    {
+        "date":  "2019-02-25 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "60s",
+        "city":  "Amesbury",
+        "link":  "https://www.boston25news.com/news/pedestrian-struck-and-killed-monday-in-amesbury/925516823",
+        "coord":  {
+                   "lon":  -70.920298,
+                   "lat":  42.846703
+                   }
+    },
+    {
+        "date":  "2019-02-25 00:00:00",
+        "name":  "Linda Culkin",
+        "age":  "59",
+        "city":  "Quincy",
+        "link":  "https://www.quincyma.gov/news/displaynews.htm?NewsID=637&TargetID=4",
+        "coord":  {
+                   "lon":  -71.003991,
+                   "lat":  42.248709
+                   }
+    },
+    {
+        "date":  "2019-03-02 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "83",
+        "city":  "West Springfield",
+        "link":  "https://www.wwlp.com/news/local-news/hampden-county/west-springfield-police-investigating-incident-on-riverdale-road/1822339538",
+        "coord":  {
+                   "lon":  -72.626403,
+                   "lat":  42.138953
+                   }
+    },
+    {
+        "date":  "2019-03-04 00:00:00",
+        "name":  "Paul Sherer",
+        "age":  "62",
+        "city":  "Worcester",
+        "link":  "https://whdh.com/news/police-investigating-after-pedestrian-struck-killed-in-worcester/",
+        "coord":  {
+                   "lon":  -71.776852,
+                   "lat":  42.304344
+                   }
+    },
+    {
+        "date":  "2019-03-09 00:00:00",
+        "name":  "(unknown, woman)",
+        "age":  "(unknown)",
+        "city":  "Boston - East Boston",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.038365,
+                   "lat":  42.374249
+                   }
+    },
+    {
+        "date":  "2019-03-16 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Beverly",
+        "link":  "https://www.bostonglobe.com/metro/2019/03/16/male-struck-and-killed-commuter-rail-train-beverly/iddDbCEnUjKJqRbh0UYnEO/story.html",
+        "coord":  {
+                   "lon":  -70.869764,
+                   "lat":  42.562044
+                   }
+    },
+    {
+        "date":  "2019-03-20 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "47",
+        "city":  "Boston - Roxbury",
+        "link":  "https://www.boston25news.com/news/man-struck-by-car-while-walking-on-street-in-roxbury/932546963",
+        "coord":  {
+                   "lon":  -71.081099,
+                   "lat":  42.332775
+                   }
+    },
+    {
+        "date":  "2019-03-24 00:00:00",
+        "name":  "Cary Coovert",
+        "age":  "71",
+        "city":  "Lexington",
+        "link":  "https://www.yourarlington.com/arlington-archives/safety/police/15515-death-032519.html",
+        "coord":  {
+                   "lon":  -71.213485,
+                   "lat":  42.441099
+                   }
+    },
+    {
+        "date":  "2019-03-31 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Braintree",
+        "link":  "https://mspnews.org/2019/04/state-police-investigating-fatal-crash-in-braintree/",
+        "coord":  {
+                   "lon":  -71.05937,
+                   "lat":  42.206687
+                   }
+    },
+    {
+        "date":  "2019-03-31 00:00:00",
+        "name":  "Christopher Reynolds",
+        "age":  "32",
+        "city":  "Pittsfield",
+        "link":  "https://www.masslive.com/news/2019/04/victim-of-pittsfield-fatal-hit-and-run-crash-identified-as-32-year-old-man.html",
+        "coord":  {
+                   "lon":  -73.213771,
+                   "lat":  42.463646
+                   }
+    },
+    {
+        "date":  "2019-04-06 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Wilmington",
+        "link":  "https://boston.cbslocal.com/2019/04/06/mbta-commuter-rail-kills-man-wilmington/",
+        "coord":  {
+                   "lon":  -71.173266,
+                   "lat":  42.54562
+                   }
+    },
+    {
+        "date":  "2019-04-06 00:00:00",
+        "name":  "Robert E. Forcier",
+        "age":  "94",
+        "city":  "Fall River",
+        "link":  "https://whdh.com/news/elderly-fall-river-man-killed-woman-injured-by-car-rolling-down-driveway/",
+        "coord":  {
+                   "lon":  -71.151775,
+                   "lat":  41.666046
+                   }
+    },
+    {
+        "date":  "2019-04-07 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "Everett",
+        "link":  "https://www.masslive.com/news/2019/04/pedestrian-struck-by-vehicle-killed-in-everett.html",
+        "coord":  {
+                   "lon":  -71.059665,
+                   "lat":  42.402583
+                   }
+    },
+    {
+        "date":  "2019-04-10 00:00:00",
+        "name":  "Jesus Nieves",
+        "age":  "54",
+        "city":  "Springfield",
+        "link":  "https://www.masslive.com/news/2019/04/springfield-pedestrian-killed-by-car-after-active-disturbance-with-driver.html",
+        "coord":  {
+                   "lon":  -72.584697,
+                   "lat":  42.097147
+                   }
+    },
+    {
+        "date":  "2019-04-12 00:00:00",
+        "name":  "Jaskaran Singh",
+        "age":  "24",
+        "city":  "Amherst",
+        "link":  "https://whdh.com/news/authorities-id-pedestrian-struck-killed-in-amherst/",
+        "coord":  {
+                   "lon":  -72.52944,
+                   "lat":  42.403733
+                   }
+    },
+    {
+        "date":  "2019-04-18 00:00:00",
+        "name":  "Mary Pettiglio",
+        "age":  "60",
+        "city":  "Chelsea",
+        "link":  "https://boston.cbslocal.com/2019/04/18/mbta-bus-hits-person-in-chelsea-everett-avenue-tobin-bridge-boston-traffic/",
+        "coord":  {
+                   "lon":  -71.038803,
+                   "lat":  42.392094
+                   }
+    },
+    {
+        "date":  "2019-04-19 00:00:00",
+        "name":  "(unknown, woman)",
+        "age":  "24",
+        "city":  "Chicopee",
+        "link":  "https://www2.bostonglobe.com/metro/2019/04/20/chicopee-pedestrian-killed-alleged-drunk-driver/UFouEyNVXB39SmLn6d2DuJ/story.html",
+        "coord":  {
+                   "lon":  -72.620976,
+                   "lat":  42.177162
+                   }
+    },
+    {
+        "date":  "2019-04-24 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "Boston - East Boston",
+        "link":  "https://www.boston25news.com/news/person-hit-by-car-on-route-1a-in-east-boston/942924213",
+        "coord":  {
+                   "lon":  -71.021689,
+                   "lat":  42.383197
+                   }
+    },
+    {
+        "date":  "2019-05-04 00:00:00",
+        "name":  "(unknown, woman)",
+        "age":  "58",
+        "city":  "Fitchburg",
+        "link":  "https://www.boston25news.com/news/pedestrian-struck-killed-by-commuter-rail-train-in-fitchburg/946351881",
+        "coord":  {
+                   "lon":  -71.792804,
+                   "lat":  42.580757
+                   }
+    },
+    {
+        "date":  "2019-05-07 00:00:00",
+        "name":  "Stephanie Tripp",
+        "age":  "30",
+        "city":  "Westport",
+        "link":  "https://www.bostonglobe.com/metro/2019/05/16/woman-dies-week-after-being-hit-car-while-walking-westport-driver-still-missing/8OdSBc0ZEZ28ZBtf7GmdeK/story.html",
+        "coord":  {
+                   "lon":  -71.096614,
+                   "lat":  41.679057
+                   }
+    },
+    {
+        "date":  "2019-05-16 00:00:00",
+        "name":  "Brenda Lee Keller",
+        "age":  "57",
+        "city":  "Boston - Mattapan",
+        "link":  "https://www.boston25news.com/news/pedestrian-struck-by-car-in-mattapan/949821123",
+        "coord":  {
+                   "lon":  -71.096728,
+                   "lat":  42.277652
+                   }
+    },
+    {
+        "date":  "2019-05-29 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Hanson",
+        "link":  "https://www.patriotledger.com/news/20190529/man-struck-killed-by-train-in-hanson",
+        "coord":  {
+                   "lon":  -70.881734,
+                   "lat":  42.04356
+                   }
+    },
+    {
+        "date":  "2019-06-01 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "Boston - Hyde Park",
+        "link":  "https://www.wcvb.com/article/trespassing-pedestrian-struck-killed-by-mbta-commuter-rail-train-transit-police-say/27687477",
+        "coord":  {
+                   "lon":  -71.118972,
+                   "lat":  42.254008
+                   }
+    },
+    {
+        "date":  "2019-06-09 00:00:00",
+        "name":  "Andrea Gordon",
+        "age":  "46",
+        "city":  "Duxbury",
+        "link":  "https://boston.cbslocal.com/2019/06/10/duxbury-massachusetts-hit-and-run-washington-street/",
+        "coord":  {
+                   "lon":  -70.672018,
+                   "lat":  42.043943
+                   }
+    },
+    {
+        "date":  "2019-06-24 00:00:00",
+        "name":  "(unknown, woman)",
+        "age":  "(unknown)",
+        "city":  "2019-06-24 00:00:00",
+        "link":  "https://www.bostonglobe.com/metro/2019/06/24/fatal-pedestrian-crash-shuts-down-piece-mass-ave/GXl8yr34JMCnsFlmrqOiDJ/story.html",
+        "coord":  {
+                   "lon":  -71.072128,
+                   "lat":  42.332717
+                   }
+    },
+    {
+        "date":  "2019-07-03 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "20s",
+        "city":  "Newton",
+        "link":  "https://whdh.com/news/transit-police-pedestrian-struck-killed-by-commuter-rail-train-in-newton/",
+        "coord":  {
+                   "lon":  -71.205117,
+                   "lat":  42.351789
+                   }
+    },
+    {
+        "date":  "2019-07-03 00:00:00",
+        "name":  "Barbara Kenefick ",
+        "age":  "42",
+        "city":  "Chicopee",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.885321,
+                   "lat":  42.547394
+                   }
+    },
+    {
+        "date":  "2019-07-10 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Waltham",
+        "link":  "https://patch.com/massachusetts/waltham/commuter-rail-hits-person-waltham",
+        "coord":  {
+                   "lon":  -71.26024,
+                   "lat":  42.36191
+                   }
+    },
+    {
+        "date":  "2019-07-15 00:00:00",
+        "name":  "Majid "Mike" Hamade",
+        "age":  "64",
+        "city":  "Weymouth",
+        "link":  "https://www.nbcboston.com/news/local/Pedestrian-Struck-at-Weymouth-Mobil-512764511.html",
+        "coord":  {
+                   "lon":  -70.955203,
+                   "lat":  42.189252
+                   }
+    },
+    {
+        "date":  "2019-07-20 00:00:00",
+        "name":  "Cheryl Pauline Richards",
+        "age":  "52",
+        "city":  "Somerville",
+        "link":  "https://mass.streetsblog.org/2019/07/22/hit-and-run-driver-kills-woman-in-crosswalk-on-mystic-avenue-in-somerville/",
+        "coord":  {
+                   "lon":  -71.08499,
+                   "lat":  42.392042000000004
+                   }
+    },
+    {
+        "date":  "2019-07-25 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Boston - Charlestown (Alford St/ Rt 99)",
+        "link":  "https://bpdnews.com/news/2019/7/26/bpd-seeks-publics-assistance-in-identifying-a-vehicle-of-interest-in-connection-to-a-fatal-hit-and-run-in-the-area-of-99-alford-street-in-charlestown",
+        "coord":  {
+                   "lon":  -71.07008,
+                   "lat":  42.390931
+                   }
+    },
+    {
+        "date":  "2019-07-31 00:00:00",
+        "name":  "Paul Germano",
+        "age":  "50",
+        "city":  "Spencer",
+        "link":  "https://whdh.com/news/police-investigating-after-national-grid-worker-struck-by-car-in-spencer/",
+        "coord":  {
+                   "lon":  -71.98144,
+                   "lat":  42.249575
+                   }
+    },
+    {
+        "date":  "2019-08-01 00:00:00",
+        "name":  "Robert Davis",
+        "age":  "67",
+        "city":  "Hull",
+        "link":  "https://mspnews.org/2019/08/02/the-massachusetts-state-police-are-investigating-a-crash-that-resulted-in-the-death-of-a-male-pedestrian-in-hull-last-night/",
+        "coord":  {
+                   "lon":  -70.859031,
+                   "lat":  42.263675
+                   }
+    },
+    {
+        "date":  "2019-08-14 00:00:00",
+        "name":  "Daniel De Lima",
+        "age":  "51",
+        "city":  "Sutton",
+        "link":  "https://www.nbcboston.com/news/local/Police-Investigating-Death-in-Sutton-Mass--542272521.html",
+        "coord":  {
+                   "lon":  -71.770034,
+                   "lat":  42.159748
+                   }
+    },
+    {
+        "date":  "2019-08-19 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "21",
+        "city":  "Belmont",
+        "link":  "https://www.wcvb.com/article/person-struck-by-train-in-belmont-train-traffic-delays-expected/28744903",
+        "coord":  {
+                   "lon":  -71.159097,
+                   "lat":  42.395893
+                   }
+    },
+    {
+        "date":  "2019-08-22 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Gloucester",
+        "link":  "https://www.wbur.org/news/2019/08/22/mbta-rail-gloucester-fatally-hit",
+        "coord":  {
+                   "lon":  -70.664225,
+                   "lat":  42.622428
+                   }
+    },
+    {
+        "date":  "2019-08-23 00:00:00",
+        "name":  "Antonio Tavares",
+        "age":  "61",
+        "city":  "Brockton",
+        "link":  "https://boston.cbslocal.com/2019/08/24/pedestrian-struck-brockton-police-cruiser/",
+        "coord":  {
+                   "lon":  -71.018977,
+                   "lat":  42.073705
+                   }
+    },
+    {
+        "date":  "2019-08-25 00:00:00",
+        "name":  "Kevin Demont",
+        "age":  "68",
+        "city":  "Somerville",
+        "link":  "https://mspnews.org/2019/08/28/victim-in-somerville-hit-and-run-has-died-investigation-ongoing/",
+        "coord":  {
+                   "lon":  -71.091291,
+                   "lat":  42.397292
+                   }
+    },
+    {
+        "date":  "2019-08-25 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Boston - Dorchester",
+        "link":  "https://www.bostonglobe.com/metro/2019/08/25/pedestrian-suffers-life-threatening-injuries-dorchester-crash/OrE9eQHdEGZiSL0bG6JKwO/story.html",
+        "coord":  {
+                   "lon":  -71.062956,
+                   "lat":  42.319457
+                   }
+    },
+    {
+        "date":  "2019-08-30 00:00:00",
+        "name":  "Francis Stamegna",
+        "age":  "62",
+        "city":  "Everett",
+        "link":  "https://mspnews.org/2019/08/31/state-police-investigate-pedestrian-fatal-in-everett/",
+        "coord":  {
+                   "lon":  -71.047058,
+                   "lat":  42.402512
+                   }
+    },
+    {
+        "date":  "2019-09-01 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Middleboro",
+        "link":  "https://www.enterprisenews.com/news/20190901/man-killed-on-mbta-commuter-rail-tracks-in-middleboro",
+        "coord":  {
+                   "lon":  -70.921007,
+                   "lat":  41.886574
+                   }
+    },
+    {
+        "date":  "2019-09-02 00:00:00",
+        "name":  "(unknown, woman)",
+        "age":  "20",
+        "city":  "Leominster",
+        "link":  "https://whdh.com/news/20-year-old-woman-struck-killed-by-commuter-rail-train-in-leominster/",
+        "coord":  {
+                   "lon":  -71.739869,
+                   "lat":  42.540017
+                   }
+    },
+    {
+        "date":  "2019-09-03 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "61",
+        "city":  "Worcester",
+        "link":  "https://www.telegram.com/news/20190904/pedestrian-dies-after-being-hit-by-suv-on-lincoln-street-in-worcester",
+        "coord":  {
+                   "lon":  -71.795524,
+                   "lat":  42.27625
+                   }
+    },
+    {
+        "date":  "2019-09-11 00:00:00",
+        "name":  "Diane Ly",
+        "age":  "30",
+        "city":  "Boston - Fort Point / South Boston",
+        "link":  "https://www.bostonglobe.com/metro/2019/09/12/woman-who-was-struck-vehicle-fort-point-area-has-died-other-pedestrian-expected-survive/EiVlKz0V87wM0Td3QCXtuI/story.html",
+        "coord":  {
+                   "lon":  -71.051039,
+                   "lat":  42.350499
+                   }
+    },
+    {
+        "date":  "2019-09-11 00:00:00",
+        "name":  "Eva Fenner",
+        "age":  "88",
+        "city":  "Amherst",
+        "link":  "https://www.gazettenet.com/88-year-old-Amherst-woman-identified-as-pedestrian-fatality-in-school-van-crash-28444040",
+        "coord":  {
+                   "lon":  -72.52038,
+                   "lat":  42.34693
+                   }
+    },
+    {
+        "date":  "2019-09-12 00:00:00",
+        "name":  "Antonieta Vargas",
+        "age":  "37",
+        "city":  "Seekonk",
+        "link":  "https://www.nbcboston.com/news/local/Pedestrian-Killed-in-Seekonk-Hit-and-Run-Crash-560203341.html",
+        "coord":  {
+                   "lon":  -71.331674,
+                   "lat":  41.869192
+                   }
+    },
+    {
+        "date":  "2019-09-13 00:00:00",
+        "name":  "Sara Pepper-Sullivan",
+        "age":  "58",
+        "city":  "Hadley",
+        "link":  "https://www.boston.com/news/local-news/2019/09/16/hadley-pedestrian-crash",
+        "coord":  {
+                   "lon":  -72.600921,
+                   "lat":  42.336631
+                   }
+    },
+    {
+        "date":  "2019-09-16 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "50",
+        "city":  "Attleboro (I-95)",
+        "link":  "https://mspnews.org/2019/09/17/update-state-police-investigating-fatalities-on-roads-in-attleboro-north-attleborough/",
+        "coord":  {
+                   "lon":  -71.369638,
+                   "lat":  41.898557
+                   }
+    },
+    {
+        "date":  "2019-09-17 00:00:00",
+        "name":  "Sharon Hamer",
+        "age":  "67",
+        "city":  "Cambridge",
+        "link":  "https://boston.cbslocal.com/2019/09/18/harvard-square-truck-crash-cambridge-sharon-hamer/",
+        "coord":  {
+                   "lon":  -71.118784,
+                   "lat":  42.373604
+                   }
+    },
+    {
+        "date":  "2019-09-22 00:00:00",
+        "name":  "Charlene Lewis",
+        "age":  "59",
+        "city":  "Dedham",
+        "link":  "https://www.bostonglobe.com/metro/2019/09/23/boston-woman-struck-and-killed-car-dedham/GtZGXskgbZ0YptUWo6MHwO/story.html",
+        "coord":  {
+                   "lon":  -71.174542,
+                   "lat":  42.269619
+                   }
+    },
+    {
+        "date":  "2019-09-27 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  ""30s"",
+        "city":  "Everett",
+        "link":  "https://boston.cbslocal.com/2019/09/27/everett-man-hit-killed-tractor-trailer-truck-broadway/",
+        "coord":  {
+                   "lon":  -71.053484,
+                   "lat":  42.409255
+                   }
+    },
+    {
+        "date":  "2019-09-27 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "68",
+        "city":  "Worcester",
+        "link":  "https://www.telegram.com/news/20190928/regional-digest",
+        "coord":  {
+                   "lon":  -71.830981,
+                   "lat":  42.290346
+                   }
+    },
+    {
+        "date":  "2019-10-03 00:00:00",
+        "name":  "Marc Gautreau",
+        "age":  "51",
+        "city":  "Marlborough",
+        "link":  "https://www.bostonglobe.com/metro/2019/10/03/man-fatally-struck-marlborough-roadway/xhpJke7BHnCueyooIfTKxK/story.html",
+        "coord":  {
+                   "lon":  -71.521922,
+                   "lat":  42.349257
+                   }
+    },
+    {
+        "date":  "2019-10-03 00:00:00",
+        "name":  "Peter Weaver",
+        "age":  "56",
+        "city":  "Seekonk (I-195)",
+        "link":  "https://www.bostonglobe.com/metro/2019/10/03/man-fatally-struck-while-walking-seekonk-highway/xppLghI2FeZ7ii9ZdOSISJ/story.html",
+        "coord":  {
+                   "lon":  -71.334525,
+                   "lat":  41.804332
+                   }
+    },
+    {
+        "date":  "2019-10-07 00:00:00",
+        "name":  "Ernest Millette",
+        "age":  "73",
+        "city":  "Pittsfield",
+        "link":  "https://www.bostonglobe.com/metro/2019/10/08/year-old-struck-and-killed-tractor-trailer-pittsfield/3NstKAATMEKtrEWE4MVfVN/story.html",
+        "coord":  {
+                   "lon":  -73.201948,
+                   "lat":  42.487066
+                   }
+    },
+    {
+        "date":  "2019-10-09 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  ""50s"",
+        "city":  "Chelsea",
+        "link":  "https://www.nbcboston.com/news/local/Man-in-50s-Killed-by-Inbound-Rockport-Line-Commuter-Rail-Train-Chelsea-Massachusetts-562608281.html",
+        "coord":  {
+                   "lon":  -71.039966,
+                   "lat":  42.39681
+                   }
+    },
+    {
+        "date":  "2019-10-14 00:00:00",
+        "name":  "Timothy Lafferty",
+        "age":  "57",
+        "city":  "Methuen",
+        "link":  "https://www.wcvb.com/article/man-killed-in-methuen-hit-and-run-pedestrian-crash-police-chief-says/29466252",
+        "coord":  {
+                   "lon":  -71.1669,
+                   "lat":  42.7348
+                   }
+    },
+    {
+        "date":  "2019-10-22 00:00:00",
+        "name":  "Moses Shummow",
+        "age":  "70",
+        "city":  "Beverly",
+        "link":  "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj43JO1xvzzAhWTSDABHVqHAW8QFNoECAIQAQ&url=https%3A%2F%2Fwww.masslive.com%2Fboston%2F2019%2F10%2Femerson-college-journalism-professor-moses-shumow-struck-and-killed-by-mbta-commuter-rail-train-in-beverly.html&usg=AOvVaw2XEi0PftQtH7oGYv5nmHNn",
+        "coord":  {
+                   "lon":  -70.885321,
+                   "lat":  42.547394
+                   }
+    },
+    {
+        "date":  "2019-10-25 00:00:00",
+        "name":  "Kimberly Hannon",
+        "age":  "27",
+        "city":  "Millbury",
+        "link":  "https://www.masslive.com/news/2019/10/douglas-woman-kimberly-hannon-killed-while-crossing-mass-turnpike-in-millbury.html",
+        "coord":  {
+                   "lon":  -71.791667,
+                   "lat":  42.206409
+                   }
+    },
+    {
+        "date":  "2019-10-28 00:00:00",
+        "name":  "Scott Pieraccini",
+        "age":  "37",
+        "city":  "West Springfield",
+        "link":  "https://www.westernmassnews.com/news/pedestrian-struck-by-car-in-west-springfield-has-died/article_78c6244e-fa72-11e9-b936-cf7365e19812.html",
+        "coord":  {
+                   "lon":  -72.598929,
+                   "lat":  42.096915
+                   }
+    },
+    {
+        "date":  "2019-10-31 00:00:00",
+        "name":  "Mary Paulette Murphy",
+        "age":  "71",
+        "city":  "Fitchburg",
+        "link":  "https://www.boston.com/news/crime/2019/11/01/fitchburg-hit-and-run",
+        "coord":  {
+                   "lon":  -71.780211,
+                   "lat":  42.58667
+                   }
+    },
+    {
+        "date":  "2019-11-03 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Seekonk",
+        "link":  "https://www.nbcboston.com/news/local/Fatal-pedestrian-accident-in-Seekonk-564311671.html",
+        "coord":  {
+                   "lon":  -71.322291,
+                   "lat":  41.899611
+                   }
+    },
+    {
+        "date":  "2019-11-05 00:00:00",
+        "name":  "Eric Wilczek",
+        "age":  "58",
+        "city":  "Ipswich",
+        "link":  "http://thelocalne.ws/2019/11/08/identity-of-man-killed-during-the-week-released/",
+        "coord":  {
+                   "lon":  -70.842791,
+                   "lat":  42.675741
+                   }
+    },
+    {
+        "date":  "2019-11-06 00:00:00",
+        "name":  "Jose Ferreira",
+        "age":  "85",
+        "city":  "Taunton",
+        "link":  "https://boston.cbslocal.com/2019/11/07/taunton-fatal-hit-and-run-crash-jose-ferreira-pickup-truck-suspect/",
+        "coord":  {
+                   "lon":  -71.036383,
+                   "lat":  41.880896
+                   }
+    },
+    {
+        "date":  "2019-11-06 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Newton",
+        "link":  "https://www.bostonglobe.com/metro/2019/11/06/man-dies-after-being-struck-commuter-train-west-newton/NiDqnTpaRaizSUmkv3k54H/story.html",
+        "coord":  {
+                   "lon":  -71.210407,
+                   "lat":  42.350879
+                   }
+    },
+    {
+        "date":  "2019-11-07 00:00:00",
+        "name":  "Bijan Ghayour",
+        "age":  "72",
+        "city":  "Dedham",
+        "link":  "https://whdh.com/news/elderly-pedestrian-dies-another-seriously-injured-following-crash-in-dedham/",
+        "coord":  {
+                   "lon":  -71.176056,
+                   "lat":  42.26787
+                   }
+    },
+    {
+        "date":  "2019-11-15 00:00:00",
+        "name":  "Luis Contreras",
+        "age":  "37",
+        "city":  "Raynham",
+        "link":  "https://mspnews.org/2019/11/15/state-police-investigating-raynham-crash-that-killed-good-samaritan-who-exited-his-car-to-help-another-motorist/",
+        "coord":  {
+                   "lon":  -71.046187,
+                   "lat":  41.957395
+                   }
+    },
+    {
+        "date":  "2019-11-17 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "41",
+        "city":  "Littleton",
+        "link":  "https://whdh.com/news/pedestrian-struck-by-88-year-old-driver-in-littleton-has-died/",
+        "coord":  {
+                   "lon":  -71.535706,
+                   "lat":  42.551636
+                   }
+    },
+    {
+        "date":  "2019-11-19 00:00:00",
+        "name":  "Jackson Frechette",
+        "age":  "13",
+        "city":  "Peabody",
+        "link":  "https://www.bostonglobe.com/metro/2019/11/20/year-old-peabody-boy-dies-after-being-struck-car-route-while-riding-his-bike/IbqT63mJLOdJLhGR6IwVKP/story.html",
+        "coord":  {
+                   "lon":  -70.947517,
+                   "lat":  42.5467
+                   }
+    },
+    {
+        "date":  "2019-11-26 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "66",
+        "city":  "Worcester",
+        "link":  "https://www.telegram.com/news/20191126/man-fatally-hit-by-car-on-park-ave-in-worcester",
+        "coord":  {
+                   "lon":  -71.818322,
+                   "lat":  42.266157
+                   }
+    },
+    {
+        "date":  "2019-11-27 00:00:00",
+        "name":  "Devalter M. Rocha",
+        "age":  "54",
+        "city":  "Worcester",
+        "link":  "https://www.masslive.com/worcester/2019/11/two-pedestrians-killed-in-worcester-within-hours-framingham-man-struck-on-chandler-street-identified-as-devalter-marini-rocha.html",
+        "coord":  {
+                   "lon":  -71.84095,
+                   "lat":  42.268273
+                   }
+    },
+    {
+        "date":  "2019-12-10 00:00:00",
+        "name":  "Maria Graca",
+        "age":  "75",
+        "city":  "Brockton",
+        "link":  "https://www.enterprisenews.com/news/20191210/brockton-woman-struck-by-police-cruiser-succumbs-to-injuries",
+        "coord":  {
+                   "lon":  -71.018324,
+                   "lat":  42.07138
+                   }
+    },
+    {
+        "date":  "2019-12-13 00:00:00",
+        "name":  "Peter L. Morin",
+        "age":  "67",
+        "city":  "Sturbridge",
+        "link":  "https://www.telegram.com/news/20191214/pedestrian-struck-killed-by-car-in-sturbridge",
+        "coord":  {
+                   "lon":  -72.071704,
+                   "lat":  42.096012
+                   }
+    },
+    {
+        "date":  "2019-12-25 00:00:00",
+        "name":  "Clinton Poland",
+        "age":  "79",
+        "city":  "Natick",
+        "link":  "https://www.metrowestdailynews.com/news/20200107/natick-man-hit-by-car-on-christmas-day-has-died",
+        "coord":  {
+                   "lon":  -71.347265,
+                   "lat":  42.281999
+                   }
+    },
+    {
+        "date":  "2019-12-31 00:00:00",
+        "name":  "Ann B. DesRosiers",
+        "age":  "81",
+        "city":  "Arlington",
+        "link":  "https://arlington.wickedlocal.com/news/20191231/arlington-woman-killed-while-crossing-chestnut-street",
+        "coord":  {
+                   "lon":  -71.150494,
+                   "lat":  42.416366
+                   }
+    },
+    {
+        "date":  "2020-01-07 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  ""40s"",
+        "city":  "Boston - Roxbury (Mass/Melnea)",
+        "link":  "https://www.wcvb.com/article/pedestrian-struck-by-car-on-melnea-cass-boulevard-in-boston-suffers-life-threatening-injuries/30437005",
+        "coord":  {
+                   "lon":  -71.072239,
+                   "lat":  42.33243
+                   }
+    },
+    {
+        "date":  "2020-01-30 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "18",
+        "city":  "Concord",
+        "link":  "http://www.tpdnews411.com/2020/01/trespasser-struck-fatality-confirmed.html",
+        "coord":  {
+                   "lon":  -71.40345,
+                   "lat":  42.455082
+                   }
+    },
+    {
+        "date":  "2020-02-08 00:00:00",
+        "name":  "Alan Moreau",
+        "age":  "52",
+        "city":  "Fall River",
+        "link":  "https://whdh.com/news/taunton-man-dies-after-being-run-over-by-family-member/",
+        "coord":  {
+                   "lon":  -71.143209,
+                   "lat":  41.69716
+                   }
+    },
+    {
+        "date":  "2020-02-08 00:00:00",
+        "name":  "Sanyi K. Harris",
+        "age":  "45",
+        "city":  "Quincy",
+        "link":  "https://www.bostonglobe.com/2020/02/10/metro/mbta-employee-killed-job-was-loving-mother-twins-family-says/",
+        "coord":  {
+                   "lon":  -71.005243,
+                   "lat":  42.252139
+                   }
+    },
+    {
+        "date":  "2020-03-01 00:00:00",
+        "name":  "Juzhen Feng",
+        "age":  "74",
+        "city":  "Cambridge",
+        "link":  "https://mspnews.org/2020/03/04/pedestrian-involved-in-sundays-crash-in-cambridge-succumbs-to-injuries/",
+        "coord":  {
+                   "lon":  -71.086693,
+                   "lat":  42.359439
+                   }
+    },
+    {
+        "date":  "2020-03-13 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "Bellingham",
+        "link":  "https://www.enterprisenews.com/news/20200315/pedestrian-struck-killed-in-bellingham",
+        "coord":  {
+                   "lon":  -71.474147,
+                   "lat":  42.049554
+                   }
+    },
+    {
+        "date":  "2020-03-16 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "66",
+        "city":  "Boston - South End (Mass/Albany)",
+        "link":  "https://whdh.com/news/pedestrian-suffers-life-threatening-injuries-after-being-hit-by-car-in-roxbury/",
+        "coord":  {
+                   "lon":  -71.073421,
+                   "lat":  42.333536
+                   }
+    },
+    {
+        "date":  "2020-03-19 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "North Reading",
+        "link":  "https://www.nbcboston.com/news/local/pedestrian-struck-killed-by-suv-in-north-reading-police-say/2093915/",
+        "coord":  {
+                   "lon":  -71.11808,
+                   "lat":  42.592393
+                   }
+    },
+    {
+        "date":  "2020-03-26 00:00:00",
+        "name":  "George Norris",
+        "age":  "58",
+        "city":  "Ipswich",
+        "link":  "https://boston.cbslocal.com/2020/08/20/ipswich-crash-ryane-linehan-george-Norris/",
+        "coord":  {
+                   "lon":  -70.871362,
+                   "lat":  42.664073
+                   }
+    },
+    {
+        "date":  "2020-04-03 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Springfield",
+        "link":  "https://www.bostonglobe.com/2020/04/04/metro/man-killed-springfield-pedestrian-crash/",
+        "coord":  {
+                   "lon":  -72.533972,
+                   "lat":  42.132401
+                   }
+    },
+    {
+        "date":  "2020-04-08 00:00:00",
+        "name":  "Jason Lanney",
+        "age":  "47",
+        "city":  "Leominster",
+        "link":  "https://www.telegram.com/news/20200413/death-of-homeless-pedestrian-in-leominster-is-probed",
+        "coord":  {
+                   "lon":  -71.759962,
+                   "lat":  42.540337
+                   }
+    },
+    {
+        "date":  "2020-04-22 00:00:00",
+        "name":  "Thomas Anderson",
+        "age":  "41",
+        "city":  "Boston",
+        "link":  "https://mass.streetsblog.org/2020/04/22/truck-driver-kills-bicyclist-on-mass-ave-in-south-end/",
+        "coord":  {
+                   "lon":  -71.075088,
+                   "lat":  42.334987
+                   }
+    },
+    {
+        "date":  "2020-05-05 00:00:00",
+        "name":  "Charles Proctor",
+        "age":  "27",
+        "city":  "Arlington",
+        "link":  "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwic2tnUs_jzAhUkkGoFHYJbAAwQFNoECAQQAQ&url=https%3A%2F%2Fwww.boston.com%2Fnews%2Flocal-news%2F2020%2F05%2F06%2Farlington-fatal-bicycle-crash%2F&usg=AOvVaw3370Uy4xM8gHzXj5KRRXGN",
+        "coord":  {
+                   "lon":  -71.175991,
+                   "lat":  42.423579
+                   }
+    },
+    {
+        "date":  "2020-05-21 00:00:00",
+        "name":  "Fernanda Medina",
+        "age":  "62",
+        "city":  "Lowell",
+        "link":  "https://www.lowellsun.com/2020/05/21/two-pedestrians-killed-in-pawtucket-boulevard-crash/",
+        "coord":  {
+                   "lon":  -71.375753,
+                   "lat":  42.643459
+                   }
+    },
+    {
+        "date":  "2020-05-21 00:00:00",
+        "name":  "Jose Medina",
+        "age":  "66",
+        "city":  "Lowell",
+        "link":  "https://www.lowellsun.com/2020/05/21/two-pedestrians-killed-in-pawtucket-boulevard-crash/",
+        "coord":  {
+                   "lon":  -71.375753,
+                   "lat":  42.643459
+                   }
+    },
+    {
+        "date":  "2020-06-09 00:00:00",
+        "name":  "Gary Burke",
+        "age":  "59",
+        "city":  "Boston",
+        "link":  "https://mass.streetsblog.org/2020/06/09/driver-kills-bicyclist-on-cummins-highway-in-mattapan/",
+        "coord":  {
+                   "lon":  -71.100668,
+                   "lat":  42.270418
+                   }
+    },
+    {
+        "date":  "2020-06-10 00:00:00",
+        "name":  "Sze Szeto",
+        "age":  "73",
+        "city":  "Quincy",
+        "link":  "https://thequincysun.com/police-investigating-fatal-pedestrian-crash/",
+        "coord":  {
+                   "lon":  -70.988085,
+                   "lat":  42.240667
+                   }
+    },
+    {
+        "date":  "2020-06-24 00:00:00",
+        "name":  "Tat Segundo",
+        "age":  "49",
+        "city":  "Quincy/Milton (I-93N - Exit 9)",
+        "link":  "https://mspnews.org/2020/06/25/state-police-respond-to-fatal-pedestrian-crash-on-route-93-in-milton/",
+        "coord":  {
+                   "lon":  -71.038321,
+                   "lat":  42.253153
+                   }
+    },
+    {
+        "date":  "2020-06-26 00:00:00",
+        "name":  "(unknown, woman)",
+        "age":  "80",
+        "city":  "Quincy",
+        "link":  "https://twitter.com/Michelle8059/status/1277972366946037762",
+        "coord":  {
+                   "lon":  -70.983239,
+                   "lat":  42.242571
+                   }
+    },
+    {
+        "date":  "2020-07-10 00:00:00",
+        "name":  "(unknown, woman)",
+        "age":  "58",
+        "city":  "Wareham",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.723969,
+                   "lat":  41.781167
+                   }
+    },
+    {
+        "date":  "2020-07-11 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "31",
+        "city":  "Chelsea",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.034158,
+                   "lat":  42.395024
+                   }
+    },
+    {
+        "date":  "2020-07-16 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "37",
+        "city":  "Dartmouth",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.020876,
+                   "lat":  41.63973
+                   }
+    },
+    {
+        "date":  "2020-07-18 00:00:00",
+        "name":  "James Bouchie",
+        "age":  "72",
+        "city":  "Quincy",
+        "link":  "https://boston.cbslocal.com/2020/07/20/david-bowering-james-bouchie-quincy-pedestrian-killed-oui/",
+        "coord":  {
+                   "lon":  -70.984192,
+                   "lat":  42.239349
+                   }
+    },
+    {
+        "date":  "2020-07-24 00:00:00",
+        "name":  "H. Alan Colby",
+        "age":  "67",
+        "city":  "Scituate",
+        "link":  "https://www.bostonglobe.com/2020/08/04/metro/driver-94-facing-charges-fatal-crash-that-killed-cyclist-hingham/",
+        "coord":  {
+                   "lon":  -70.744365,
+                   "lat":  42.167614
+                   }
+    },
+    {
+        "date":  "2020-08-02 00:00:00",
+        "name":  " Dolores McHenry",
+        "age":  "81",
+        "city":  "Fall River",
+        "link":  "https://fallriverreporter.com/fall-river-woman-dies-after-sunday-morning-pedestrian-crash-driver-cited-for-potential-charges-1/",
+        "coord":  {
+                   "lon":  -71.142803,
+                   "lat":  41.699583
+                   }
+    },
+    {
+        "date":  "2020-08-03 00:00:00",
+        "name":  "Richard Tetreault",
+        "age":  "87",
+        "city":  "Webster",
+        "link":  "https://www.masslive.com/news/2020/08/richard-tetreault-identified-as-man-fatally-struck-by-vehicle-monday-in-webster.html",
+        "coord":  {
+                   "lon":  -71.863331,
+                   "lat":  42.058123
+                   }
+    },
+    {
+        "date":  "2020-08-09 00:00:00",
+        "name":  "Laurie Cain",
+        "age":  "65",
+        "city":  "Hopkinton",
+        "link":  "https://mspnews.org/2020/08/10/update-victim-identified-in-fatal-crash-in-hopkinton/",
+        "coord":  {
+                   "lon":  -71.584909,
+                   "lat":  42.251233
+                   }
+    },
+    {
+        "date":  "2020-08-11 00:00:00",
+        "name":  "Michelle Shelley Maxwell",
+        "age":  "55",
+        "city":  "Brockton",
+        "link":  "https://www.boston25news.com/news/local/brockton-woman-killed-hit-and-run-crash-while-walking-her-dog/GWZDZWJX7VEJNDGTBLIMBOSZ7M/",
+        "coord":  {
+                   "lon":  -70.991018,
+                   "lat":  42.086189
+                   }
+    },
+    {
+        "date":  "2020-08-13 00:00:00",
+        "name":  "Jennifer Bemis",
+        "age":  "67",
+        "city":  "Concord",
+        "link":  "https://boston.cbslocal.com/2020/08/19/jennifer-jamie-bemis-spaulding-rehab-concord-crash/",
+        "coord":  {
+                   "lon":  -71.358963,
+                   "lat":  42.458635
+                   }
+    },
+    {
+        "date":  "2020-08-15 00:00:00",
+        "name":  "(unknown, Canton man)",
+        "age":  "68",
+        "city":  "Quincy",
+        "link":  "https://www.bostonglobe.com/2020/08/15/metro/pedestrian-struck-seriously-injured-near-wollaston-beach-quincy/?outputType=amp",
+        "coord":  {
+                   "lon":  -71.011116,
+                   "lat":  42.277139
+                   }
+    },
+    {
+        "date":  "2020-08-15 00:00:00",
+        "name":  "Qualan Joseph Powell",
+        "age":  "33",
+        "city":  "Boston - Dorchester (Peabody Sq)",
+        "link":  "https://www.universalhub.com/crime/20200817/man-killed-hit-and-run-near-ashmont-t-station",
+        "coord":  {
+                   "lon":  -71.064246,
+                   "lat":  42.285888
+                   }
+    },
+    {
+        "date":  "2020-08-17 00:00:00",
+        "name":  "Joseph Driscoll",
+        "age":  "62",
+        "city":  "Brockton",
+        "link":  "https://boston.cbslocal.com/2020/08/18/brockton-pedestrian-crash-belmont-street/",
+        "coord":  {
+                   "lon":  -71.187828,
+                   "lat":  42.380547
+                   }
+    },
+    {
+        "date":  "2020-08-18 00:00:00",
+        "name":  "Darryl Willis",
+        "age":  "55",
+        "city":  "Cambridge",
+        "link":  "https://www.middlesexda.com/press-releases/news/fatal-motor-vehicle-crash-victim-cambridge-identified",
+        "coord":  {
+                   "lon":  -71.118938,
+                   "lat":  42.373791
+                   }
+    },
+    {
+        "date":  "2020-08-25 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "32",
+        "city":  "Fairhaven",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.885087,
+                   "lat":  41.641389
+                   }
+    },
+    {
+        "date":  "2020-08-28 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "60",
+        "city":  "Worcester",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.788938,
+                   "lat":  42.275943
+                   }
+    },
+    {
+        "date":  "2020-08-30 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "62",
+        "city":  "North Attleborough",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.372619,
+                   "lat":  41.922646
+                   }
+    },
+    {
+        "date":  "2020-09-01 00:00:00",
+        "name":  "Christopher Pennenga",
+        "age":  "35",
+        "city":  "Freetown",
+        "link":  "https://www.nbcboston.com/news/local/pedestrian-killed-in-freetown-crash/2187737/",
+        "coord":  {
+                   "lon":  -70.952657,
+                   "lat":  41.766519
+                   }
+    },
+    {
+        "date":  "2020-09-01 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "85",
+        "city":  "Newburyport",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -70.857508,
+                   "lat":  42.805996
+                   }
+    },
+    {
+        "date":  "2020-09-12 00:00:00",
+        "name":  "Peter A. Del Sette, Jr.",
+        "age":  "56",
+        "city":  "Haverhill",
+        "link":  "https://obituaries.salemnews.com/obituary/peter-del-sette-jr-1080080258",
+        "coord":  {
+                   "lon":  -71.024583,
+                   "lat":  42.818303
+                   }
+    },
+    {
+        "date":  "2020-09-21 00:00:00",
+        "name":  "Bernardin Etienne",
+        "age":  "62",
+        "city":  "Boston - Charlestown",
+        "link":  "https://www.bostonglobe.com/2020/09/21/metro/t-employee-seriously-injured-crash-charlestown-bus-yard/",
+        "coord":  {
+                   "lon":  -71.073428,
+                   "lat":  42.387574
+                   }
+    },
+    {
+        "date":  "2020-09-25 00:00:00",
+        "name":  "Harry Young",
+        "age":  "48",
+        "city":  "Blandford (I90)",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -73.004572,
+                   "lat":  42.23784
+                   }
+    },
+    {
+        "date":  "2020-09-29 00:00:00",
+        "name":  "(unknown)",
+        "age":  "(unknown)",
+        "city":  "Boston - South Boston",
+        "link":  "none",
+        "coord":  {
+                   "lon":  -71.057329,
+                   "lat":  42.329581
+                   }
+    },
+    {
+        "date":  "2020-10-18 00:00:00",
+        "name":  "(unknown, man)",
+        "age":  "(unknown)",
+        "city":  "Wakefield (95/128)",
+        "link":  "https://www.nbcboston.com/news/local/pedestrian-struck-and-killed-on-rte-128-in-wakefield/2213968/",
+        "coord":  {
+                   "lon":  -71.0888,
+                   "lat":  42.51827
+                   }
+    },
+    {
+        "date":  "2020-10-21 00:00:00",
+        "name":  "Jassiem Tykeil Turner",
+        "age":  "23",
+        "city":  "Springfield",
+        "link":  "https://www.masslive.com/news/2020/10/springfield-bicyclist-seriously-injured-in-crash-with-semi-trailer-truck.html",
+        "coord":  {
+                   "lon":  -72.546078,
+                   "lat":  42.132389
+                   }
+    },
+    {
+        "date":  "2020-11-17 00:00:00",
+        "name":  "Virginia Chalmers",
+        "age":  "70",
+        "city":  "Milton",
+        "link":  "https://www.bostonglobe.com/2020/11/17/metro/eversource-employee-killed-milton-bicycle-crash/",
+        "coord":  {
+                   "lon":  -71.093824,
+                   "lat":  42.265106
+                   }
+    },
+    {
+        "date":  "2021-02-28 00:00:00",
+        "name":  "(unknown)",
+        "age":  "46",
+        "city":  "Ipswich",
+        "link":  "https://www.newsbreak.com/massachusetts/ipswich/news/2172534849509/police-investigating-after-man-dies-while-mountain-biking-in-ipswich-forest?s=i3",
+        "coord":  {
+                   "lon":  -70.912309,
+                   "lat":  42.662038
+                   }
+    },
+    {
+        "date":  "2021-03-30 00:00:00",
+        "name":  "Donald "Chip" Crowell",
+        "age":  "62",
+        "city":  "Westford",
+        "link":  "https://www.nbcboston.com/news/local/cyclist-struck-by-car-killed-on-route-40-in-westford-police/2342912/",
+        "coord":  {
+                   "lon":  -71.476676,
+                   "lat":  42.607992
+                   }
+    },
+    {
+        "date":  "2021-05-05 00:00:00",
+        "name":  "Benjamin Kaplan",
+        "age":  "29",
+        "city":  "LeNox",
+        "link":  "https://www.berkshireeagle.com/news/local/central_berkshires/bicyclist-dies-from-injuries-after-colliding-with-truck-in-leNox/article_6ad086ec-b1ad-11eb-8b17-9bdd00d361da.html",
+        "coord":  {
+                   "lon":  -73.259384,
+                   "lat":  42.355642
+                   }
+    },
+    {
+        "date":  "2021-07-30 00:00:00",
+        "name":  "Ben Colaneri",
+        "age":  "16",
+        "city":  "Ipswich",
+        "link":  "https://www.nbcboston.com/news/local/16-year-old-cyclist-hit-and-killed-by-pickup-truck-in-ipswich/2449889/",
+        "coord":  {
+                   "lon":  -70.836871,
+                   "lat":  42.67185
+                   }
+    },
+    {
+        "date":  "2021-10-06 00:00:00",
+        "name":  "Charles Braun",
+        "age":  "69",
+        "city":  "Northampton",
+        "link":  "https://www.wwlp.com/news/local-news/hampshire-county/bicyclist-dies-after-stuck-by-car-in-Northampton/",
+        "coord":  {
+                   "lon":  -72.649209,
+                   "lat":  42.325195
+                   }
+    },
+  }
+]
