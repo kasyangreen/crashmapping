@@ -36,9 +36,9 @@ Our final project for Webmapping and Open Source GIS is to update and expand the
   
 Secondary goals include a utility for updating the dataset from a formatted csv file and incorporating a visual aesthetic which maximizes the advocacy impact of the data set.  
   
-Users would benefit from this map by being able to understand what counties are vulnerable to more traffic fatalities, what times/days these fatalities are more likely to  
-occur at, and whether more fatalities take place with bicycle riders or pedestrians. Effective visualization will allow users to understand the spatial and temporal 
-likelihood of these fatality incidents and perhaps uncover reasons for concentrations of these incidents at certain times and spaces, thus leading to the design of 
+Users would benefit from this map by being able to understand what counties are vulnerable to more traffic fatalities, what times/days these fatalities are more likely to
+occur at, and whether more fatalities take place with bicycle riders or pedestrians. Effective visualization will allow users to understand the spatial and temporal
+likelihood of these fatality incidents and perhaps uncover reasons for concentrations of these incidents at certain times and spaces, thus leading to the design of
 better roadways and enhanced safety for roadway users.   
   
 ## Data and Methodology
