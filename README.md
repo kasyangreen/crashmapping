@@ -57,7 +57,7 @@ Currently, the Fatal Data set includes 440 instances with at least 9 attributes 
 8. Longitude coordinate
 9. Latitude coordinate
 
-We hope to use Leaflet API to build this web map and use the classic ESRI dark basemap for enhanced visualization. We may also integrate this with the mapbox traffic  
+We hope to use Leaflet API to build this web map and use the classic ESRI dark basemap for enhanced visualization. We may also integrate this with the mapbox traffic
 layers that display real-time traffic visualization.   
   
 - Interactive elements we want to add include:  
