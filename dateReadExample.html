@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Data Read Example Page</title>
+    <link rel="stylesheet" type="text/css" href="css/colors-and-fonts.css">
+    <link rel="stylesheet" type="text/css" href="css/header-styles.css">
+    <link rel="stylesheet" type="text/css" href="css/about.css">
+    <script type="text/javascript" src="data/FatalData.json"></script>  
+
+  </head>
+  <body>
+    <header>
+        <div class=container>
+            <div class="header">
+                <a href="index.html" class="title">Crash Map</a>
+                <div class="header-right">
+                    <a href="index.html">Home</a>
+                    <a href="data.html">Data</a>
+                    <a class="active" href="about-us.html">About Us</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div id="container">
+      <h2>Number of Records in FatalData.json:  <span id="fileSize"></h1>
+      <h2>First Name:  <span id="name1"></h1>
+      <h2>First Date: <span id="date1"></h1>
+      <h2>First Age: <span id="age1"></h1>
+      <h2>First Link: <div id="link1"></h1>
+      <h2>First Latitude: <span id="lat1"></h1>
+      <h2>First Longitude: <span id="lon1"></h1>
+    </div>
+
+    <script>
+/*    first round of testing... 
+      alert(fatalData.length)                    //returns length of datafile (in this case 3)
+      alert(fatalData[0].name);                    //returns the first instance name
+      alert(fatalData[0].age);
+      alert(fatalData[1].coord["lat"]);
+      alert(fatalData[1].link);*/
+
+      document.getElementById('fileSize').innerHTML = fatalData.length;
+      document.getElementById('name1').innerHTML = fatalData[0].name;
+      document.getElementById('date1').innerHTML = fatalData[0].date;
+      document.getElementById('age1').innerHTML = fatalData[0].age;
+      document.getElementById('link1').innerHTML = fatalData[0].link;
+      document.getElementById('lat1').innerHTML = fatalData[0].coord["lat"];
+      document.getElementById('lon1').innerHTML = fatalData[0].coord["lon"];
+    </script>
+  </body>
+</html>

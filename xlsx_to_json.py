@@ -12,8 +12,10 @@
 import pandas as pd
 import os
 
+# hard coded paths and file names - todo: allow user to choose file; set path file directory
 path = r"C:\Users\bosto\Documents\ClarkGIS\WebMapping\FinalProj"
 data = r"\FatalData_20162020_clean.xlsx"
+
 data_type={'Date': str,
     'Name': str,
     'Age': str,
@@ -23,15 +25,12 @@ data_type={'Date': str,
     'Link': str
     }
 
-
 data_file = pd.read_excel(path + data, index_col=None, dtype=data_type, na_filter = False)
 
 try:
-        file = open(path + '/FatalData.json',"w")
-        file.write("[\n")
-        file.write("  {\n")
-        # for i in range(5):
-        for i in range(len(data_file)):
+        file = open(path + '\FatalData.json',"w")
+        file.write("fatalData = [\n")
+        for i in range(len(data_file)):             # loop thru datafile
             file.write("    {\n")
             file.write('        "date":  "' + data_file.loc[i,"Date"] + '",\n')
             file.write('        "name":  "' + data_file.loc[i,"Name"] + '",\n')
@@ -42,12 +41,14 @@ try:
             file.write('                   "lon":  ' + str(data_file.loc[i,"Lon"]) + ',\n')
             file.write('                   "lat":  ' + str(data_file.loc[i,"Lat"]) + '\n')
             file.write('                   }\n')
-            file.write('    },\n')
-        file.write("  }\n")
-        file.write("]\n")
+            if i < len(data_file) -1:               # test for last record
+                file.write('    },\n')              # include comma
+            else:
+                file.write('    }\n')               # last record, no comma
+        # file.write("  }\n")
+        file.write("];\n")
 except Exception as e:
     print (e)
 finally:
         file.close()
         print ("Script ended")
-

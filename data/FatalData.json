@@ -1,5 +1,4 @@
-[
-  {
+fatalData = [
     {
         "date":  "2009-09-11 00:00:00",
         "name":  "Tracy Milillo",
@@ -467,8 +466,7 @@
         "name":  "Mark Stracuzzi",
         "age":  "57",
         "city":  "Malden",
-        "link":  "http://malden.wickedlocal.com/article/20140917/NEWS/140916396 
-http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-275513411.html",
+        "link":  "http://malden.wickedlocal.com/article/20140917/NEWS/140916396",
         "coord":  {
                    "lon":  -71.025332,
                    "lat":  42.432106
@@ -630,7 +628,7 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
     },
     {
         "date":  "2016-01-04 00:00:00",
-        "name":  "James "Jimmy" Collins",
+        "name":  "James 'Jimmy' Collins",
         "age":  "68",
         "city":  "South Hadley",
         "link":  "http://wwlp.com/2016/01/06/pedestrian-killed-in-south-hadley-crash-identified/",
@@ -1257,7 +1255,7 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
     },
     {
         "date":  "2016-09-01 00:00:00",
-        "name":  "Barbara "Sarge" Clement",
+        "name":  "Barbara 'Sarge' Clement",
         "age":  "64",
         "city":  "Milford",
         "link":  "https://patch.com/massachusetts/milford-ma/pedestrian-killed-milford-hit-run-reports",
@@ -2709,7 +2707,7 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
     },
     {
         "date":  "2017-11-19 00:00:00",
-        "name":  "Edward "Eddie" Thomson",
+        "name":  "Edward 'Eddie' Thomson",
         "age":  "6",
         "city":  "Westwood",
         "link":  "http://www.wcvb.com/article/vigil-to-be-held-for-first-grader-who-died-after-being-struck-by-car/13856367",
@@ -4073,7 +4071,7 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
     },
     {
         "date":  "2019-07-15 00:00:00",
-        "name":  "Majid "Mike" Hamade",
+        "name":  "Majid 'Mike' Hamade",
         "age":  "64",
         "city":  "Weymouth",
         "link":  "https://www.nbcboston.com/news/local/Pedestrian-Struck-at-Weymouth-Mobil-512764511.html",
@@ -4316,7 +4314,7 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
     {
         "date":  "2019-09-27 00:00:00",
         "name":  "(unknown, man)",
-        "age":  ""30s"",
+        "age":  "30s",
         "city":  "Everett",
         "link":  "https://boston.cbslocal.com/2019/09/27/everett-man-hit-killed-tractor-trailer-truck-broadway/",
         "coord":  {
@@ -4371,7 +4369,7 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
     {
         "date":  "2019-10-09 00:00:00",
         "name":  "(unknown, man)",
-        "age":  ""50s"",
+        "age":  "50s",
         "city":  "Chelsea",
         "link":  "https://www.nbcboston.com/news/local/Man-in-50s-Killed-by-Inbound-Rockport-Line-Commuter-Rail-Train-Chelsea-Massachusetts-562608281.html",
         "coord":  {
@@ -4591,7 +4589,7 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
     {
         "date":  "2020-01-07 00:00:00",
         "name":  "(unknown, man)",
-        "age":  ""40s"",
+        "age":  "40s",
         "city":  "Boston - Roxbury (Mass/Melnea)",
         "link":  "https://www.wcvb.com/article/pedestrian-struck-by-car-on-melnea-cass-boulevard-in-boston-suffers-life-threatening-injuries/30437005",
         "coord":  {
@@ -5096,7 +5094,7 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
     },
     {
         "date":  "2021-03-30 00:00:00",
-        "name":  "Donald "Chip" Crowell",
+        "name":  "Donald 'Chip' Crowell",
         "age":  "62",
         "city":  "Westford",
         "link":  "https://www.nbcboston.com/news/local/cyclist-struck-by-car-killed-on-route-40-in-westford-police/2342912/",
@@ -5137,6 +5135,5 @@ http://www.necn.com/news/new-england/Serious-Accident-in-Malden-Massachusetts-27
                    "lon":  -72.649209,
                    "lat":  42.325195
                    }
-    },
-  }
-]
+    }
+];
