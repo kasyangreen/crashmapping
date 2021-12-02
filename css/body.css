@@ -1,25 +1,30 @@
 .map-container{
-    padding-top: 10px;
-    width: screen;
+    margin: 2%;
+    width: 96%;
+    border: 1px solid white;
+    display: inline-block;
+    background-image: url(/images/pseudo-map.jpeg);
+    background-size: contain;
 }
   
 .info-window{
+    background-color: var(--primary-color-dark);
+    border-style: solid;
+    border-color: var(--highlight-color);
+    margin: 1pc;
+    opacity: .7;
     float: left;
-    border: 1px solid white;
     width: 25%;
-    height: 90vh;
-}
-
-.map-box{
-    float: left;
-    border: 1px solid white;
-    width: 54%;
-    height: 90vh;
+    height: 80vh;
 }
 
 .toggles{
-    float: left;
-    border: 1px solid white;
-    width: 20%;
-    height: 90vh;
+    background-color: var(--primary-color-dark);
+    border-style: solid;
+    border-color: var(--highlight-color);
+    margin: 1pc;
+    opacity: .7;
+    float: right;
+    width: 25%;
+    height: 80vh;
 }
