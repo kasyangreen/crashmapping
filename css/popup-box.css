@@ -5,7 +5,7 @@
     font-size: 18px;
     font-family: var(--title-font);
     background-color: var(--primary-color-dark);
-    color:var(--primary-color-light);
+    color:var(--highlight-color);
 }
   
 /* The popup (background) */
