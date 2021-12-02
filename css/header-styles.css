@@ -23,6 +23,7 @@
 .header a.title{
     font-size: 30px;
     font-weight: 500;
+    color: var(--highlight-color);
 }
 
 /* this is just so that when you hover over the title it doesn't highlight like a menu item, but still gets you back to the homepage*/
