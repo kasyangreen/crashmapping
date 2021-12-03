@@ -2,7 +2,6 @@
     margin: 2%;
     width: 96%;
     height: 85vh;
-    border: 1px solid var(--highlight-color);
     display: inline-block;
     background-size: contain;
     z-index: 1;
@@ -10,22 +9,19 @@
 }
 
 .info-window{
-    background-color: var(--primary-color-dark);
-    border-style: solid;
-    border-color: var(--highlight-color);
+    background-color: var(--primary-color-light);
     opacity: .7;
-    float: left;
-    width: 25%;
+    float: bottom;
+    width: 60vw;
     z-index: 10;
     position: absolute;
     left: 0;
-    top: 0;
+    bottom: 0;
+    text-align: center;
 }
 
 .toggles{
     background-color: var(--primary-color-light);
-    border-style: solid;
-    border-color: var(--primary-color-dark);
     opacity: .7;
     float: right;
     width: 25%;
@@ -34,6 +30,15 @@
     right: 0;
     top: 0;
     text-align: center;
+}
+
+
+
+.info-window-info{
+    padding: 5px;
+    font-family: var(--body-font);
+    color: var(--primary-color-dark);
+    font-size: 1rem;
 }
 
 #mapid {
