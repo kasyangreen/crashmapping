@@ -2,7 +2,7 @@
     margin: 2%;
     width: 96%;
     height: 80vh;
-    border: 1px solid white;
+    border: 1px solid var(--highlight-color);
     display: inline-block;
     background-size: contain;
     z-index: 1;
@@ -17,7 +17,7 @@
     opacity: .7;
     float: left;
     width: 25%;
-    height: 80vh;
+    height: 90%;
     z-index: 10;
     position: absolute;
     left: 0;
@@ -25,18 +25,19 @@
 }
 
 .toggles{
-    background-color: var(--primary-color-dark);
+    background-color: var(--primary-color-light);
     border-style: solid;
-    border-color: var(--highlight-color);
+    border-color: var(--primary-color-dark);
     margin: 1pc;
     opacity: .7;
     float: right;
     width: 25%;
-    height: 80vh;
+    height: 30%;
     z-index: 10;
     position: absolute;
     right: 0;
     top: 0;
+    text-align: center;
 }
 
 #mapid {
