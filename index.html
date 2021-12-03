@@ -30,7 +30,7 @@
         </div>
     </header>
     <div class = "map-container">
-        <div id = "mapid" style="width: 100%; height: 100%;"></div>
+        <div id = "mapid"></div>
         <div class = "info-window">
             <p> This is where we can have some explanatory information </p>
         </div>
@@ -64,8 +64,14 @@
   	subdomains: 'abcd',
   	maxZoom: 20
   });
+  // no label option for dark map - just need to change .addTo(map) below var map =
+  var CartoDB_DarkMatterNoLabels = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
+	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+	subdomains: 'abcd',
+	maxZoom: 20
+});
   var map = L.map("mapid").setView(bellyButton, 9);
-  CartoDB_DarkMatter.addTo(map);
+  CartoDB_DarkMatterNoLabels.addTo(map);
 
 
 
