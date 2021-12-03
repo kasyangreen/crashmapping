@@ -1,7 +1,7 @@
 .map-container{
     margin: 2%;
     width: 96%;
-    height: 80vh;
+    height: 85vh;
     border: 1px solid var(--highlight-color);
     display: inline-block;
     background-size: contain;
@@ -13,11 +13,9 @@
     background-color: var(--primary-color-dark);
     border-style: solid;
     border-color: var(--highlight-color);
-    margin: 1pc;
     opacity: .7;
     float: left;
     width: 25%;
-    height: 90%;
     z-index: 10;
     position: absolute;
     left: 0;
@@ -28,11 +26,9 @@
     background-color: var(--primary-color-light);
     border-style: solid;
     border-color: var(--primary-color-dark);
-    margin: 1pc;
     opacity: .7;
     float: right;
     width: 25%;
-    height: 30%;
     z-index: 10;
     position: absolute;
     right: 0;
@@ -44,4 +40,16 @@
   z-index: 1;
   height: 100%;
   width: 100%
+}
+
+.toggle-info{
+    color: var(--highlight-color);
+    font-size: 1.5rem;
+    font-family: var(--title-font);
+}
+
+label{
+    color: var(--primary-color-dark);
+    font-size: 1rem;
+    font-family: var(--body-font);
 }
