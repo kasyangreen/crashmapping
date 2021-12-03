@@ -33,65 +33,65 @@
     </header>
     <div class = "map-container">
         <div id ="mapid"> </div>
-        
+
         <div class = "info-window">
             <p class=info-window-info> For more information about where our data comes from, please navigate to our data page, which can be found here:<p>
             <a href="data.html" class="body-btn">Data</a>
         </div>
         <div class="toggles">
             <p class=toggle-info> Explore specific incidents using the dropdown menus below: <p>
-            <form>  
+            <form>
                 <label> Type </label>
                 <br>
-                <select>  
-                    <option value = "All"> All   
-                    </option>  
-                    <option value = "Pedestrian"> Pedestrian   
-                    </option>  
-                    <option value = "Bicycle"> Bicycle  
-                    </option>   
-                </select>  
+                <select>
+                    <option value = "All"> All
+                    </option>
+                    <option value = "Pedestrian"> Pedestrian
+                    </option>
+                    <option value = "Bicycle"> Bicycle
+                    </option>
+                </select>
             </form>
-            <form>  
+            <form>
                 <label> Year </label>
                 <br>
                 <select>
-                    <option value = "All"> All   
-                    </option> 
-                    <option value = "2009"> 2009   
-                    </option>  
-                    <option value = "2010"> 2010   
-                    </option>  
-                    <option value = "2011"> 2011  
-                    </option>  
-                    <option value = "2012"> 2012  
-                    </option> 
-                    <option value = "2013"> 2013   
-                    </option>  
-                    <option value = "2014"> 2014   
-                    </option>  
-                    <option value = "2015"> 2015  
-                    </option>  
-                    <option value = "2016"> 2016  
-                    </option> 
-                    <option value = "2017"> 2017  
-                    </option>  
-                    <option value = "2018"> 2018  
-                    </option> 
-                    <option value = "2019"> 2019  
-                    </option> 
-                    <option value = "2020"> 2020  
-                    </option> 
-                    <option value = "2021"> 2021  
-                    </option> 
-                </select>  
-            </form> 
-            <form>  
-                <label> Town </label>  
+                    <option value = "All"> All
+                    </option>
+                    <option value = "2009"> 2009
+                    </option>
+                    <option value = "2010"> 2010
+                    </option>
+                    <option value = "2011"> 2011
+                    </option>
+                    <option value = "2012"> 2012
+                    </option>
+                    <option value = "2013"> 2013
+                    </option>
+                    <option value = "2014"> 2014
+                    </option>
+                    <option value = "2015"> 2015
+                    </option>
+                    <option value = "2016"> 2016
+                    </option>
+                    <option value = "2017"> 2017
+                    </option>
+                    <option value = "2018"> 2018
+                    </option>
+                    <option value = "2019"> 2019
+                    </option>
+                    <option value = "2020"> 2020
+                    </option>
+                    <option value = "2021"> 2021
+                    </option>
+                </select>
+            </form>
+            <form>
+                <label> Town </label>
                 <br>
                 <select>
                     <option value = 'All'> All
-                    </option> 
+                    </option>
                     <option value = 'Abington'> Abington
                     </option>
                     <option value = 'Acton'> Acton
@@ -814,8 +814,8 @@
                     </option>
                     <option value = 'Yarmouth'> Yarmouth
                     </option>
-                </select>  
-            </form> 
+                </select>
+            </form>
         </div>
     </div>
 
@@ -857,16 +857,20 @@
 
   // function to bind name to popups
   function onEachFeature(feature, layer) {
-    // does this feature have a property named name?
+    var content = '<b>' + feature.properties.name + '</b>' +
+      '<p>Age: ' + feature.properties.age + ' </p>' +
+      '<p>Location: ' + feature.properties.city + ' </p>' +
+      '<p>Link : <a href="' + feature.properties.link + '">Click Here</a></p>';
+      // console.log(content);
     if (feature.properties && feature.properties.name) {
-        layer.bindPopup(feature.properties.name);
+        layer.bindPopup(content);
     }
   }
   // add fatal data points and with popups
    L.geoJson(fatalData, {
      onEachFeature: onEachFeature
    }).addTo(map);
-  // add fatal data points without popups 
+  // add fatal data points without popups
   //L.geoJson(fatalData).addTo(map);
 
 
