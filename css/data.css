@@ -1,0 +1,15 @@
+.information-container{
+    margin: 2%;
+    width: 96%;
+    font-family: var(--body-font);
+    color: var(--primary-color-light);
+    position: relative;
+}
+
+ul{
+    padding-left: 20px;
+}
+
+li{
+    padding:2px;
+}
