@@ -58,3 +58,18 @@ label{
     font-size: 1rem;
     font-family: var(--body-font);
 }
+
+.info-window a{
+    position: relative;
+    border-radius: 5px;
+    color: var(--primary-color-light);
+    background-color: var(--primary-color-dark);
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.info-window a:hover{
+    background-color: var(--highlight-color);
+    color: var(--primary-color-dark);
+}
