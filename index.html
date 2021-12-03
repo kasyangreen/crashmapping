@@ -12,7 +12,7 @@
      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
      crossorigin=""></script>
      <!-- geoJson FeatureCollection of fatal data -->
-     <script src="data/fatalPoints.js"></script>
+     <script src="data/fatalData.js"></script>
     <link rel="stylesheet" type="text/css" href="css/colors-and-fonts.css">
     <link rel="stylesheet" type="text/css" href="css/header-styles.css">
     <link rel="stylesheet" type="text/css" href="css/popup-box.css">
@@ -75,16 +75,19 @@
   var map = L.map("mapid").setView(bellyButton, 9);
   CartoDB_DarkMatterNoLabels.addTo(map);
 
+  // function to bind name to popups
   function onEachFeature(feature, layer) {
     // does this feature have a property named name?
     if (feature.properties && feature.properties.name) {
         layer.bindPopup(feature.properties.name);
     }
   }
-  L.geoJson(fatalPoints, {
-    onEachFeature: onEachFeature
-  }).addTo(map);
-  //L.geoJson(fatalPoints).addTo(map);
+  // add fatal data points and with popups
+   L.geoJson(fatalData, {
+     onEachFeature: onEachFeature
+   }).addTo(map);
+  // add fatal data points without popups 
+  //L.geoJson(fatalData).addTo(map);
 
 
 </script>
