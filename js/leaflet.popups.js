@@ -20,6 +20,7 @@ L.Marker.prototype.options.icon = bikIcon;
 function onEachFeature(feature, layer) {
   // create popup content
   var content = '<b>' + feature.properties.name + '</b>' +
+    '<p>Date: ' + feature.properties.date.slice(0,10) + ' </p>' +
     '<p>Age: ' + feature.properties.age + ' </p>' +
     '<p>Location: ' + feature.properties.city + ' </p>' +
     '<p>Link : <a href="' + feature.properties.link + '">Click Here</a></p>';
