@@ -5,7 +5,7 @@
 .image{
     width: 33vw;
     padding-top: 60px;
-    padding-right: 100px;
+    padding-right: 90px;
 }
 
 .information-container{
@@ -19,8 +19,17 @@
 .info-cont-info{
     font-family: var(--body-font);
     color: var(--primary-color-light);
-    padding-top: 25px;
+    padding-top: 20px;
     padding-bottom: 5px;
+}
+
+.title{
+    margin-top: 10px;
+    width: 100%;
+    font-family: var(--title-font);
+    font-size: 60px;
+    color: var(--highlight-color);
+    text-align: center;
 }
 
 ul{
