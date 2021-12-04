@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:         xlsx_to_json.py
-# Purpose:      convert Excel file to json for Webmapping Final Project
+# Name:         xlsx_to_geoJson.py
+# Purpose:      convert Excel file to geojson for Webmapping Final Project
 #
-# Author:       Tom Francis
+# Author:       Tom Francis 
 #
 # Created:     21/11/2021
 # Copyright:   (c) bosto 2021
