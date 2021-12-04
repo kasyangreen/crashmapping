@@ -60,53 +60,23 @@
 </body>
 <script src=js/popup-box.js></script>
 <script>
-  const bellyButton = { lat: 42.18, lng: -71.87 };  // Center of MA
-  // label option for dark basemap - just edit line after var map = l.map()
-  var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-  	subdomains: 'abcd',
-  	maxZoom: 20
-  });
-  // no label option for dark basemap - just edit line after var map = l.map()
-  var CartoDB_DarkMatterNoLabels = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-	subdomains: 'abcd',
-	maxZoom: 20
-});
-  var map = L.map("mapid").setView(bellyButton, 9);
-  CartoDB_DarkMatterNoLabels.addTo(map);
-
-  // pedestrian icon
-  var pedIcon = L.icon({
-  iconUrl: "images/ped_yel.png",
-  iconSize: [30,30],
-  iconAnchor: [20, 20]
-  });
-  // bike icon
-  var bikIcon = L.icon({
-  iconUrl: "images/bike_yel.png",
-  iconSize: [30,30],
-  iconAnchor: [20, 20]
-  });
-
-  // function to bind name to popups
-  function onEachFeature(feature, layer) {
-    var content = '<b>' + feature.properties.name + '</b>' +
-      '<p>Age: ' + feature.properties.age + ' </p>' +
-      '<p>Location: ' + feature.properties.city + ' </p>' +
-      '<p>Link : <a href="' + feature.properties.link + '">Click Here</a></p>';
-      // console.log(content);
-    if (feature.properties && feature.properties.name) {
-        layer.bindPopup(content);
-    }
-  }
-  // add fatal data points and with popups
-   L.geoJson(fatalData, {
-     onEachFeature: onEachFeature
-   }).addTo(map);
-  // add fatal data points without popups
-  //L.geoJson(fatalData).addTo(map);
-
+    const bellyButton = { lat: 42.18, lng: -71.87 };  // Center of MA
+    // label option for dark basemap - just edit line after var map = l.map()
+    var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      subdomains: 'abcd',
+      maxZoom: 20
+    });
+    // no label option for dark basemap - just edit line after var map = l.map()
+    var CartoDB_DarkMatterNoLabels = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 20
+    });
+    var map = L.map("mapid").setView(bellyButton, 9);
+    CartoDB_DarkMatterNoLabels.addTo(map);
 
 </script>
+<script src=js/leaflet.popups.js></script>
+
 </html>
