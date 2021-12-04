@@ -20,6 +20,7 @@ data_type={'Date': str,
     'Name': str,
     'Age': str,
     'City': str,
+    'Mode': str,
     'Lat': float,
     'Lon': float,
     'Link': str
@@ -35,6 +36,7 @@ try:
             file.write('        "date":  "' + data_file.loc[i,"Date"] + '",\n')
             file.write('        "name":  "' + data_file.loc[i,"Name"] + '",\n')
             file.write('        "age":  "' + data_file.loc[i,"Age"] + '",\n')
+            file.write('        "mode":  "' + data_file.loc[i,"Mode"] + '",\n')
             file.write('        "city":  "' + data_file.loc[i,"City"] + '",\n')
             file.write('        "link":  "' + data_file.loc[i,"Link"] + '",\n')
             file.write('        "coord":  {\n')
