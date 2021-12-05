@@ -20,6 +20,11 @@
     <!-- test function to see if dropdown menus can be read -->
     <script>
       function nextStep() {
+          //start by removing all points
+        var tileLayer = 'https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png'
+        map.eachLayer(function (layer) {
+            if (tileLayer != layer._url){map.removeLayer(layer)};});
+
         console.log(mode.value);
         console.log(year.value);
         console.log(town.value);
