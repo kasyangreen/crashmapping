@@ -44,7 +44,7 @@ better roadways and enhanced safety for roadway users.
 ## Data and Methodology
 The data set is developed and maintained by the Massachusetts Vision Zero Coalition. Pedestrian fatalities are collected based on media reports by 
 [WalkBoston](https://www.walkboston.org). Bicycle fatalities are collected based on media accounts by [MassBike](https://www.massbike.org). The full dataset 
-is hosted by [Livable Streets Alliance](https://www.livablestreets.info/). It will be provided to the team as a Google worksheet.  
+is hosted by [Livable Streets Alliance](https://www.livablestreets.info/). It has been provided to the team as a Google worksheet.  
 
 Currently, the Fatal Data set includes 440 instances with 9 attributes covering the years 2016 through 2021. The attributes are:  
 1. Date of crash
@@ -61,7 +61,7 @@ The data set required minimal cleaning: removing news story links in excess of a
 names. The 9 attributes represent an intersection of the two sources; attributes unique to either source were removed from the source Excel file.
 Data from the Excel sheet were processed into json and geoJson format with Python scripts developed as part of this project. 
 
-We hope to use Leaflet API to build this web map and use the classic ESRI dark basemap for enhanced visualization. We may also integrate this with the mapbox traffic
+We built the web map using Leaflet API and a CartoDB dark basemap for enhanced visualization. We may also integrate this with the mapbox traffic
 layers that display real-time traffic visualization.   
   
 - Interactive elements we want to add include:  
