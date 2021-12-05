@@ -66,6 +66,7 @@ label{
     background-color: var(--primary-color-dark);
     text-decoration: none;
     padding: 10px;
+    transition-duration: 0.4s;
 }
 
 
