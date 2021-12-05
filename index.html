@@ -20,14 +20,13 @@
     <!-- test function to see if dropdown menus can be read -->
     <script>
       function nextStep() {
-          //start by removing all points
+        // start by removing all points
         var tileLayer = 'https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png'
         map.eachLayer(function (layer) {
-            if (tileLayer != layer._url){map.removeLayer(layer)};});
-
-        console.log(mode.value);
-        console.log(year.value);
-        console.log(town.value);
+          if (tileLayer != layer._url){map.removeLayer(layer)};});
+        var script = document.createElement('script');
+        script.src = "js/leaflet.iconSelect.js";
+        document.head.appendChild(script)
       };
     </script>
 </head>
@@ -829,7 +828,7 @@
                     </option>
                 </select>
             </form>
-            <button class="button" onclick=nextStep()>Redraw Map</button>
+            <button class="button" onclick="nextStep()">Redraw Map</button>
         </div>
     </div>
 
