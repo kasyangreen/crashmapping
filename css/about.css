@@ -30,3 +30,12 @@ h2 {
   text-align: center;
 }
 
+.title{
+   margin-top: 10px;
+   width: 100%;
+   font-family: var(--title-font);
+   font-size: 60px;
+   color: var(--highlight-color);
+   text-align: center;
+ }
+
