@@ -17,6 +17,7 @@
     font-size: 25px; 
     line-height: 15px;
     border-radius: 4px;
+    transition-duration: 0.4s;
 }
   
 /* this is the title formatting */
@@ -24,6 +25,7 @@
     font-size: 30px;
     font-weight: 500;
     color: var(--highlight-color);
+    transition-duration: 0.4s;
 }
 
 /* this is just so that when you hover over the title it doesn't highlight like a menu item, but still gets you back to the homepage*/
