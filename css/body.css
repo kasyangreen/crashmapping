@@ -73,3 +73,25 @@ label{
     background-color: var(--highlight-color);
     color: var(--primary-color-dark);
 }
+
+.button {
+    background-color: var(--primary-color-dark);
+    border: none;
+    color: var(--highlight-color);
+    width: 200px;
+    height: 30px;
+    border-radius: 4px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    display: inline-block;
+    font-family: var(--body-font);
+    margin-bottom: 20px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  }
+
+  .button:hover {
+    color: var(--primary-color-dark);
+    background-color:var(--highlight-color);
+  }
