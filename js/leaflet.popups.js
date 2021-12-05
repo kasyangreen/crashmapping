@@ -34,7 +34,7 @@ var assetLayerGroup = new L.LayerGroup();
 function onEachFeature(feature, layer) {
   assetLayerGroup.addLayer(layer);
   // create popup content
-  var content = '<b>' + feature.properties.name + '</b>' +
+  var content = '<span style="font-weight:bold;color:var(--highlight-color);font-family:var(--title-font);font-size:1rem">' + feature.properties.name + '</span>' +
     '<p>Date: ' + feature.properties.date.slice(0,10) + ' </p>' +
     '<p>Age: ' + feature.properties.age + ' </p>' +
     '<p>Location: ' + feature.properties.city + ' </p>' +
