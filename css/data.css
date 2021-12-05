@@ -47,6 +47,7 @@ li{
     background-color: var(--primary-color-light);
     text-decoration: none;
     padding: 10px;
+    transition-duration: 0.4s;
 }
 
 
