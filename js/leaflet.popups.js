@@ -3,25 +3,25 @@
 var pedIcon = L.icon({
 iconUrl: "images/ped_yel.png",
 iconSize: [15,15],
-iconAnchor: [20, 20]
+iconAnchor: [7.5, 7.5]
 });
 // bike icon
 var bikIcon = L.icon({
 iconUrl: "images/bike_yel.png",
 iconSize: [20,20],
-iconAnchor: [20, 20]
+iconAnchor: [10, 10]
 });
 // bike icon - selected
 var bikIconS = L.icon({
 iconUrl: "images/bike_org.png",
 iconSize: [20,20],
-iconAnchor: [20, 20]
+iconAnchor: [10, 10]
 });
 // ped icon - selected
 var pedIconS = L.icon({
 iconUrl: "images/ped_org.png",
 iconSize: [15,15],
-iconAnchor: [20, 20]
+iconAnchor: [7.5, 7.5]
 });
 // record default icon
 defIcon = L.Marker.prototype.options.icon;
