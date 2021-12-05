@@ -17,6 +17,14 @@
     <link rel="stylesheet" type="text/css" href="css/header-styles.css">
     <link rel="stylesheet" type="text/css" href="css/popup-box.css">
     <link rel="stylesheet" type="text/css" href="css/body.css">
+    <!-- test function to see if dropdown menus can be read -->
+    <script>
+      function nextStep() {
+        console.log(mode.value);
+        console.log(year.value);
+        console.log(town.value);
+      };
+    </script>
 </head>
 <body>
     <header>
@@ -43,7 +51,7 @@
             <form>
                 <label> Type </label>
                 <br>
-                <select>
+                <select name = "mode" id = "mode">
                     <option value = "All"> All
                     </option>
                     <option value = "Pedestrian"> Pedestrian
@@ -55,7 +63,7 @@
             <form>
                 <label> Year </label>
                 <br>
-                <select>
+                <select name = "year" id = "year">
                     <option value = "All"> All
                     </option>
                     <option value = "2009"> 2009
@@ -89,7 +97,7 @@
             <form>
                 <label> Town </label>
                 <br>
-                <select>
+                <select name = "town" id = "town">
                     <option value = 'All'> All
                     </option>
                     <option value = 'Abington'> Abington
@@ -816,6 +824,7 @@
                     </option>
                 </select>
             </form>
+            <button class="button" onclick=nextStep()>Redraw Map</button>
         </div>
     </div>
 

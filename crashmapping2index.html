@@ -25,6 +25,7 @@
       <link href='Leaflet.fullscreen-gh-pages/dist/leaflet.fullscreen.css' rel='stylesheet' />
   <script src='Leaflet.fullscreen-gh-pages/dist/Leaflet.fullscreen.js'></script>
 
+
 </head>
 <body>
     <header>
@@ -51,7 +52,7 @@
             <form>
                 <label> Type </label>
                 <br>
-                <select>
+                <select name = "mode" id = "mode">
                     <option value = "All"> All
                     </option>
                     <option value = "Pedestrian"> Pedestrian
@@ -63,7 +64,7 @@
             <form>
                 <label> Year </label>
                 <br>
-                <select>
+                <select name = "year" id = "year">
                     <option value = "All"> All
                     </option>
                     <option value = "2009"> 2009
@@ -97,7 +98,7 @@
             <form>
                 <label> Town </label>
                 <br>
-                <select>
+                <select name = "town" id = "town">
                     <option value = 'All'> All
                     </option>
                     <option value = 'Abington'> Abington
@@ -824,6 +825,7 @@
                     </option>
                 </select>
             </form>
+
         </div>
     </div>
 
