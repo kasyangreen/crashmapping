@@ -73,7 +73,9 @@ function onEachFeature(feature, layer) {
     };
   if (mode.value == "All" && year.value !== "All" && town.value == "All") {  // year selection
     console.log("just year")
-     if (year.value == feature.properties.year) {
+    console.log(year.value)
+    console.log(feature.properties.date.slice(0,4))
+     if (year.value == feature.properties.date.slice(0,4)) {
        if (feature.properties.mode == "bicycle") {
            layer.options.icon = bikIconS;
            layer.bindPopup(content);
@@ -81,7 +83,7 @@ function onEachFeature(feature, layer) {
            layer.options.icon = pedIconS;
            layer.bindPopup(content);
        }};
-    if (year.value !== feature.properties.year) {
+    if (year.value !== feature.properties.date.slice(0,4)) {
          if (feature.properties.mode == "bicycle") {
              layer.options.icon = bikIcon;
              layer.bindPopup(content);
@@ -92,7 +94,10 @@ function onEachFeature(feature, layer) {
   };
   if (mode.value == "All" && year.value == "All" && town.value !== "All") {   // town selected
     console.log("just town")
-    if (town.value == feature.properties.town) {
+    console.log(town.value)
+    console.log(feature.properties.city)
+
+    if (town.value == feature.properties.city) {
       if (feature.properties.mode == "bicycle") {
           layer.options.icon = bikIconS;
           layer.bindPopup(content);
@@ -100,7 +105,7 @@ function onEachFeature(feature, layer) {
           layer.options.icon = pedIconS;
           layer.bindPopup(content);
       }};
-    if (town.value !== feature.properties.town) {
+    if (town.value !== feature.properties.city) {
       if (feature.properties.mode == "bicycle") {
             layer.options.icon = bikIcon;
             layer.bindPopup(content);
@@ -113,7 +118,7 @@ function onEachFeature(feature, layer) {
   if (mode.value !== "All" && year.value !== "All" && town.value == "All") { //mode & year selected
     console.log("mode and year")
     // selected year
-    if (year.value == feature.properties.year) {
+    if (year.value == feature.properties.date.slice(0,4)) {
       if (mode.value == "Bicycle") {
           layer.options.icon = bikIconS;
           layer.bindPopup(content);
@@ -130,7 +135,7 @@ function onEachFeature(feature, layer) {
       };
     };
     // not selected year
-    if (year.value !== feature.properties.year) {
+    if (year.value !== feature.properties.date.slice(0,4)) {
       if (feature.properties.mode == "bicycle") {
           layer.options.icon = bikIcon;
           layer.bindPopup(content);
@@ -142,7 +147,7 @@ function onEachFeature(feature, layer) {
   };
   if (mode.value == "All" && year.value !== "All" && town.value !== "All") {  // year & town selected
     // selected year
-    if (year.value == feature.properties.year) {
+    if (year.value == feature.properties.date.slice(0,4)) {
       if (town.value == feature.properties.city) {      // selected year & town
         if (mode.value == "Bicycle") {
             layer.options.icon = bikIconS;
@@ -162,7 +167,7 @@ function onEachFeature(feature, layer) {
           }
       }
     };
-    if (year.value !== feature.properties.year) {        // not selected year
+    if (year.value !== feature.properties.date.slice(0,4)) {        // not selected year
       if (feature.properties.mode == "bicycle") {
         layer.options.icon = bikIcon;
         layer.bindPopup(content);
@@ -175,7 +180,7 @@ function onEachFeature(feature, layer) {
   if (mode.value !== "All" && year.value == "All" && town.value !== "All") { // mode & town selected
     // selected town
     if (town.value == feature.properties.city) {        // selected town
-      if (year.value == feature.properties.year) {      // selected year & town
+      if (year.value == feature.properties.date.slice(0,4)) {      // selected year & town
         if (mode.value == "Bicycle") {
             layer.options.icon = bikIconS;
             layer.bindPopup(content)
@@ -184,7 +189,7 @@ function onEachFeature(feature, layer) {
             layer.bindPopup(content);
         };
       };
-      if (year.value !== feature.properties.year) {     // selected town not selected year
+      if (year.value !== feature.properties.date.slice(0,4)) {     // selected town not selected year
           if (mode.value == "Bicycle") {
               layer.options.icon = bikIcon;
               layer.bindPopup(content);
@@ -207,7 +212,7 @@ function onEachFeature(feature, layer) {
 if (mode.value !== "All" && year.value !== "All" && town.value !== "All") { // all three selected
   // selected town
   if (town.value == feature.properties.city) {        // selected town
-    if (year.value == feature.properties.year) {      // selected year & town
+    if (year.value == feature.properties.date.slice(0,4)) {      // selected year & town
       if (mode.value == "Bicycle") {                  // bike selected
           layer.options.icon = bikIconS;
           layer.bindPopup(content)
