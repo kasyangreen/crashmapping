@@ -93,10 +93,6 @@ function onEachFeature(feature, layer) {
          }};
   };
   if (mode.value == "All" && year.value == "All" && town.value !== "All") {   // town selected
-    console.log("just town")
-    console.log(town.value)
-    console.log(feature.properties.city)
-
     if (town.value == feature.properties.city) {
       if (feature.properties.mode == "bicycle") {
           layer.options.icon = bikIconS;
@@ -117,56 +113,67 @@ function onEachFeature(feature, layer) {
   };
   if (mode.value !== "All" && year.value !== "All" && town.value == "All") { //mode & year selected
     console.log("mode and year")
-    // selected year
-    if (year.value == feature.properties.date.slice(0,4)) {
-      if (mode.value == "Bicycle") {
-          layer.options.icon = bikIconS;
-          layer.bindPopup(content);
-      } else {
-          layer.options.icon = pedIcon;
-          layer.bindPopup(content);
-      };
-    if (mode.value == "Pedestrian") {
-          layer.options.icon = pedIconS;
-          layer.bindPopup(content);
-      } else {
-          layer.options.icon = bikIcon;
-          layer.bindPopup(content);
-      };
-    };
-    // not selected year
-    if (year.value !== feature.properties.date.slice(0,4)) {
-      if (feature.properties.mode == "bicycle") {
-          layer.options.icon = bikIcon;
-          layer.bindPopup(content);
-      } else {
-          layer.options.icon = pedIcon;
-          layer.bindPopup(content);
-      }
-    }
-  };
-  if (mode.value == "All" && year.value !== "All" && town.value !== "All") {  // year & town selected
-    // selected year
-    if (year.value == feature.properties.date.slice(0,4)) {
-      if (town.value == feature.properties.city) {      // selected year & town
-        if (mode.value == "Bicycle") {
+    if (year.value == feature.properties.date.slice(0,4)) {           // selected year
+      if (mode.value == "Bicycle") {                                  // selected bike & year
+        if (feature.properties.mode == "bicycle") {                   // feature mode = bike
             layer.options.icon = bikIconS;
+            layer.bindPopup(content)
+        } else {
+            layer.options.icon = pedIcon;
+            layer.bindPopup(content);
+        };
+      } else {                                                        // feature mode != bike
+        if (feature.properties.mode == "bicycle") {
+            layer.options.icon = bikIcon;
             layer.bindPopup(content)
         } else {
             layer.options.icon = pedIconS;
             layer.bindPopup(content);
         };
       };
-      if (town.value !== feature.properties.city) {     // selected year not selected town
-          if (mode.value == "Bicycle") {
+    };                                                                 // end selected year
+    if (year.value !== feature.properties.date.slice(0,4)) {           // not selected year
+      if (feature.properties.mode == "bicycle") {
+          layer.options.icon = bikIcon;
+          layer.bindPopup(content);
+      } else {
+          layer.options.icon = pedIcon;
+          layer.bindPopup(content);
+      };
+    };                                                                // end not selected year
+  };                                                                  // end mode & year selected
+  if (mode.value == "All" && year.value !== "All" && town.value !== "All") {  // year & town selected
+    // selected year
+    console.log("year and town selected")
+    console.log(town.value)
+    console.log(feature.properties.city)
+    if (year.value == feature.properties.date.slice(0,4)) {       // selected year
+      if (town.value == feature.properties.city) {                // selected year & town
+        if (feature.properties.mode == "bicycle") {               // feature mode = bike
+            layer.options.icon = bikIconS;
+            layer.bindPopup(content)
+        } else {
+            layer.options.icon = pedIconS;
+            layer.bindPopup(content);
+        };
+        // if (feature.properties.mode == "pedestrian") {            // feature mode = ped
+        //     layer.options.icon = pedIconS;
+        //     layer.bindPopup(content)
+        // } else {
+        //     layer.options.icon = bikIcon;
+        //     layer.bindPopup(content);
+        // };
+      };                                                           // end selected town - continue selected year
+      if (town.value !== feature.properties.city) {                // selected year not selected town
+          if (feature.properties.mode == "Bicycle") {
               layer.options.icon = bikIcon;
               layer.bindPopup(content);
           } else {
               layer.options.icon = pedIcon;
               layer.bindPopup(content);
-          }
-      }
-    };
+          };
+      };
+    };                                                               // end selected year & town selected
     if (year.value !== feature.properties.date.slice(0,4)) {        // not selected year
       if (feature.properties.mode == "bicycle") {
         layer.options.icon = bikIcon;
@@ -174,32 +181,63 @@ function onEachFeature(feature, layer) {
       } else {
         layer.options.icon = pedIcon;
         layer.bindPopup(content);
-      }
-    };
-  };
+      };
+    };                                                              // end not selected year
+  };  // end
   if (mode.value !== "All" && year.value == "All" && town.value !== "All") { // mode & town selected
     // selected town
     if (town.value == feature.properties.city) {        // selected town
-      if (year.value == feature.properties.date.slice(0,4)) {      // selected year & town
-        if (mode.value == "Bicycle") {
+      if (mode.value == "Bicycle") {                    // selected bike & town
+        if (feature.properties.mode == "bicycle") {     // feature mode = bike
             layer.options.icon = bikIconS;
+            layer.bindPopup(content)
+        } else {
+            layer.options.icon = pedIcon;
+            layer.bindPopup(content);
+        };
+      } else {                                          // feature mode != bike
+        if (feature.properties.mode == "bicycle") {
+            layer.options.icon = bikIcon;
             layer.bindPopup(content)
         } else {
             layer.options.icon = pedIconS;
             layer.bindPopup(content);
         };
+      };                                                // end mode = ped for selected town
+    };                                                  // end selected town
+    if (town.value !== feature.properties.city) {       // not selected town
+      if (feature.properties.mode == "bicycle") {
+        layer.options.icon = bikIcon;
+        layer.bindPopup(content);
+      } else {
+        layer.options.icon = pedIcon;
+        layer.bindPopup(content);
       };
-      if (year.value !== feature.properties.date.slice(0,4)) {     // selected town not selected year
-          if (mode.value == "Bicycle") {
-              layer.options.icon = bikIcon;
-              layer.bindPopup(content);
-          } else {
-              layer.options.icon = pedIcon;
-              layer.bindPopup(content);
-          }
-      }
     };
-    if (town.value !== feature.properties.city) {        // not selected town
+  };                                                    // end mode & town selected
+if (mode.value !== "All" && year.value !== "All" && town.value !== "All") { // all three selected
+  // selected town
+  if (town.value == feature.properties.city) {        // selected town
+    if (year.value == feature.properties.date.slice(0,4)) {      // selected year & town
+      if (mode.value == "Bicycle") {                  // selected year & town & bike selected
+        if (feature.properties.mode == "bicycle") {   // selected year, town & bike - check feature mode
+          layer.options.icon = bikIconS;
+          layer.bindPopup(content)
+        } else {
+          layer.options.icon = pedIcon;
+          layer.bindPopup(content);
+        };
+      } else {                                         // end selected bicycle - selected year & town continues
+        if (feature.properties.mode == "pedestrian") {
+          layer.options.icon = pedIconS;
+          layer.bindPopup(content)
+        } else {
+          layer.options.icon = bikIcon;
+          layer.bindPopup(content);
+        };
+      };                                              // end selected ped - selected year & town continue
+    };                                                //end selected year - town continues
+    if (year.value !== feature.properties.date.slice(0,4)) { // selected town & not selected Year
       if (feature.properties.mode == "bicycle") {
         layer.options.icon = bikIcon;
         layer.bindPopup(content);
@@ -207,28 +245,8 @@ function onEachFeature(feature, layer) {
         layer.options.icon = pedIcon;
         layer.bindPopup(content);
       }
-    }
-  };
-if (mode.value !== "All" && year.value !== "All" && town.value !== "All") { // all three selected
-  // selected town
-  if (town.value == feature.properties.city) {        // selected town
-    if (year.value == feature.properties.date.slice(0,4)) {      // selected year & town
-      if (mode.value == "Bicycle") {                  // bike selected
-          layer.options.icon = bikIconS;
-          layer.bindPopup(content)
-      } else {
-          layer.options.icon = pedIcon;
-          layer.bindPopup(content);
-      };
-      if (mode.value == "Pedestrian") {                // ped selected
-          layer.options.icon = bikIcon;
-          layer.bindPopup(content)
-      } else {
-          layer.options.icon = pedIconS;
-          layer.bindPopup(content);
-      };
-    };
-  };
+    };                                            //end selected town & not selected Year
+  };                                              // end selected town
   if (town.value !== feature.properties.city) {        // not selected town
     if (feature.properties.mode == "bicycle") {
       layer.options.icon = bikIcon;
@@ -237,9 +255,9 @@ if (mode.value !== "All" && year.value !== "All" && town.value !== "All") { // a
       layer.options.icon = pedIcon;
       layer.bindPopup(content);
     }
-  };
-};
-};
+  };                                               // end not selected town
+};                                                 // end all three selected
+};                                                 //end onEachFeature()
 
 // add fatal data points and with popups
  L.geoJson(fatalData, {
