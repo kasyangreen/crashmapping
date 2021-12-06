@@ -3,25 +3,25 @@
 var pedIconS = L.icon({
 iconUrl: "images/ped_yel.png",
 iconSize: [15,15],
-iconAnchor: [20, 20]
+iconAnchor: [7.5, 7.5]
 });
 // bike icon - unselected
 var bikIconS = L.icon({
 iconUrl: "images/bike_yel.png",
 iconSize: [20,20],
-iconAnchor: [20, 20]
+iconAnchor: [10, 10]
 });
 // ped icon - selected
 var pedIcon = L.icon({
 iconUrl: "images/ped_gry.png",
 iconSize: [15,15],
-iconAnchor: [20, 20]
+iconAnchor: [7.5, 7.5]
 });
 // bike icon - selected
 var bikIcon = L.icon({
 iconUrl: "images/bike_gry.png",
 iconSize: [20,20],
-iconAnchor: [20, 20]
+iconAnchor: [10, 10]
 });
 
 // function to bind name to popups
