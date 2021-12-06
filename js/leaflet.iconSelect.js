@@ -220,7 +220,7 @@ if (mode.value !== "All" && year.value !== "All" && town.value !== "All") { // a
           layer.options.icon = pedIcon;
           layer.bindPopup(content);
       };
-      if (mode.value == "pedestrian") {                // ped selected
+      if (mode.value == "Pedestrian") {                // ped selected
           layer.options.icon = bikIcon;
           layer.bindPopup(content)
       } else {
