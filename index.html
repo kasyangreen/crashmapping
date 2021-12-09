@@ -13,14 +13,12 @@
      crossorigin=""></script>
      <!-- geoJson FeatureCollection of fatal data -->
      <script src="data/fatalData.js"></script>
+     <!-- load geocoder for location -->
+    <script src='https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js'></script>
     <link rel="stylesheet" type="text/css" href="css/colors-and-fonts.css">
     <link rel="stylesheet" type="text/css" href="css/header-styles.css">
     <link rel="stylesheet" type="text/css" href="css/popup-box.css">
     <link rel="stylesheet" type="text/css" href="css/body.css">
-    <!-- fullscreen toggles -->
-    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
-    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
-
     <!-- test function to see if dropdown menus can be read -->
     <script>
       function nextStep() {
@@ -32,6 +30,11 @@
         script.src = "js/leaflet.iconSelect.js";
         document.head.appendChild(script)
       };
+      function seeLoc() {
+        var script = document.createElement('script');
+        script.src = "js/geocode.js";
+        document.head.appendChild(script)
+      }
     </script>
 </head>
 <body>
@@ -833,6 +836,7 @@
                 </select>
             </form>
             <button class="button" onclick="nextStep()">Redraw Map</button>
+            <button class="button" onclick="seeLoc()">Zoom to Location</button>
         </div>
     </div>
 
@@ -858,20 +862,21 @@
 <script src=js/popup-box.js></script>
 <script>
   const bellyButton = { lat: 42.08, lng: -71.67 };  // Center of MA
+  //  basemap with labels
   var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
   	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
   	subdomains: 'abcd',
   	maxZoom: 20
   });
+
   // no label option for dark map - just need to change .addTo(map) below var map =
   var CartoDB_DarkMatterNoLabels = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
 	subdomains: 'abcd',
 	maxZoom: 20
-});
+  });
   var map = L.map("mapid").setView(bellyButton, 9);
   CartoDB_DarkMatterNoLabels.addTo(map);
-  map.addControl(new L.Control.Fullscreen());
 </script>
 <script src=js/leaflet.popups.js></script>
 </html>
