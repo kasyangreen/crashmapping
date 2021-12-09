@@ -19,7 +19,7 @@
     <link rel="stylesheet" type="text/css" href="css/header-styles.css">
     <link rel="stylesheet" type="text/css" href="css/popup-box.css">
     <link rel="stylesheet" type="text/css" href="css/body.css">
-    <!-- test function to see if dropdown menus can be read -->
+    <!-- dropdown button functions -->
     <script>
       function nextStep() {
         // start by removing all points
@@ -34,7 +34,10 @@
         var script = document.createElement('script');
         script.src = "js/geocode.js";
         document.head.appendChild(script)
-      }
+      };
+      function reCenter() {
+        map.flyTo(bellyButton, 9)
+      };
     </script>
 </head>
 <body>
@@ -836,11 +839,14 @@
                 </select>
             </form>
             <div>
-            <button class="button" onclick="nextStep()">Redraw Map</button>
-          </div>
-          <div>
-            <button class="button" onclick="seeLoc()">Zoom to Location</button>
-          </div>
+              <button class="button" onclick="nextStep()">Redraw Map</button>
+            </div>
+            <div>
+              <button class="button" onclick="seeLoc()">Zoom to Location</button>
+            </div>
+            <div>
+              <button class="button" onclick="reCenter()">Re-Center Map</button>
+            </div>
         </div>
     </div>
 
