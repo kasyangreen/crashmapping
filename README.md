@@ -63,8 +63,10 @@ Data from the Excel sheet were processed into json and geoJson format with Pytho
 
 We built the web map using Leaflet API and a CartoDB dark basemap for enhanced visualization. We may also integrate this with the mapbox traffic
 layers that display real-time traffic visualization.   
+
+![](image.png)
   
-- Interactive elements we want to add include:  
+### Project Elemments:  
 - Dropdown menu which allows users to toggle between selections of: 
   - counties
   - biking fatalities or pedestrian fatalities
@@ -74,7 +76,8 @@ layers that display real-time traffic visualization.
 - A Leaflet opacity control plugin that will allow users to choose between displaying only the ESRI dark basemap layer or the real-time traffic visualization Mapbox layer
 - A timeline slider that will allow users to visualize traffic fatalities from the different years that Visions Zero has accumulated data from
 - A Leaflet GeoSearch plugin which can be employed by users to lookup traffic fatalities at locations within Massachusetts that pique their interest 
-- A Leaflet Routing Machine plugin that allows users to view routes that pique their interest and witness what traffic fatalities have occurred on those routes  
+- A Leaflet Routing Machine plugin that allows users to view routes that pique their interest and witness what traffic fatalities have occurred on those routes 
+- Python utilities to process new data into json and geoJSON formats 
 
 ## Expected Results  
   
@@ -82,7 +85,7 @@ This map can become an invaluable resource for a multitude of organizations work
 This organization currently hosts its own version of a fatalities map, however the organization is using a simple google map which is hosted on their
 website and restricted by the number of points that can be included. Our version will enable an unlimited number of points to be added, and add additional
 functionality to the map, such as being able to see results by a particular region of the state and zoom straight into this area. Furthermore, they will
-be able to filter their results using a toggle window on the right hand side of the map (Appendix 1).
+be able to filter their results using a toggle window on the right hand side of the map.
   
 As talked about previously, the map toggle box will include filters to control factors such as year, region, and type (i.e. pedestrian or bicyclist fatality).
 The lefthand box will contain overall information including an introduction to the data, and how to use the map. Note in appendix 1 that the background of the
@@ -94,4 +97,4 @@ displaying the data in the map and creating popup windows. The distribution of t
 We anticipate that it could be difficult to bring the data into the map as a dataframe, and also anticipate difficulties surrounding ensuring the map and boxes
 display correctly once the page is loaded. We hope that once the project is completed it will have a meaningful impact on bike and pedestrian advocacy across Massachusetts.
 
-
+## Team Roles
