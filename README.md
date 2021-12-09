@@ -64,7 +64,7 @@ Data from the Excel sheet were processed into json and geoJson format with Pytho
 We built the web map using Leaflet API and a CartoDB dark basemap for enhanced visualization. We may also integrate this with the mapbox traffic
 layers that display real-time traffic visualization.   
 
-## Work Flow
+### Work Flow
 ![](images/WorkFlow.png)
   
 ### Expected Project Elements:  
@@ -80,7 +80,7 @@ layers that display real-time traffic visualization.
 - A Leaflet Routing Machine plugin that allows users to view routes that pique their interest and witness what traffic fatalities have occurred on those routes 
 - Python utilities to process new data into json and geoJSON formats 
 
-## Expected Project Results  
+### Expected Project Results  
   
 This map can become an invaluable resource for a multitude of organizations working across Massachusetts such as the Massachusetts Vision Zero Coalition. 
 This organization currently hosts its own version of a fatalities map, however the organization is using a simple google map which is hosted on their
@@ -111,7 +111,7 @@ display correctly once the page is loaded. We hope that once the project is comp
 - A Leaflet Routing Machine plugin that allows users to view routes that pique their interest and witness what traffic fatalities have occurred on those routes 
 - Python utilities to process new data into json and geoJSON formats 
 
-## Delivered Project Results  
+### Delivered Project Results  
   
 This map can become an invaluable resource for a multitude of organizations working across Massachusetts such as the Massachusetts Vision Zero Coalition. 
 This organization currently hosts its own version of a fatalities map, however the organization is using a simple google map which is hosted on their
@@ -129,7 +129,7 @@ displaying the data in the map and creating popup windows. The distribution of t
 We anticipate that it could be difficult to bring the data into the map as a dataframe, and also anticipate difficulties surrounding ensuring the map and boxes
 display correctly once the page is loaded. We hope that once the project is completed it will have a meaningful impact on bike and pedestrian advocacy across Massachusetts.
 
-## Tools & Techniques not Covered in Course Materials
+### Tools & Techniques not Covered in Course Materials
 
 Root: CSS pseudo code was used to insure a consistent palette throughout the site 
 <img src="images/new_css.png"
