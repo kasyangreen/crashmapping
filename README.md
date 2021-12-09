@@ -64,7 +64,8 @@ Data from the Excel sheet were processed into json and geoJson format with Pytho
 We built the web map using Leaflet API and a CartoDB dark basemap for enhanced visualization. We may also integrate this with the mapbox traffic
 layers that display real-time traffic visualization.   
 
-![](image.png)
+## Work Flow
+![](images/WorkFlow.png)
   
 ### Project Elemments:  
 - Dropdown menu which allows users to toggle between selections of: 
@@ -97,4 +98,19 @@ displaying the data in the map and creating popup windows. The distribution of t
 We anticipate that it could be difficult to bring the data into the map as a dataframe, and also anticipate difficulties surrounding ensuring the map and boxes
 display correctly once the page is loaded. We hope that once the project is completed it will have a meaningful impact on bike and pedestrian advocacy across Massachusetts.
 
+## Tools & Techniques not Covered in Course Materials
+
+![](images/new_css.png)
+![](images/new_python.png)
+
 ## Team Roles
+- Kas Green
+  - CSS
+  - Drop down menus
+- Zainab Farid
+  - Plugins
+  - Graphics
+  - Presentations
+- Tom Francis
+  - Data management
+  - Javascript selection
