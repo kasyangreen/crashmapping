@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Map | Home</title>
-    <!-- Leaflet map css -->
+    <!-- Leaflet map css-->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
      crossorigin=""/>
@@ -19,6 +19,13 @@
     <link rel="stylesheet" type="text/css" href="css/header-styles.css">
     <link rel="stylesheet" type="text/css" href="css/popup-box.css">
     <link rel="stylesheet" type="text/css" href="css/body.css">
+    <!--opacity control plugin-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.2/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.3.2/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-transparency@latest/leaflet-transparency.js"></script>
+    <!--full-screen toggle-->
+    <link href='Leaflet.fullscreen-gh-pages/dist/leaflet.fullscreen.css' rel='stylesheet' />
+    <script src='Leaflet.fullscreen-gh-pages/dist/Leaflet.fullscreen.js'></script>
     <!-- dropdown button functions -->
     <script>
       function nextStep() {
@@ -872,7 +879,43 @@
 <script src=js/popup-box.js></script>
 <script>
   const bellyButton = { lat: 42.08, lng: -71.67 };  // Center of MA
-  //  traffic layer test
+
+  var opts = {
+    otmLayer: {
+      url: 'https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
+      options: {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      	subdomains: 'abcd',
+      	maxZoom: 20
+      },
+    },
+    trafficLayer: {
+      url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+      options: {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+      	maxZoom: 20
+      },
+    },
+    opacityBaseControl: {
+      options: {
+        sliderImageUrl:"",
+        backgroundColor: "rgba(0, 0, 0, 0.9)",
+        opacity: 1,
+        position: 'topleft'
+      },
+    },
+    opacityOverlayControl: {
+      options: {
+        sliderImageUrl: "images/opacity-slider2.png",
+        backgroundColor: "rgba(229, 227, 223, 0.9)",
+        opacity: 1,
+        position: 'topleft'
+      },
+    },
+  };
+
+  //  traffic layer test - there is a permission issue with this layer
   var traffic_layer = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?pk.eyJ1IjoiemFpbmFiZmFyaWQiLCJhIjoiY2t2MmhjdTVrODZjejJ6bW44M2sxb3huciJ9.c9VkMw-9GGC_82nFGsDLDw', {
   	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
             '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
@@ -894,8 +937,20 @@
 	subdomains: 'abcd',
 	maxZoom: 20
   });
-  var map = L.map("mapid").setView(bellyButton, 9);
+  var map = L.map("mapid", opts.map).setView(bellyButton, 9);
   CartoDB_DarkMatterNoLabels.addTo(map);
+
+  var layer = new L.TileLayer(opts.otmLayer.url, opts.otmLayer.options);
+  var overlay = new L.TileLayer(opts.trafficLayer.url, opts.trafficLayer.options);
+  var controlBaseOpacity = new L.Control.OpacitySlider(null, opts.opacityBaseControl.options);
+  var controlOverlayOpacity = new L.Control.OpacitySlider(overlay, opts.opacityOverlayControl.options);
+
+  controlBaseOpacity.addTo(map);   // keeps space open for a label above Opacity Control
+  controlOverlayOpacity.addTo(map);
+
+  layer.addTo(map);
+  map.addControl(new L.Control.Fullscreen());
+
 </script>
 <script src=js/leaflet.popups.js></script>
 </html>
