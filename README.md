@@ -1,8 +1,7 @@
-# **crashmapping**
-Repository for final project of Web Mapping, Fall 2021
+# **Mapping Incidents of Traffic Violence across MA**
+Wab Mapping & Open Source GIS | Fall 2021
 -----------------------------------------------------------------------------------------------
-## WEB MAPPING & OPEN SOURCE GIS | FALL 2021
-### INSTRUCTOR: PROFESSOR KORDE
+### Instructor: Professor Korde
 ### Tom Francis, Zainab Farid, and Kasyan Green
 
 ## Introduction
@@ -123,7 +122,8 @@ We faced many challenges along the way, but feel that the final map we created i
 
 ### Tools & Techniques not Covered in Course Materials
 
-Root: CSS pseudo code was used to insure a consistent palette throughout the site 
+Root: CSS pseudo code was used to insure a consistent palette throughout the website
+<br>
 <img src="images/new_css.png"
      alt="CSS pseudo-class"
      style="float: left; 
@@ -139,7 +139,7 @@ Javascript syntax for calling a script from inside another script
 <img src="images/new_javascript.png"
      alt="Javasript code"
      style="float: left; 
-     height: 400px;" />     
+     height: 300px;" />     
 
 ## Team Roles
 - Kas Green
