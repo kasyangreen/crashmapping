@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Map | Home</title>
-    <!-- Leaflet map css -->
+    <!-- Leaflet map css-->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
      crossorigin=""/>
@@ -886,17 +886,15 @@
       options: {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       	subdomains: 'abcd',
-      	maxZoom: 20,
+      	maxZoom: 20
       },
     },
     trafficLayer: {
-      url: 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?pk.eyJ1IjoiemFpbmFiZmFyaWQiLCJhIjoiY2t2MmhjdTVrODZjejJ6bW44M2sxb3huciJ9.c9VkMw-9GGC_82nFGsDLDw',
+      url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
       options: {
-        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-                '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-                'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-        id: 'mapbox.mapbox-traffic-v1',
-        maxZoom: 18,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+      	maxZoom: 20
       },
     },
     opacityBaseControl: {
@@ -904,19 +902,27 @@
         sliderImageUrl:"images/opacity-slider2.png",
         backgroundColor: "rgba(0, 0, 0, 0.9)",
         opacity: 1,
-        position: 'topleft',
-      }
+        position: 'topleft'
+      },
     },
     opacityOverlayControl: {
       options: {
         sliderImageUrl: "images/opacity-slider2.png",
         backgroundColor: "rgba(229, 227, 223, 0.9)",
         opacity: 0.75,
-        position: 'topleft',
-      }
+        position: 'topleft'
+      },
     },
   };
 
+  //  traffic layer test - there is a permission issue with this layer
+  var traffic_layer = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?pk.eyJ1IjoiemFpbmFiZmFyaWQiLCJhIjoiY2t2MmhjdTVrODZjejJ6bW44M2sxb3huciJ9.c9VkMw-9GGC_82nFGsDLDw', {
+  	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+            '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+            'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+  	id: 'mapbox.mapbox-traffic-v1',
+  	maxZoom: 18
+  });
 
   //  basemap with labels
   var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {

@@ -19,9 +19,6 @@
     <link rel="stylesheet" type="text/css" href="css/header-styles.css">
     <link rel="stylesheet" type="text/css" href="css/popup-box.css">
     <link rel="stylesheet" type="text/css" href="css/body.css">
-    <!--full-screen toggle-->
-    <link href='Leaflet.fullscreen-gh-pages/dist/leaflet.fullscreen.css' rel='stylesheet' />
-    <script src='Leaflet.fullscreen-gh-pages/dist/Leaflet.fullscreen.js'></script>
     <!-- dropdown button functions -->
     <script>
       function nextStep() {
@@ -875,6 +872,15 @@
 <script src=js/popup-box.js></script>
 <script>
   const bellyButton = { lat: 42.08, lng: -71.67 };  // Center of MA
+  //  traffic layer test
+  var traffic_layer = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?pk.eyJ1IjoiemFpbmFiZmFyaWQiLCJhIjoiY2t2MmhjdTVrODZjejJ6bW44M2sxb3huciJ9.c9VkMw-9GGC_82nFGsDLDw', {
+  	attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+            '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+            'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+  	id: 'mapbox.mapbox-traffic-v1',
+  	maxZoom: 18
+  });
+
   //  basemap with labels
   var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
   	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -890,8 +896,6 @@
   });
   var map = L.map("mapid").setView(bellyButton, 9);
   CartoDB_DarkMatterNoLabels.addTo(map);
-
-  map.addControl(new L.Control.Fullscreen());
 </script>
 <script src=js/leaflet.popups.js></script>
 </html>
