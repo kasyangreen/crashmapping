@@ -1,8 +1,7 @@
-# **crashmapping**
-Repository for final project of Web Mapping, Fall 2021
+# **Mapping Incidents of Traffic Violence across MA**
+Wab Mapping & Open Source GIS | Fall 2021
 -----------------------------------------------------------------------------------------------
-## WEB MAPPING & OPEN SOURCE GIS | FALL 2021
-### INSTRUCTOR: PROFESSOR KORDE
+### Instructor: Professor Korde
 ### Tom Francis, Zainab Farid, and Kasyan Green
 
 ## Introduction
@@ -82,7 +81,7 @@ layers that display real-time traffic visualization.
 
 ### Expected Project Results  
   
-This map can become an invaluable resource for a multitude of organizations working across Massachusetts such as the Massachusetts Vision Zero Coalition. 
+This map can become a resource for a multitude of organizations working across Massachusetts such as the Massachusetts Vision Zero Coalition. 
 This organization currently hosts its own version of a fatalities map, however the organization is using a simple google map which is hosted on their
 website and restricted by the number of points that can be included. Our version will enable an unlimited number of points to be added, and add additional
 functionality to the map, such as being able to see results by a particular region of the state and zoom straight into this area. Furthermore, they will
@@ -99,39 +98,32 @@ We anticipate that it could be difficult to bring the data into the map as a dat
 display correctly once the page is loaded. We hope that once the project is completed it will have a meaningful impact on bike and pedestrian advocacy across Massachusetts.
 
 ### Delivered Project Elements:  
-- Dropdown menu which allows users to toggle between selections of: 
-  - counties
-  - biking fatalities or pedestrian fatalities
-  - day of the week 
-- Pop-up windows that display information about the nature of the fatality that we will obtain from the csv file (i.e link to the media report, time of crash, name, age, etc.)
-- A full-screen toggle that will allow users to visualize these fatalities on a bigger scale
-- A Leaflet opacity control plugin that will allow users to choose between displaying only the ESRI dark basemap layer or the real-time traffic visualization Mapbox layer
-- A timeline slider that will allow users to visualize traffic fatalities from the different years that Visions Zero has accumulated data from
-- A Leaflet GeoSearch plugin which can be employed by users to lookup traffic fatalities at locations within Massachusetts that pique their interest 
-- A Leaflet Routing Machine plugin that allows users to view routes that pique their interest and witness what traffic fatalities have occurred on those routes 
-- Python utilities to process new data into json and geoJSON formats 
+- We succeeded in creating:
+  - Dropdown menu which allows users to toggle between selections of: 
+    - counties
+    - biking fatalities or pedestrian fatalities
+    - day of the week 
+  - Pop-up windows that display information about the nature of the fatality that we will obtain from the csv file (i.e link to the media report, time of crash, name, age, etc.)
+  - A full-screen toggle that will allow users to visualize these fatalities on a bigger scale
+  - A Leaflet GeoSearch plugin which can be employed by users to lookup traffic fatalities at locations within Massachusetts that pique their interest 
+- For the remaining points we either made adjustments to our intial proposal, or were unable to reach our ambition for a particular reason:
+  - We used the Leaflet opacity control plugin that, however adjusted our initial plans, and decided to use it to adjust the placename markers, rather than traffic. This enables users to show additional information about the region they're looking at. It also gave us the opportunity to explore the plugin itslef; something we hadn't used in the class so far.
+  - For the timeline slider, we decided that it was redundant, since users are already able to select the year they would like to review using the dropdown boxes.
+  - For the routing machine, we determined that including this might suggest to users that routes without fatalities are more safe, and draw the attention away from the main point we are trying to make; which is to be able to use this as an advocacy tool.
+  - Tom plans to include Python utilities to process new data into json and geoJSON formats once the project is passed onto the other charities. This was the final objective in our list.
 
 ### Delivered Project Results  
   
-This map can become an invaluable resource for a multitude of organizations working across Massachusetts such as the Massachusetts Vision Zero Coalition. 
-This organization currently hosts its own version of a fatalities map, however the organization is using a simple google map which is hosted on their
-website and restricted by the number of points that can be included. Our version will enable an unlimited number of points to be added, and add additional
-functionality to the map, such as being able to see results by a particular region of the state and zoom straight into this area. Furthermore, they will
-be able to filter their results using a toggle window on the right hand side of the map.
+We are proud to have created a map which can become an invaluable resource for organizations working across Massachusetts such as the Massachusetts Vision Zero Coalition. One of our primary achievements is that organizers can create an unlimited number of points to be added. We are also proud to have added filters, opacity sliders, fullscreen capability, and geocoding abilities. These are all features the previous map did not contain. Furthermore, users can filter their results using a toggle window on the right hand side of the map.
   
-As talked about previously, the map toggle box will include filters to control factors such as year, region, and type (i.e. pedestrian or bicyclist fatality).
-The lefthand box will contain overall information including an introduction to the data, and how to use the map. Note in appendix 1 that the background of the
-div boxes will remain slightly transparent so that the map can be seen beneath them, and a dark colored map will be used to help our popup windows and text to stand out.
-Appendix 1 also helps to visualise how the work can be divided evenly between group members, for example the html and overall format of the page could be handled by one
-person, whilst the map could be handled by the other two, which could be divided into one person who works on importing the data, whilst the other is more focussed on
-displaying the data in the map and creating popup windows. The distribution of the workload can be fluid based on how long different elements of the webmap take.  
-   
-We anticipate that it could be difficult to bring the data into the map as a dataframe, and also anticipate difficulties surrounding ensuring the map and boxes
-display correctly once the page is loaded. We hope that once the project is completed it will have a meaningful impact on bike and pedestrian advocacy across Massachusetts.
+We were able to successfully manipulate our CSS design to make the div boxes slightly transparent so that the map can be seen beneath them. We were also able to use CSS variables so that once the map is handed on to be used by other organizations, they can adjust the fonts and colors in one place to match their companies style and color format.
+
+We faced many challenges along the way, but feel that the final map we created is effective in its purpose of traffic violence advocacy, and is simple to use for people unfamiliar with GIS. From an aesthetically/functionally speaking,
 
 ### Tools & Techniques not Covered in Course Materials
 
-Root: CSS pseudo code was used to insure a consistent palette throughout the site 
+Root: CSS pseudo code was used to insure a consistent palette throughout the website
+<br>
 <img src="images/new_css.png"
      alt="CSS pseudo-class"
      style="float: left; 
@@ -147,11 +139,11 @@ Javascript syntax for calling a script from inside another script
 <img src="images/new_javascript.png"
      alt="Javasript code"
      style="float: left; 
-     height: 400px;" />     
+     height: 300px;" />     
 
 ## Team Roles
 - Kas Green
-  - CSS
+  - CSS and initial HTML website design
   - Drop down menus
 - Zainab Farid
   - Plugins
