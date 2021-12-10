@@ -142,6 +142,12 @@ Python scripts were used to format Excel spreadsheet based data as json and geoJ
      alt="Python code"
      style="float: left; 
      height: 400px;" />
+     
+Javascript syntax for calling a script from inside another script
+<img src="images/new_javascript.png"
+     alt="Javasript code"
+     style="float: left; 
+     height: 400px;" />     
 
 ## Team Roles
 - Kas Green
