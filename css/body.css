@@ -59,6 +59,17 @@ label{
     font-family: var(--body-font);
 }
 
+.slider-label{
+  opacity: 1;
+  float: left;
+  z-index: 10;
+  position: relative;
+  right: 0;
+  left: 45;
+  top: 160;
+  display: inline-block;
+}
+
 .info-window a{
     position: relative;
     border-radius: 5px;
